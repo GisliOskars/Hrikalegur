@@ -9,14 +9,14 @@
   </head>
 <div id="navbar">
 <ul>
-  <li><a href="forsida.html">Hrikalegur</a></li>
-  <li><a href="skeidklukka.html">Skeiðklukka</a></li>
+  <li><a href="index.html">Hrikalegur</a></li>
+  <li><a href="stopwatch.html">Skeiðklukka</a></li>
 </ul>
 </div>
- 
   <body class="teljari">
-   
+     
     <div class="container">
+      
       <h1>Sett: <a id="clicks">0</a></h1>
       <button id="plus" type="button" onclick="hello()">+1</button>
       <button id="minus" type="button" onclick="bye()">-1</button>
@@ -38,11 +38,31 @@
         clicks = 0;
         document.getElementById("clicks").innerHTML = clicks;
     };
-      </script>
-    </div>
-    </body>
+    
 
- <body onload=display_ct();>
+    var clicks = 0;
+    function hello() {
+        clicks += 1;
+        document.getElementById("clicks").innerHTML = clicks;
+    };
+    function bye() {
+        clicks += -1;
+        document.getElementById("clicks").innerHTML = clicks;
+    };
+     function reset() {
+        clicks = 0;
+        document.getElementById("clicks").innerHTML = clicks;
+    };
+    
+    function display_c(){
+        var refresh=1000; // Refresh rate in milli seconds
+        mytime=setTimeout('display_ct()',refresh)
+     }
+     </script>
+    </div>
+    </body2>
+
+  <body onload=display_ct();>
     <span id='ct' ></span>
   </body>
     <script>
@@ -59,6 +79,5 @@
        display_c();
      }
     </script> 
- 
 
 </html>
