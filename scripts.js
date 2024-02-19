@@ -1,3 +1,25 @@
+
+    var clicks = 0;
+    function hello() {
+        clicks += 1;
+        document.getElementById("clicks").innerHTML = clicks;
+    };
+    function bye() {
+        clicks += -1;
+        document.getElementById("clicks").innerHTML = clicks;
+    };
+     function reset() {
+        clicks = 0;
+        document.getElementById("clicks").innerHTML = clicks;
+    };
+   
+
+
+
+
+
+
+
 /*! NoSleep.min.js v0.12.0 - git.io/vfn01 - Rich Tibbett - MIT license */
 !(function (A, e) {
   "object" == typeof exports && "object" == typeof module
