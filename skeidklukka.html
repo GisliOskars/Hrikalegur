@@ -6,13 +6,52 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Hrikalegur - skeiðklukka</title>
   </head>
-  <container id="navbar">
-    <ul>
-      <li><a href="index.html">Hrikalegur</a></li>
-      <li><a href="stopwatch.html">Skeiðklukka</a></li>
-    </ul>
-  </container>
+<container id="navbar">
+<ul>
+  <li><a href="forsida.html">Hrikalegur</a></li>
+  <li><a href="skeidklukka.html">Skeiðklukka</a></li>
 
+</ul>
+</container>
+  <style>
+    ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+} 
+     .timari {
+      width: 100%;
+      height: 25vh;
+      background-position: center;
+      background-size: cover;
+      display: center;
+      padding: 2rem;
+      align-items: top;
+      justify-content: center;
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    }
+
+    .container2 {
+      padding: 1rem;
+      max-width: 250px;
+      text-align: center;
+      position: relative;
+      border-radius: 10px;
+      background-color: rgba(0, 0, 0, 0.6);
+    }
+        button {
+      padding: 0.4rem 1rem;
+      margin: 0 0.2rem;
+      border-radius: 10px;
+      border: 1px solid #f8f8f8;
+      margin-top: 0.7rem 
+    }
+
+    button:hover {
+      background-color: rgba(0, 0, 0, 0.4);
+      color: #f8f8f8;
+    }
+  </style> 
   <body class="timari">
     <div class="container2" allow="screen-wake-lock">
       <h1>Tími</h1>
@@ -27,13 +66,96 @@
       <button id="reset">Reset</button>
     </div>
 
-    <script src="scripts.js">
-     
+  <script>
+    window.onload = function () {
+      let minutes = 0;
+      let seconds = 0;
+      let tens = 0o0;
+      let appendMinutes = document.querySelector('#minutes');
+      let appendSeconds = document.querySelector('#seconds');
+      let appendTens = document.querySelector('#tens');
+      let startBtn = document.querySelector('#start');
+      let stopBtn = document.querySelector('#stop');
+      let resetBtn = document.querySelector('#reset');
+      let Interval;
+
+      const startTimer = () => {
+        tens++;
+        if (tens <= 9) {
+          appendTens.innerHTML = '0' + tens;
+        }
+        if (tens > 9) {
+          appendTens.innerHTML = tens;
+        }
+
+        if (tens > 99) {
+          seconds++;
+          appendSeconds.innerHTML = '0' + seconds;
+          tens = 0;
+          appendTens.innerHTML = '0' + 0;
+        }
+
+        if (seconds > 9) {
+          appendSeconds.innerHTML = seconds;
+        }
+
+        if (seconds > 59) {
+          minutes++;
+          appendMinutes.innerHTML = '0' + minutes;
+          seconds = 0;
+          appendSeconds.innerHTML = '0' + 0;
+        }
+      };
+
+      startBtn.onclick = () => {
+        clearInterval(Interval);
+        Interval = setInterval(startTimer, 10);
+      };
+
+      stopBtn.onclick = () => {
+        clearInterval(Interval);
+      };
+
+      resetBtn.onclick = () => {
+        clearInterval(Interval);
+        tens = '00';
+        seconds = '00';
+        minutes = '00';
+        appendTens.innerHTML = tens;
+        appendSeconds.innerHTML = seconds;
+        appendMinutes.innerHTML = minutes;
+      };
+  };
+  </script>
+
   </body>
 
-  <body>
+<body>
     <script src="scripts.js"></script>
     <input type="button" id="toggle" value="Wake Lock is disabled" />
+    <script>
+      var noSleep = new NoSleep();
 
+      var wakeLockEnabled = false;
+      var toggleEl = document.querySelector("#toggle");
+      toggleEl.addEventListener(
+        "click",
+        function () {
+          if (!wakeLockEnabled) {
+            noSleep.enable(); // keep the screen on!
+            wakeLockEnabled = true;
+            toggleEl.value = "Wake Lock is enabled";
+            document.body.style.backgroundColor = "#1e87f0";
+          } else {
+            noSleep.disable(); // let the screen turn off.
+            wakeLockEnabled = false;
+            toggleEl.value = "Wake Lock is disabled";
+            document.body.style.backgroundColor = "";
+          }
+        },
+        false
+      );
+    </script>
   </body>
-</html>
+
+  </html>
