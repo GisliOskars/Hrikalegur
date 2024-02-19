@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="styles.css">
+    <title>Hrikalegur</title>
+  </head>
+<div id="navbar">
+<ul>
+  <li><a href="forsida.html">Hrikalegur</a></li>
+  <li><a href="skeidklukka.html">Skeiðklukka</a></li>
+</ul>
+</div>
+ 
+  <body class="teljari">
+    <script>
+
+    var clicks = 0;
+    function hello() {
+        clicks += 1;
+        document.getElementById("clicks").innerHTML = clicks;
+    };
+    function bye() {
+        clicks += -1;
+        document.getElementById("clicks").innerHTML = clicks;
+    };
+     function reset() {
+        clicks = 0;
+        document.getElementById("clicks").innerHTML = clicks;
+    };
+    </script>
+    <div class="container">
+      <h1>Sett: <a id="clicks">0</a></h1>
+      <button id="plus" type="button" onclick="hello()">+1</button>
+      <button id="minus" type="button" onclick="bye()">-1</button>
+      <button id="clear" type= "button" onclick="reset()">Reset</button>
+      <button id="klukka" onclick="getElementById('demo').innerHTML=Date()">Taka tímann</button>
+      <p id="demo"></p> 
+    </div>
+    </body>
+
+  <body onload=display_ct();>
+    <span id='ct' ></span>
+  </body>
+  <script>
+    function display_c(){
+        var refresh=1000; // Refresh rate in milli seconds
+        mytime=setTimeout('display_ct()',refresh)
+     }
+     
+     function display_ct() {
+       var CDate = new Date()
+       var NewDate=CDate.toDateString(); 
+       NewDate = NewDate + " - " + CDate.toLocaleTimeString();
+       document.getElementById('ct').innerHTML = NewDate;
+       display_c();
+     }
+  </script> 
+
+</html>
