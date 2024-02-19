@@ -5,6 +5,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <link rel="stylesheet" href="styles.css">
+    <script src="scripts.js">
     <title>Hrikalegur</title>
   </head>
 <div id="navbar">
@@ -15,22 +16,7 @@
 </div>
  
   <body class="teljari">
-    <script>
-
-    var clicks = 0;
-    function hello() {
-        clicks += 1;
-        document.getElementById("clicks").innerHTML = clicks;
-    };
-    function bye() {
-        clicks += -1;
-        document.getElementById("clicks").innerHTML = clicks;
-    };
-     function reset() {
-        clicks = 0;
-        document.getElementById("clicks").innerHTML = clicks;
-    };
-    </script>
+   
     <div class="container">
       <h1>Sett: <a id="clicks">0</a></h1>
       <button id="plus" type="button" onclick="hello()">+1</button>
