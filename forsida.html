@@ -23,14 +23,42 @@
       <button id="clear" type= "button" onclick="reset()">Reset</button>
       <button id="klukka" onclick="getElementById('demo').innerHTML=Date()">Taka tímann</button>
       <p id="demo"></p> 
-      <script src="scripts.js">
+      <script>
+        
+    var clicks = 0;
+    function hello() {
+        clicks += 1;
+        document.getElementById("clicks").innerHTML = clicks;
+    };
+    function bye() {
+        clicks += -1;
+        document.getElementById("clicks").innerHTML = clicks;
+    };
+     function reset() {
+        clicks = 0;
+        document.getElementById("clicks").innerHTML = clicks;
+    };
+      </script>
     </div>
     </body>
 
-  <body onload=display_ct();>
+ <body onload=display_ct();>
     <span id='ct' ></span>
-      <script src="scripts.js">
   </body>
+    <script>
+    function display_c(){
+        var refresh=1000; // Refresh rate in milli seconds
+        mytime=setTimeout('display_ct()',refresh)
+     }
+     
+     function display_ct() {
+       var CDate = new Date()
+       var NewDate=CDate.toDateString(); 
+       NewDate = NewDate + " - " + CDate.toLocaleTimeString();
+       document.getElementById('ct').innerHTML = NewDate;
+       display_c();
+     }
+    </script> 
  
 
 </html>
