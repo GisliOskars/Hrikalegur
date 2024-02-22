@@ -63,12 +63,17 @@
     </div>
     </body2>
   <style>
-    body 
   p { color: black;
-     
-   
   }
   </style>
+<body>
+  <div id="nidurteljari">
+  <input type="text" id="min">
+  <button id="btn">Telja niður</button>
+    <p id="time">
+    Tími
+  </p>
+  </div>
   <script>var myCounter;
 
 //button
@@ -94,37 +99,9 @@ function timer() {
       time.innerHTML = i;
     }
 
-  }, 1000);}
-    ;</script>
-</body>
-<div>-</div>
-<button>Start</button>
+  }, 1000);
+};</script>
 
-<script>
-const out = document.querySelector("div")
-const btn = document.querySelector("button")
-
-let timer, startTime;
-
-btn.addEventListener("click", () => {
-  // If timer is started, reset
-  if (timer) {
-    clearInterval(timer)
-  }
-  startTime = Date.now()
-  localStorage.setItem("startTime", startTime)
-
-  timer = setInterval(() => {
-    const now = Date.now()
-    const millis = now - Number(localStorage.startTime)
-    const seconds = Math.floor((millis / 1000) % 60)
-    const minutes = Math.floor((millis / 1000 / 60) % 60)
-    out.innerText = minutes + ":" + seconds
-  }, 1000)
-
-  console.log("Started interval timer", timer)
-})
-</script>
 </body>
   <body onload=display_ct();>
     <span id='ct' ></span>
