@@ -67,58 +67,33 @@
   }
   </style>
 <body>
-  <div id="nidurteljari">
-  <input type="text" id="min">
-  <button id="btn">Telja niður</button>
-    <p id="time">
-    Tími
-  </p>
-  </div>
-  <script>var myCounter;
+<div class="telja">-</div>
+  <button class="teljast">Start</button>
 
-//button
-let button = document.getElementById('btn');
-button.addEventListener('click', timer);
+  <script>
+  const out = document.querySelector(".telja")
+  const btn = document.querySelector(".teljast")
 
-//Seconds variable
-let seconds = 60;
+  let timer, startTime;
 
-function timer() {
-  clearInterval(myCounter); //to stop counter if already counting.
-  let seconds = parseInt(document.getElementById('min').value);
-  var i = seconds;
-  myCounter = setInterval(function() {
-    if (i < 0) {
-      console.log('completed');
-      clearInterval(myCounter);
-
-    } else {
-      console.log(i--);
-      console.log('still going');
-      let time = document.getElementById('time');
-      time.innerHTML = i;
+  btn.addEventListener("click", () => {
+    // If timer is started, reset
+    if (timer) {
+      clearInterval(timer)
     }
+    startTime = Date.now()
+    localStorage.setItem("startTime", startTime)
 
-  }, 1000);
-};</script>
+    timer = setInterval(() => {
+      const now = Date.now()
+      const millis = now - Number(localStorage.startTime)
+      const seconds = Math.floor((millis / 1000) % 60)
+      const minutes = Math.floor((millis / 1000 / 60) % 60)
+      out.innerText = minutes + ":" + seconds
+    }, 1000)
 
-</body>
-  <body onload=display_ct();>
-    <span id='ct' ></span>
-  </body>
-    <script>
-    function display_c(){
-        var refresh=1000; // Refresh rate in milli seconds
-        mytime=setTimeout('display_ct()',refresh)
-     }
-     
-     function display_ct() {
-       var CDate = new Date()
-       var NewDate=CDate.toDateString(); 
-       NewDate = NewDate + " - " + CDate.toLocaleTimeString();
-       document.getElementById('ct').innerHTML = NewDate;
-       display_c();
-     }
-    </script> 
+    console.log("Started interval timer", timer)
+  })
+  </script>
 
 </html>
