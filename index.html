@@ -62,7 +62,49 @@
      </script>
     </div>
     </body2>
+  <style>
+    body 
+  p { color: black;
+     
+   
+  }
+  </style>
+<body>
+  <div id="nidurteljari">
+  <input type="text" id="min">
+  <button id="btn">Telja niður</button>
+    <p id="time">
+    Tími
+  </p>
+  </div>
+  <script>var myCounter;
 
+//button
+let button = document.getElementById('btn');
+button.addEventListener('click', timer);
+
+//Seconds variable
+let seconds = 60;
+
+function timer() {
+  clearInterval(myCounter); //to stop counter if already counting.
+  let seconds = parseInt(document.getElementById('min').value);
+  var i = seconds;
+  myCounter = setInterval(function() {
+    if (i < 0) {
+      console.log('completed');
+      clearInterval(myCounter);
+
+    } else {
+      console.log(i--);
+      console.log('still going');
+      let time = document.getElementById('time');
+      time.innerHTML = i;
+    }
+
+  }, 1000);
+};</script>
+</body>
   <body onload=display_ct();>
     <span id='ct' ></span>
   </body>
