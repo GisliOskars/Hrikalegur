@@ -14,46 +14,32 @@
   <li><a href="nidurteljari.html">Niðurteljari</a></li>
 </ul>
 </div>
-  <style>
-    body 
-  p { color: black;
-     
-   
+<div>-</div>
+<button>Start</button>
+
+<script>
+const out = document.querySelector("div")
+const btn = document.querySelector("button")
+
+let timer, startTime;
+
+btn.addEventListener("click", () => {
+  // If timer is started, reset
+  if (timer) {
+    clearInterval(timer)
   }
-  </style>
-<body>
-  <div id="nidurteljari">
-  <input type="text" id="min">
-  <button id="btn">Telja niður</button>
-    <p id="time">
-    Tími
-  </p>
-  </div>
-  <script>var myCounter;
+  startTime = Date.now()
+  localStorage.setItem("startTime", startTime)
 
-//button
-let button = document.getElementById('btn');
-button.addEventListener('click', timer);
+  timer = setInterval(() => {
+    const now = Date.now()
+    const millis = now - Number(localStorage.startTime)
+    const seconds = Math.floor((millis / 1000) % 60)
+    const minutes = Math.floor((millis / 1000 / 60) % 60)
+    out.innerText = minutes + ":" + seconds
+  }, 1000)
 
-//Seconds variable
-let seconds = 60;
-
-function timer() {
-  clearInterval(myCounter); //to stop counter if already counting.
-  let seconds = parseInt(document.getElementById('min').value);
-  var i = seconds;
-  myCounter = setInterval(function() {
-    if (i < 0) {
-      console.log('completed');
-      clearInterval(myCounter);
-
-    } else {
-      console.log(i--);
-      console.log('still going');
-      let time = document.getElementById('time');
-      time.innerHTML = i;
-    }
-
-  }, 1000);
-};</script>
+  console.log("Started interval timer", timer)
+})
+</script>
 </body>
