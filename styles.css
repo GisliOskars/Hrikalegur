@@ -8,6 +8,10 @@
   margin-top: 75px;
 }
 
+.navbar-brand {
+  margin-left: 10px;
+}
+
 .telja {
   font-size: medium;
 }
