@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="styles.css" />
+    <link
+      href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css"
+      rel="stylesheet"
+      integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH"
+      crossorigin="anonymous"
+    />
+    <title>Hrikalegur</title>
+  </head>
+
+  <nav class="navbar bg-dark border-bottom border-body" data-bs-theme="dark">
+    <a class="navbar-brand" href="index.html"><b>Hrikalegur</b></a>
+  </nav>
+
+  <body>
+    <div class="container-sm">
+      <h1>Sett: <a id="clicks">0</a></h1>
+      <button
+        class="btn btn-dark btn-sm"
+        id="plus"
+        type="button"
+        onclick="hello()"
+      >
+        +1
+      </button>
+      <button
+        class="btn btn-dark btn-sm"
+        id="minus"
+        type="button"
+        onclick="bye()"
+      >
+        -1
+      </button>
+      <button
+        class="btn btn-dark btn-sm"
+        id="clear"
+        type="button"
+        onclick="reset()"
+      >
+        Endurstilla
+      </button>
+    </div>
+
+    <div class="container-sm">
+       <h1>Tími:<a class="telja"><b>00:00</b><a></h1>
+      <button class="btn btn-dark btn-sm teljast">Byrja</button>
+    </div>
+    <script src="scripts3.js"></script>
+    <script
+      src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"
+      integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz"
+      crossorigin="anonymous"
+    ></script>
+  </body>
+</html>

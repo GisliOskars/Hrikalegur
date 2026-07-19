@@ -1,3 +1,5 @@
-# hrikalegur
-Verkefni 1.
-Fyrstu skref í að læra forritun. Hugmyndin er að útbúa vefsíðu, og síðar meir smáforrit, til þess að telja sett á lyftingaæfingum og taka tímann í hvíld milli setta.
+# Hrikalegur
+
+Frumgerð að vöktunarvef fyrir umhverfis-, skipulags- og byggingarrétt.
+
+Þetta er fyrsta viðmótsfrumgerð. Færslurnar eru sýnigögn og verða síðar tengdar sjálfvirkri vöktun opinberra heimilda. Eldri æfingateljari verkefnisins er varðveittur undir `/old/` en enginn tengill á hann er sýndur á aðalvefnum.
