@@ -20,6 +20,15 @@ function escapeHtml(value) {
   return String(value ?? "").replace(/[&<>"']/g, (character) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", "\"": "&quot;", "'": "&#39;" })[character]);
 }
 
+function formatIcelandicDate(value) {
+  const months = ["janúar", "febrúar", "mars", "apríl", "maí", "júní", "júlí", "ágúst", "september", "október", "nóvember", "desember"];
+  const localMatch = String(value || "").match(/^(\d{1,2})\.(\d{1,2})\.(\d{4})$/);
+  if (localMatch) return `${Number(localMatch[1])}. ${months[Number(localMatch[2]) - 1]} ${localMatch[3]}`;
+  const date = new Date(value);
+  if (Number.isNaN(date.valueOf())) return "Dagsetning ótilgreind";
+  return `${date.getUTCDate()}. ${months[date.getUTCMonth()]} ${date.getUTCFullYear()}`;
+}
+
 function render() {
   const query = search.value.trim().toLocaleLowerCase("is");
   const filtered = stories.filter((story) => {
@@ -65,8 +74,9 @@ async function loadMonitoring() {
   const available = sources.filter(Boolean);
   if (available.length) {
     const imported = available.flatMap((data) => data.items || []).sort((a, b) => (b.publishedAt || "").localeCompare(a.publishedAt || "")).map((item) => {
-      const published = item.publishedAt ? new Intl.DateTimeFormat("is-IS", { day: "numeric", month: "long", year: "numeric" }).format(new Date(item.publishedAt)) : "Dagsetning ótilgreind";
-      return { ...item, date: item.deadline ? `${published} · frestur ${item.deadline}` : published };
+      const published = item.publishedAt ? formatIcelandicDate(item.publishedAt) : "Dagsetning ótilgreind";
+      const deadline = item.deadline ? formatIcelandicDate(item.deadline) : "";
+      return { ...item, date: deadline ? `${published} · frestur ${deadline}` : published };
     });
     const known = new Set(imported.map((item) => item.url));
     stories = [...imported, ...stories.filter((item) => !known.has(item.url))];

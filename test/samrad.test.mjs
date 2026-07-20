@@ -1,9 +1,10 @@
 import test from "node:test";
 import assert from "node:assert/strict";
 import { readFile } from "node:fs/promises";
-import { parseSamradFeed, validateSamrad } from "../scripts/samrad-lib.mjs";
+import { parseSamradDetail, parseSamradFeed, validateSamrad } from "../scripts/samrad-lib.mjs";
 
 const fixture = await readFile(new URL("./fixtures/samrad-feed.xml", import.meta.url), "utf8");
+const detailFixture = await readFile(new URL("./fixtures/samrad-detail.html", import.meta.url), "utf8");
 
 test("les Samráðsgáttarmál, frest og efnisorð", () => {
   const [item] = parseSamradFeed(fixture);
@@ -26,4 +27,13 @@ test("tekur gilt mál án dagsetningar úr opinbera RSS-straumnum", () => {
   const result = validateSamrad(parseSamradFeed(xml));
   assert.equal(result.accepted.length, 1);
   assert.equal(result.accepted[0].publishedAt, "");
+});
+
+test("auðgar mál með dagsetningu, fresti og lýsingu", () => {
+  const detail = parseSamradDetail(detailFixture, 4242);
+  assert.equal(detail.caseNumber, "S-42/2026");
+  assert.equal(detail.publishedAt, "2026-07-20T00:00:00.000Z");
+  assert.equal(detail.deadline, "2026-08-03T23:59:59.000Z");
+  assert.match(detail.summary, /framkvæmdaleyfum/);
+  assert.match(detail.tags, /virkjunarkostur/);
 });
