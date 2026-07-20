@@ -1,0 +1,9 @@
+{
+  "name": "hrikalegur",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "collect:uua": "node scripts/collect-uua.mjs",
+    "test": "node --test"
+  }
+}

@@ -1,0 +1,51 @@
+name: Dagleg UUA-vöktun
+
+on:
+  schedule:
+    - cron: "0 8 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: uua-daily-monitoring
+  cancel-in-progress: false
+
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Sækja vefinn
+        uses: actions/checkout@v4
+
+      - name: Setja upp Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: Keyra gæðapróf
+        run: npm test
+
+      - name: Sækja ný UUA-mál
+        run: npm run collect:uua
+
+      - name: Vista keyrsluskýrslu
+        uses: actions/upload-artifact@v4
+        with:
+          name: uua-report-${{ github.run_number }}
+          path: data/uua-report.json
+          retention-days: 14
+
+      - name: Birta aðeins ef málaskrá breyttist
+        run: |
+          if git diff --quiet -- data/uua.json; then
+            echo "Engin ný eða breytt UUA-mál."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/uua.json
+          git commit -m "Uppfæra daglega UUA-vöktun"
+          git push

@@ -1,0 +1,34 @@
+{
+  "ok": true,
+  "source": "UUA",
+  "sourceUrl": "https://uua.is/feed/",
+  "checkedAt": "2026-07-20T21:07:52.652Z",
+  "changed": true,
+  "counts": {
+    "received": 100,
+    "accepted": 98,
+    "new": 0,
+    "duplicates": 0,
+    "rejected": 2
+  },
+  "newItems": [],
+  "duplicates": [],
+  "rejected": [
+    {
+      "title": "Ársyfirlit 2025",
+      "url": "https://uua.is/arsyfirlit-2025/",
+      "reasons": [
+        "málsnúmer vantar",
+        "vefslóð vísar ekki beint í UUA-mál"
+      ]
+    },
+    {
+      "title": "Gleðilega hátíð",
+      "url": "https://uua.is/gledilega-hatid-5/",
+      "reasons": [
+        "málsnúmer vantar",
+        "vefslóð vísar ekki beint í UUA-mál"
+      ]
+    }
+  ]
+}
