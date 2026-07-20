@@ -1,4 +1,4 @@
-const stories = [
+let stories = [
   { category: "samrad", type: "Til samráðs", source: "Samráðsgátt", date: "13. júlí 2026", title: "Breytingar á reglugerðum vegna einföldunar eftirlits", summary: "Drög að breytingum á 57 reglugerðum á sviði hollustuhátta og mengunarvarna.", tags: "mengunarvarnir hollustuhættir eftirlit reglugerðir", url: "https://island.is/samradsgatt/mal/4260" },
   { category: "urskurdur", type: "Úrskurður", source: "UUA", date: "30. júní 2026", title: "UUA2605006 Borgarás", summary: "Kæra vegna dráttar á afgreiðslu kröfu um afturköllun byggingarleyfis og beitingu þvingunarúrræða.", tags: "byggingarleyfi afturköllun málshraði þvingunarúrræði", url: "https://uua.is/urleits/uua2605006-borgaras/" },
   { category: "loggjof", type: "Lög samþykkt", source: "Alþingi", date: "1. júní 2026", title: "Náttúruvernd, Vatnajökulsþjóðgarður og UUA", summary: "Samþykktar breytingar á lögum um náttúruvernd, Vatnajökulsþjóðgarð og úrskurðarnefnd umhverfis- og auðlindamála.", tags: "náttúruvernd Vatnajökulsþjóðgarður kæruheimild lög", url: "https://www.althingi.is/altext/157/s/1259.html" },
@@ -13,7 +13,12 @@ const feed = document.querySelector("#feed");
 const search = document.querySelector("#search");
 const count = document.querySelector("#result-count");
 const empty = document.querySelector("#empty-state");
+const dataStatus = document.querySelector("#data-status");
 let activeCategory = "all";
+
+function escapeHtml(value) {
+  return String(value ?? "").replace(/[&<>"']/g, (character) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", "\"": "&quot;", "'": "&#39;" })[character]);
+}
 
 function render() {
   const query = search.value.trim().toLocaleLowerCase("is");
@@ -24,9 +29,9 @@ function render() {
   });
 
   feed.innerHTML = filtered.map((story) => `
-    <a class="story" href="${story.url}" target="_blank" rel="noopener noreferrer">
-      <div class="story-meta">${story.type}<span class="story-source">${story.source} · ${story.date}</span></div>
-      <div><h3>${story.title}</h3><p>${story.summary} <strong>Reifun bíður yfirferðar.</strong></p></div>
+    <a class="story" href="${escapeHtml(story.url)}" target="_blank" rel="noopener noreferrer">
+      <div class="story-meta">${escapeHtml(story.type)}<span class="story-source">${escapeHtml(story.source)} · ${escapeHtml(story.date)}</span></div>
+      <div><h3>${escapeHtml(story.title)}</h3><p>${escapeHtml(story.summary)} <strong>Reifun bíður yfirferðar.</strong></p></div>
       <span class="story-arrow" aria-hidden="true">↗</span>
     </a>
   `).join("");
@@ -48,3 +53,20 @@ document.querySelector("#filter-toggle").addEventListener("click", (event) => {
   event.currentTarget.querySelector("span").textContent = isOpen ? "−" : "+";
 });
 render();
+
+async function loadUuaMonitoring() {
+  try {
+    const response = await fetch("./data/uua.json", { cache: "no-store" });
+    if (!response.ok) throw new Error("Gögn fundust ekki");
+    const data = await response.json();
+    const imported = (data.items || []).map((item) => ({ ...item, date: new Intl.DateTimeFormat("is-IS", { day: "numeric", month: "long", year: "numeric" }).format(new Date(item.publishedAt)) }));
+    const known = new Set(imported.map((item) => item.url));
+    stories = [...imported, ...stories.filter((item) => !known.has(item.url))];
+    dataStatus.textContent = `UUA-vöktun virk · ${imported.length} mál sótt ${new Intl.DateTimeFormat("is-IS", { dateStyle: "medium", timeStyle: "short" }).format(new Date(data.fetchedAt))}`;
+    render();
+  } catch {
+    dataStatus.textContent = "Sýnigögn · UUA-vöktun bíður næstu keyrslu";
+  }
+}
+
+loadUuaMonitoring();

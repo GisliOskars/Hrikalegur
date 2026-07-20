@@ -1,0 +1,524 @@
+{
+  "ok": true,
+  "source": "UUA",
+  "sourceUrl": "https://uua.is/feed/",
+  "checkedAt": "2026-07-20T20:50:42.064Z",
+  "counts": {
+    "received": 100,
+    "accepted": 98,
+    "new": 98,
+    "duplicates": 0,
+    "rejected": 2
+  },
+  "newItems": [
+    {
+      "id": "https://uua.is/urleits/uua2603014-lyngas/",
+      "title": "UUA2603014 Lyngás",
+      "url": "https://uua.is/urleits/uua2603014-lyngas/"
+    },
+    {
+      "id": "https://uua.is/urleits/uua2603015-skyggnisvegur/",
+      "title": "UUA2603015 Skyggnisvegur",
+      "url": "https://uua.is/urleits/uua2603015-skyggnisvegur/"
+    },
+    {
+      "id": "https://uua.is/urleits/uua2604008-thvingunarurraedi/",
+      "title": "UUA2604008 Þvingunarúrræði",
+      "url": "https://uua.is/urleits/uua2604008-thvingunarurraedi/"
+    },
+    {
+      "id": "https://uua.is/urleits/uua2606018-bjarkarlundur/",
+      "title": "UUA2606018 Bjarkarlundur",
+      "url": "https://uua.is/urleits/uua2606018-bjarkarlundur/"
+    },
+    {
+      "id": "https://uua.is/urleits/uua2606017-godahraun/",
+      "title": "UUA2606017 Goðahraun",
+      "url": "https://uua.is/urleits/uua2606017-godahraun/"
+    },
+    {
+      "id": "https://uua.is/urleits/uua2604013-hafnagata-2/",
+      "title": "UUA2604013 Hafnagata",
+      "url": "https://uua.is/urleits/uua2604013-hafnagata-2/"
+    },
+    {
+      "id": "https://uua.is/urleits/uua2604007-sjokviaeldi-i-arnarfirdi/",
+      "title": "UUA2604007 Sjókvíaeldi í Arnarfirði",
+      "url": "https://uua.is/urleits/uua2604007-sjokviaeldi-i-arnarfirdi/"
+    },
+    {
+      "id": "https://uua.is/urleits/uua2606011-gufuneshaugar/",
+      "title": "UUA2606011 Gufuneshaugar",
+      "url": "https://uua.is/urleits/uua2606011-gufuneshaugar/"
+    },
+    {
+      "id": "https://uua.is/urleits/uua2604011-nonsmari-2/",
+      "title": "UUA2604011 Nónsmári",
+      "url": "https://uua.is/urleits/uua2604011-nonsmari-2/"
+    },
+    {
+      "id": "https://uua.is/urleits/uua2605006-borgaras/",
+      "title": "UUA2605006 Borgarás",
+      "url": "https://uua.is/urleits/uua2605006-borgaras/"
+    },
+    {
+      "id": "https://uua.is/urleits/uua2606004-brekkustigur/",
+      "title": "UUA2606004 Brekkustígur",
+      "url": "https://uua.is/urleits/uua2606004-brekkustigur/"
+    },
+    {
+      "id": "https://uua.is/urleits/uua2603013-bjarkargrund/",
+      "title": "UUA2603013 Bjarkargrund",
+      "url": "https://uua.is/urleits/uua2603013-bjarkargrund/"
+    },
+    {
+      "id": "https://uua.is/urleits/uua2602014-thjorsarkvisl/",
+      "title": "UUA2602014 Þjórsárkvísl",
+      "url": "https://uua.is/urleits/uua2602014-thjorsarkvisl/"
+    },
+    {
+      "id": "https://uua.is/urleits/uua2603007-budafossvegur/",
+      "title": "UUA2603007 Búðafossvegur",
+      "url": "https://uua.is/urleits/uua2603007-budafossvegur/"
+    },
+    {
+      "id": "https://uua.is/urleits/uua2604002-grensasvegur-2/",
+      "title": "UUA2604002 Grensásvegur",
+      "url": "https://uua.is/urleits/uua2604002-grensasvegur-2/"
+    },
+    {
+      "id": "https://uua.is/urleits/uua2606008-ofanleiti/",
+      "title": "UUA2606008 Ofanleiti",
+      "url": "https://uua.is/urleits/uua2606008-ofanleiti/"
+    },
+    {
+      "id": "https://uua.is/urleits/uua2605013-lindargata/",
+      "title": "UUA2605013 Lindargata",
+      "url": "https://uua.is/urleits/uua2605013-lindargata/"
+    },
+    {
+      "id": "https://uua.is/urleits/uua2606005-ofanleiti/",
+      "title": "UUA2606005 Ofanleiti",
+      "url": "https://uua.is/urleits/uua2606005-ofanleiti/"
+    },
+    {
+      "id": "https://uua.is/urleits/uua2602004-heidarbaer/",
+      "title": "UUA2602004 Heiðarbær",
+      "url": "https://uua.is/urleits/uua2602004-heidarbaer/"
+    },
+    {
+      "id": "https://uua.is/urleits/uua2605018-depluholar/",
+      "title": "UUA2605018 Depluhólar",
+      "url": "https://uua.is/urleits/uua2605018-depluholar/"
+    },
+    {
+      "id": "https://uua.is/urleits/11203/",
+      "title": "UUA2605003 Suðurhöfn",
+      "url": "https://uua.is/urleits/11203/"
+    },
+    {
+      "id": "https://uua.is/urleits/uua2602015-hjardarhagi-2/",
+      "title": "UUA2602015 Hjarðarhagi",
+      "url": "https://uua.is/urleits/uua2602015-hjardarhagi-2/"
+    },
+    {
+      "id": "https://uua.is/urleits/uua2603004-vetrarmyri-og-smalaholt-2/",
+      "title": "UUA2603004 Vetrarmýri og Smalaholt",
+      "url": "https://uua.is/urleits/uua2603004-vetrarmyri-og-smalaholt-2/"
+    },
+    {
+      "id": "https://uua.is/urleits/uua2601003-oryggisstjornunarkerfi/",
+      "title": "UUA2601003 Öryggisstjórnunarkerfi",
+      "url": "https://uua.is/urleits/uua2601003-oryggisstjornunarkerfi/"
+    },
+    {
+      "id": "https://uua.is/urleits/uua2602020-heitloftsthurrkun-a-laugum/",
+      "title": "UUA2602020 Heitloftsþurrkun á Laugum",
+      "url": "https://uua.is/urleits/uua2602020-heitloftsthurrkun-a-laugum/"
+    },
+    {
+      "id": "https://uua.is/urleits/uua2605009-nylendugata/",
+      "title": "UUA2605009 Nýlendugata",
+      "url": "https://uua.is/urleits/uua2605009-nylendugata/"
+    },
+    {
+      "id": "https://uua.is/urleits/uua2605007-bauganes/",
+      "title": "UUA2605007 Bauganes",
+      "url": "https://uua.is/urleits/uua2605007-bauganes/"
+    },
+    {
+      "id": "https://uua.is/urleits/uua2604001-aflifun-hunds-2/",
+      "title": "UUA2604001 Aflífun hunds",
+      "url": "https://uua.is/urleits/uua2604001-aflifun-hunds-2/"
+    },
+    {
+      "id": "https://uua.is/urleits/uua2603001-skerpluholt/",
+      "title": "UUA2603001 Skerpluholt",
+      "url": "https://uua.is/urleits/uua2603001-skerpluholt/"
+    },
+    {
+      "id": "https://uua.is/urleits/uua2604004-fagrakinn/",
+      "title": "UUA2604004 Fagrakinn",
+      "url": "https://uua.is/urleits/uua2604004-fagrakinn/"
+    },
+    {
+      "id": "https://uua.is/urleits/uua2603016-sjokviaeldi-i-seydisfirdi/",
+      "title": "UUA2603016 Sjókvíaeldi í Seyðisfirði",
+      "url": "https://uua.is/urleits/uua2603016-sjokviaeldi-i-seydisfirdi/"
+    },
+    {
+      "id": "https://uua.is/urleits/uua2604013-hafnagata/",
+      "title": "UUA2604013 Hafnagata",
+      "url": "https://uua.is/urleits/uua2604013-hafnagata/"
+    },
+    {
+      "id": "https://uua.is/urleits/uua2603011-hrafnholar/",
+      "title": "UUA2603011 Hrafnhólar",
+      "url": "https://uua.is/urleits/uua2603011-hrafnholar/"
+    },
+    {
+      "id": "https://uua.is/urleits/11180/",
+      "title": "UUA2603008 Rafstöðvarvegur",
+      "url": "https://uua.is/urleits/11180/"
+    },
+    {
+      "id": "https://uua.is/urleits/uua2602030/",
+      "title": "UUA2602030 Brimslóð",
+      "url": "https://uua.is/urleits/uua2602030/"
+    },
+    {
+      "id": "https://uua.is/urleits/uua2602024-hladbaer-2/",
+      "title": "UUA2602024 Hlaðbær",
+      "url": "https://uua.is/urleits/uua2602024-hladbaer-2/"
+    },
+    {
+      "id": "https://uua.is/urleits/uua2604009-skogafoss/",
+      "title": "UUA2604009 Skógafoss",
+      "url": "https://uua.is/urleits/uua2604009-skogafoss/"
+    },
+    {
+      "id": "https://uua.is/urleits/uua2603003-laugarasvegur-63/",
+      "title": "UUA2603003 Laugarásvegur 63",
+      "url": "https://uua.is/urleits/uua2603003-laugarasvegur-63/"
+    },
+    {
+      "id": "https://uua.is/urleits/uua2604011-nonsmari/",
+      "title": "UUA2604011 Nónsmári",
+      "url": "https://uua.is/urleits/uua2604011-nonsmari/"
+    },
+    {
+      "id": "https://uua.is/urleits/uua2512007-sundahofn/",
+      "title": "UUA2512007 Sundahöfn",
+      "url": "https://uua.is/urleits/uua2512007-sundahofn/"
+    },
+    {
+      "id": "https://uua.is/urleits/uua2602017-hesthusasvaedi-sleipnis/",
+      "title": "UUA2602017 Hesthúsasvæði Sleipnis",
+      "url": "https://uua.is/urleits/uua2602017-hesthusasvaedi-sleipnis/"
+    },
+    {
+      "id": "https://uua.is/urleits/uua2604002-grensasvegur/",
+      "title": "UUA2604002 Grensásvegur",
+      "url": "https://uua.is/urleits/uua2604002-grensasvegur/"
+    },
+    {
+      "id": "https://uua.is/urleits/uua2604001-aflifun-hunds/",
+      "title": "UUA2604001 Aflífun hunds",
+      "url": "https://uua.is/urleits/uua2604001-aflifun-hunds/"
+    },
+    {
+      "id": "https://uua.is/urleits/uua2601002-hateigsvegur/",
+      "title": "UUA2601002 Háteigsvegur",
+      "url": "https://uua.is/urleits/uua2601002-hateigsvegur/"
+    },
+    {
+      "id": "https://uua.is/urleits/uua2512012-aukalosun-a-rotthro/",
+      "title": "UUA2512012 Aukalosun á rotþró",
+      "url": "https://uua.is/urleits/uua2512012-aukalosun-a-rotthro/"
+    },
+    {
+      "id": "https://uua.is/urleits/uua2603006-skilti-innanhuss/",
+      "title": "UUA2603006 Skilti innanhúss",
+      "url": "https://uua.is/urleits/uua2603006-skilti-innanhuss/"
+    },
+    {
+      "id": "https://uua.is/urleits/uua2603012-kjarnaskogur-og-hamrar/",
+      "title": "UUA2603012 Kjarnaskógur og Hamrar",
+      "url": "https://uua.is/urleits/uua2603012-kjarnaskogur-og-hamrar/"
+    },
+    {
+      "id": "https://uua.is/urleits/uua2601020-dalathing/",
+      "title": "UUA2601020 Dalaþing",
+      "url": "https://uua.is/urleits/uua2601020-dalathing/"
+    },
+    {
+      "id": "https://uua.is/urleits/156-2025-hvalarvirkjun/",
+      "title": "156/2025 Hvalárvirkjun",
+      "url": "https://uua.is/urleits/156-2025-hvalarvirkjun/"
+    },
+    {
+      "id": "https://uua.is/urleits/uua2603004-vetrarmyri-og-smalaholt/",
+      "title": "UUA2603004 Vetrarmýri og Smalaholt",
+      "url": "https://uua.is/urleits/uua2603004-vetrarmyri-og-smalaholt/"
+    },
+    {
+      "id": "https://uua.is/urleits/161-2025-kollafjordur/",
+      "title": "161/2025 Kollafjörður",
+      "url": "https://uua.is/urleits/161-2025-kollafjordur/"
+    },
+    {
+      "id": "https://uua.is/urleits/uua2602029-gardavegur/",
+      "title": "UUA2602029 Garðavegur",
+      "url": "https://uua.is/urleits/uua2602029-gardavegur/"
+    },
+    {
+      "id": "https://uua.is/urleits/uua2512013-menntasveigur-2/",
+      "title": "UUA2512013 Menntasveigur",
+      "url": "https://uua.is/urleits/uua2512013-menntasveigur-2/"
+    },
+    {
+      "id": "https://uua.is/urleits/uua2602023-gilsa-a-vollum/",
+      "title": "UUA2602023 Gilsá á Völlum",
+      "url": "https://uua.is/urleits/uua2602023-gilsa-a-vollum/"
+    },
+    {
+      "id": "https://uua.is/urleits/uua2512016-smyrlahraun/",
+      "title": "UUA2512016 Smyrlahraun",
+      "url": "https://uua.is/urleits/uua2512016-smyrlahraun/"
+    },
+    {
+      "id": "https://uua.is/urleits/uua2602018-klettatrod/",
+      "title": "UUA2602018 Klettatröð",
+      "url": "https://uua.is/urleits/uua2602018-klettatrod/"
+    },
+    {
+      "id": "https://uua.is/urleits/uua2512009-sindragata/",
+      "title": "UUA2512009 Sindragata",
+      "url": "https://uua.is/urleits/uua2512009-sindragata/"
+    },
+    {
+      "id": "https://uua.is/urleits/uua2512015-bann-vid-hundahaldi-2/",
+      "title": "UUA2512015 Bann við hundahaldi",
+      "url": "https://uua.is/urleits/uua2512015-bann-vid-hundahaldi-2/"
+    },
+    {
+      "id": "https://uua.is/urleits/uua2512006-stekkjarholl/",
+      "title": "UUA2512006 Stekkjarhóll",
+      "url": "https://uua.is/urleits/uua2512006-stekkjarholl/"
+    },
+    {
+      "id": "https://uua.is/urleits/uua2602024-hladbaer/",
+      "title": "UUA2602024 Hlaðbær",
+      "url": "https://uua.is/urleits/uua2602024-hladbaer/"
+    },
+    {
+      "id": "https://uua.is/urleits/uua2602015-hjardarhagi/",
+      "title": "UUA2602015 Hjarðarhagi",
+      "url": "https://uua.is/urleits/uua2602015-hjardarhagi/"
+    },
+    {
+      "id": "https://uua.is/urleits/169-2025-bergstadastraeti/",
+      "title": "169/2025 Bergstaðastræti",
+      "url": "https://uua.is/urleits/169-2025-bergstadastraeti/"
+    },
+    {
+      "id": "https://uua.is/urleits/uua2511056-bergstadastraeti-2/",
+      "title": "UUA2511056 Bergstaðastræti",
+      "url": "https://uua.is/urleits/uua2511056-bergstadastraeti-2/"
+    },
+    {
+      "id": "https://uua.is/urleits/skaftafell3c/",
+      "title": "UUA2601006 Skaftafell 3C",
+      "url": "https://uua.is/urleits/skaftafell3c/"
+    },
+    {
+      "id": "https://uua.is/urleits/uua2511055-vogaland-2/",
+      "title": "UUA2511055 Vogaland",
+      "url": "https://uua.is/urleits/uua2511055-vogaland-2/"
+    },
+    {
+      "id": "https://uua.is/urleits/158-2025-gauksstadir-2/",
+      "title": "158/2025 Gauksstaðir",
+      "url": "https://uua.is/urleits/158-2025-gauksstadir-2/"
+    },
+    {
+      "id": "https://uua.is/urleits/uua2602022-vardgjarlon/",
+      "title": "UUA2602022 Varðgjárlón",
+      "url": "https://uua.is/urleits/uua2602022-vardgjarlon/"
+    },
+    {
+      "id": "https://uua.is/urleits/uua2602021-gjaldskra-hs-veitna-i-vestmannaeyjum/",
+      "title": "UUA2602021 Gjaldskrá HS Veitna í Vestmannaeyjum",
+      "url": "https://uua.is/urleits/uua2602021-gjaldskra-hs-veitna-i-vestmannaeyjum/"
+    },
+    {
+      "id": "https://uua.is/urleits/uua2602010-fannborg/",
+      "title": "UUA2602010 Fannborg",
+      "url": "https://uua.is/urleits/uua2602010-fannborg/"
+    },
+    {
+      "id": "https://uua.is/urleits/uua2601013-thverholt/",
+      "title": "UUA2601013 Þverholt",
+      "url": "https://uua.is/urleits/uua2601013-thverholt/"
+    },
+    {
+      "id": "https://uua.is/urleits/148-2025-balstofa/",
+      "title": "148/2025 Bálstofa",
+      "url": "https://uua.is/urleits/148-2025-balstofa/"
+    },
+    {
+      "id": "https://uua.is/urleits/uua2601009-hafnargata/",
+      "title": "UUA2601009 Hafnagata",
+      "url": "https://uua.is/urleits/uua2601009-hafnargata/"
+    },
+    {
+      "id": "https://uua.is/urleits/uua2602019-nonsmari/",
+      "title": "UUA2602019 Nónsmári",
+      "url": "https://uua.is/urleits/uua2602019-nonsmari/"
+    },
+    {
+      "id": "https://uua.is/urleits/168-2025-mostekkur/",
+      "title": "168/2025 Móstekkur",
+      "url": "https://uua.is/urleits/168-2025-mostekkur/"
+    },
+    {
+      "id": "https://uua.is/urleits/uua2511047-gunnarsholt/",
+      "title": "UUA2511047 Gunnarsholt",
+      "url": "https://uua.is/urleits/uua2511047-gunnarsholt/"
+    },
+    {
+      "id": "https://uua.is/urleits/uua2512014-straumhella/",
+      "title": "UUA2512014 Straumhella",
+      "url": "https://uua.is/urleits/uua2512014-straumhella/"
+    },
+    {
+      "id": "https://uua.is/urleits/uua2511058-heidarbaer/",
+      "title": "UUA2511058 Heiðarbær",
+      "url": "https://uua.is/urleits/uua2511058-heidarbaer/"
+    },
+    {
+      "id": "https://uua.is/urleits/uua2601015-fannborg/",
+      "title": "UUA2601015 Fannborg",
+      "url": "https://uua.is/urleits/uua2601015-fannborg/"
+    },
+    {
+      "id": "https://uua.is/urleits/155-2025-snorrabraut/",
+      "title": "155/2025 Snorrabraut",
+      "url": "https://uua.is/urleits/155-2025-snorrabraut/"
+    },
+    {
+      "id": "https://uua.is/urleits/152-2025-haukahlid-2/",
+      "title": "152/2025 Haukahlíð",
+      "url": "https://uua.is/urleits/152-2025-haukahlid-2/"
+    },
+    {
+      "id": "https://uua.is/urleits/uua2601001-hoffellslon/",
+      "title": "UUA2601001 Hoffellslón",
+      "url": "https://uua.is/urleits/uua2601001-hoffellslon/"
+    },
+    {
+      "id": "https://uua.is/urleits/uua2512004-bardastadir/",
+      "title": "UUA2512004 Barðastaðir",
+      "url": "https://uua.is/urleits/uua2512004-bardastadir/"
+    },
+    {
+      "id": "https://uua.is/urleits/uua2511049-bann-vid-hundahaldi/",
+      "title": "UUA2511049 Bann við hundahaldi",
+      "url": "https://uua.is/urleits/uua2511049-bann-vid-hundahaldi/"
+    },
+    {
+      "id": "https://uua.is/urleits/uua2512002-skipun-raflinunefndar-vegna-holtavorduheidarlinu/",
+      "title": "UUA2512002 Skipun raflínunefndar vegna Holtavörðuheiðarlínu",
+      "url": "https://uua.is/urleits/uua2512002-skipun-raflinunefndar-vegna-holtavorduheidarlinu/"
+    },
+    {
+      "id": "https://uua.is/urleits/uua2511048-thvera/",
+      "title": "UUA2511048 Þverá",
+      "url": "https://uua.is/urleits/uua2511048-thvera/"
+    },
+    {
+      "id": "https://uua.is/urleits/164-2025-alfabakki-2/",
+      "title": "164/2025 Álfabakki",
+      "url": "https://uua.is/urleits/164-2025-alfabakki-2/"
+    },
+    {
+      "id": "https://uua.is/urleits/159-2025-sudurgata/",
+      "title": "159/2025 Suðurgata",
+      "url": "https://uua.is/urleits/159-2025-sudurgata/"
+    },
+    {
+      "id": "https://uua.is/urleits/uua2511045-brimslod/",
+      "title": "UUA2511045 Brimslóð",
+      "url": "https://uua.is/urleits/uua2511045-brimslod/"
+    },
+    {
+      "id": "https://uua.is/urleits/uua2512015-bann-vid-hundahaldi/",
+      "title": "UUA2512015 Bann við hundahaldi",
+      "url": "https://uua.is/urleits/uua2512015-bann-vid-hundahaldi/"
+    },
+    {
+      "id": "https://uua.is/urleits/uua2512013-menntasveigur/",
+      "title": "UUA2512013 Menntasveigur",
+      "url": "https://uua.is/urleits/uua2512013-menntasveigur/"
+    },
+    {
+      "id": "https://uua.is/urleits/163-2025-fagrakinn/",
+      "title": "163/2025 Fagrakinn",
+      "url": "https://uua.is/urleits/163-2025-fagrakinn/"
+    },
+    {
+      "id": "https://uua.is/urleits/153-2025-lagholtsvegur/",
+      "title": "153/2025 Lágholtsvegur",
+      "url": "https://uua.is/urleits/153-2025-lagholtsvegur/"
+    },
+    {
+      "id": "https://uua.is/urleits/143-2025-hofsbot/",
+      "title": "143/2025 Hofsbót",
+      "url": "https://uua.is/urleits/143-2025-hofsbot/"
+    },
+    {
+      "id": "https://uua.is/urleits/150-2025-adalgata/",
+      "title": "150/2025 Aðalgata",
+      "url": "https://uua.is/urleits/150-2025-adalgata/"
+    },
+    {
+      "id": "https://uua.is/urleits/120-2025-vesturberg/",
+      "title": "120/2025 Vesturberg",
+      "url": "https://uua.is/urleits/120-2025-vesturberg/"
+    },
+    {
+      "id": "https://uua.is/urleits/129-2025-borgaras/",
+      "title": "129/2025 Borgarás",
+      "url": "https://uua.is/urleits/129-2025-borgaras/"
+    },
+    {
+      "id": "https://uua.is/urleits/140-2025-kjarrvegur/",
+      "title": "140/2025 Kjarrvegur",
+      "url": "https://uua.is/urleits/140-2025-kjarrvegur/"
+    },
+    {
+      "id": "https://uua.is/urleits/2512005-skilti/",
+      "title": "UUA2512005 Skilti",
+      "url": "https://uua.is/urleits/2512005-skilti/"
+    }
+  ],
+  "duplicates": [],
+  "rejected": [
+    {
+      "title": "Ársyfirlit 2025",
+      "url": "https://uua.is/arsyfirlit-2025/",
+      "reasons": [
+        "málsnúmer vantar",
+        "vefslóð vísar ekki beint í UUA-mál"
+      ]
+    },
+    {
+      "title": "Gleðilega hátíð",
+      "url": "https://uua.is/gledilega-hatid-5/",
+      "reasons": [
+        "málsnúmer vantar",
+        "vefslóð vísar ekki beint í UUA-mál"
+      ]
+    }
+  ]
+}

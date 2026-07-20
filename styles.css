@@ -49,6 +49,7 @@ nav a:hover { color: var(--ink); }
 .section-heading { display: flex; justify-content: space-between; align-items: end; max-width: 1180px; margin: 0 auto 35px; }
 .kicker { margin: 0 0 14px; color: var(--lime); }
 .section-heading h2, .about h2 { margin: 0; font-family: "DM Serif Display", serif; font-size: clamp(42px, 5vw, 70px); font-weight: 400; }
+.data-status { margin: 12px 0 0; color: rgba(255,255,255,.58); font-size: 12px; }
 .filter-toggle { display: none; border: 1px solid rgba(255,255,255,.25); border-radius: 99px; background: none; color: white; padding: 9px 15px; }
 .filters { max-width: 1180px; margin: 0 auto 24px; display: flex; align-items: center; justify-content: space-between; gap: 20px; }
 .search-field { flex: 1; }
