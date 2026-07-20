@@ -48,7 +48,8 @@ const keywordRules = [
   ["úrgangur", /úrgang/i], ["fráveita", /fráveit|seyru/i], ["vatnsvernd", /vatnsvernd/i],
   ["veiðar", /veið/i], ["dýravelferð", /dýravelferð|hundahaldi|aflífun/i],
   ["sjókvíaeldi", /sjókvíaeldi|fiskeldi/i], ["vegagerð", /vegagerð|veglagning/i],
-  ["orkumál", /virkjun|rafork|orkumannvirk/i], ["þvingunarúrræði", /þvingunarúrræð/i],
+  ["virkjunarkostur", /virkjunarkost/i], ["orkumál", /virkjun|rafork|orkumannvirk/i],
+  ["þvingunarúrræði", /þvingunarúrræð/i],
   ["stöðvun framkvæmda", /stöðvun framkvæmd/i], ["frestun réttaráhrifa", /frestun réttaráhrif/i],
   ["málshraði", /málshrað|drátt á afgreiðslu/i], ["kæruheimild", /kæruheimild/i]
 ];

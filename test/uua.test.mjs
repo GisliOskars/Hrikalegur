@@ -13,6 +13,8 @@ test("les UUA-málsnúmer, dagsetningu og beinan málstengil", () => {
   assert.match(item.summary, /kæra á ákvörðun/);
   assert.match(item.tags, /byggingarleyfi/);
   assert.match(item.tags, /grenndarkynning/);
+  assert.match(item.tags, /framkvæmdaleyfi/);
+  assert.match(item.tags, /virkjunarkostur/);
 });
 
 test("fjarlægir HTML en varðveitir íslenskan texta", () => assert.equal(plainText("<p>Úrskurður &amp; niðurstaða</p>"), "Úrskurður & niðurstaða"));
