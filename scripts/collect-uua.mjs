@@ -25,13 +25,15 @@ try {
   const previous = await readFile(outputPath, "utf8").then(JSON.parse).catch(() => ({ items: [] }));
   const previousIds = new Set(previous.items.map((item) => item.id));
   const newItems = accepted.filter((item) => !previousIds.has(item.id));
-  await saveJson(outputPath, { source: "UUA", sourceUrl: feedUrl, fetchedAt: now, items: accepted });
+  const changed = JSON.stringify(previous.items) !== JSON.stringify(accepted);
+  if (changed) await saveJson(outputPath, { source: "UUA", sourceUrl: feedUrl, fetchedAt: now, items: accepted });
   await saveJson(reportPath, {
     ok: true, source: "UUA", sourceUrl: feedUrl, checkedAt: now,
+    changed,
     counts: { received: parsed.length, accepted: accepted.length, new: newItems.length, duplicates: duplicates.length, rejected: rejected.length },
     newItems: newItems.map(({ id, title, url }) => ({ id, title, url })), duplicates, rejected
   });
-  console.log(`UUA: ${accepted.length} gild mál, ${newItems.length} ný, ${rejected.length} hafnað.`);
+  console.log(`UUA: ${accepted.length} gild mál, ${newItems.length} ný, ${rejected.length} hafnað${changed ? "; gögn uppfærð" : "; engin breyting"}.`);
 } catch (error) {
   await saveJson(reportPath, { ok: false, source: "UUA", sourceUrl: feedUrl, checkedAt: now, error: error.message });
   console.error(`UUA-vöktun mistókst: ${error.message}`);
