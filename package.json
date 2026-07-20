@@ -4,6 +4,7 @@
   "type": "module",
   "scripts": {
     "collect:uua": "node scripts/collect-uua.mjs",
+    "collect:samrad": "node scripts/collect-samrad.mjs",
     "test": "node --test"
   }
 }
