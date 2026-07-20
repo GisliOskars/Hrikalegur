@@ -10,7 +10,9 @@ test("les UUA-málsnúmer, dagsetningu og beinan málstengil", () => {
   assert.equal(item.caseNumber, "UUA2603014");
   assert.equal(item.publishedAt, "2026-07-10T18:00:57.000Z");
   assert.equal(item.url, "https://uua.is/urleits/uua2603014-lyngas/");
-  assert.match(item.summary, /Stutt lýsing/);
+  assert.match(item.summary, /kæra á ákvörðun/);
+  assert.match(item.tags, /byggingarleyfi/);
+  assert.match(item.tags, /grenndarkynning/);
 });
 
 test("fjarlægir HTML en varðveitir íslenskan texta", () => assert.equal(plainText("<p>Úrskurður &amp; niðurstaða</p>"), "Úrskurður & niðurstaða"));

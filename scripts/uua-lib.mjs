@@ -39,6 +39,31 @@ export function summarize(html, maxLength = 230) {
   return `${shortened.slice(0, boundary > 100 ? boundary : maxLength).trim()}…`;
 }
 
+const keywordRules = [
+  ["byggingarleyfi", /byggingarleyf/i], ["framkvæmdaleyfi", /framkvæmdaleyf/i],
+  ["deiliskipulag", /deiliskipulag/i], ["aðalskipulag", /aðalskipulag/i],
+  ["svæðisskipulag", /svæðisskipulag/i], ["grenndarkynning", /grenndarkynn/i],
+  ["náttúruvernd", /náttúruvernd/i], ["mat á umhverfisáhrifum", /umhverfisáhrif/i],
+  ["mengunarvarnir", /mengunarvarn|mengandi starfsemi/i], ["starfsleyfi", /starfsleyf/i],
+  ["úrgangur", /úrgang/i], ["fráveita", /fráveit|seyru/i], ["vatnsvernd", /vatnsvernd/i],
+  ["veiðar", /veið/i], ["dýravelferð", /dýravelferð|hundahaldi|aflífun/i],
+  ["sjókvíaeldi", /sjókvíaeldi|fiskeldi/i], ["vegagerð", /vegagerð|veglagning/i],
+  ["orkumál", /virkjun|rafork|orkumannvirk/i], ["þvingunarúrræði", /þvingunarúrræð/i],
+  ["stöðvun framkvæmda", /stöðvun framkvæmd/i], ["frestun réttaráhrifa", /frestun réttaráhrif/i],
+  ["málshraði", /málshrað|drátt á afgreiðslu/i], ["kæruheimild", /kæruheimild/i]
+];
+
+export function extractMatterSummary(content, fallback) {
+  const candidates = [...content.matchAll(/<strong[^>]*>([\s\S]*?)<\/strong>/gi)].map((match) => plainText(match[1]));
+  const matter = candidates.find((value) => /mál nr\.|kæra|kröfu|beiðni/i.test(value));
+  return summarize((matter || plainText(content).slice(0, 1800) || fallback).replace(/^Fyrir var tekið\s*/i, ""));
+}
+
+export function extractKeywords(content) {
+  const text = plainText(content);
+  return keywordRules.filter(([, pattern]) => pattern.test(text)).map(([keyword]) => keyword).join(" ");
+}
+
 export function parseUuaFeed(xml) {
   if (!/<rss\b/i.test(xml) || !/<channel>/i.test(xml)) throw new Error("Svarið er ekki gildur RSS-straumur.");
   const rawItems = [...xml.matchAll(/<item>([\s\S]*?)<\/item>/gi)].map((match) => match[1]);
@@ -47,13 +72,17 @@ export function parseUuaFeed(xml) {
     const url = field(item, "link").trim();
     const published = field(item, "pubDate");
     const description = field(item, "description");
+    const content = field(item, "content:encoded") || description;
     const caseNumber = title.match(/\b(?:UUA\d{7}|\d{1,3}\/\d{4})\b/i)?.[0]?.toUpperCase() ?? "";
     const date = new Date(published);
     return {
       id: url, caseNumber, category: "urskurdur",
       type: /bráðabirgða/i.test(description) ? "Bráðabirgðaúrskurður" : "Úrskurður",
       source: "UUA", publishedAt: Number.isNaN(date.valueOf()) ? "" : date.toISOString(),
-      title, summary: summarize(description), tags: "umhverfisréttur úrskurður", url
+      title,
+      summary: extractMatterSummary(content, description),
+      tags: `umhverfisréttur úrskurður ${extractKeywords(content)}`.trim(),
+      url
     };
   });
 }
