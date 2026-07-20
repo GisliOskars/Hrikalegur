@@ -19,7 +19,7 @@ GitHub Actions keyrir vöktunina daglega kl. 08:00 að íslenskum tíma. Málask
 
 ## Samráðsgátt
 
-Samráðssafnarinn les opinbera RSS-veitu Samráðsgáttarinnar, sem gáttin uppfærir daglega. Hann birtir aðeins mál sem falla að vöktuðum efnisorðum, sannreynir beinan málstengil og skráir umsagnarfrest þegar hann finnst. Óviðkomandi mál eru skráð í keyrsluskýrslu en birtast ekki á vefnum.
+Samráðssafnarinn les opinbera RSS-veitu Samráðsgáttarinnar, sem gáttin uppfærir daglega. Hann birtir aðeins mál sem falla að vöktuðum efnisorðum og sannreynir beinan málstengil. Fyrir viðeigandi mál sækir hann síðan nánari opinber gögn af málssíðunni: málsnúmer, birtingardag, umsagnarfrest, stöðu og efnislýsingu. Óviðkomandi mál eru skráð í keyrsluskýrslu en birtast ekki á vefnum. Ef einstök málssíða svarar ekki heldur grunnfærslan áfram að birtast.
 
 ```sh
 npm run collect:samrad

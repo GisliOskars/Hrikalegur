@@ -1,7 +1,7 @@
 import { mkdir, readFile, rename, writeFile } from "node:fs/promises";
 import { dirname, resolve } from "node:path";
 import { fileURLToPath } from "node:url";
-import { parseSamradFeed, validateSamrad } from "./samrad-lib.mjs";
+import { parseSamradDetail, parseSamradFeed, validateSamrad } from "./samrad-lib.mjs";
 
 const root = resolve(dirname(fileURLToPath(import.meta.url)), "..");
 const outputPath = resolve(root, "data/samrad.json");
@@ -20,7 +20,26 @@ try {
   const response = await fetch(feedUrl, { headers: { "user-agent": "Hrikalegur/0.1 (+https://hrikalegur.is)" }, signal: AbortSignal.timeout(30000) });
   if (!response.ok) throw new Error(`Samráðsgátt svaraði með stöðukóða ${response.status}.`);
   const parsed = parseSamradFeed(await response.text());
-  const { accepted, rejected, ignored, duplicates } = validateSamrad(parsed);
+  const initial = validateSamrad(parsed);
+  const enrichmentErrors = [];
+  const accepted = [];
+  for (let offset = 0; offset < initial.accepted.length; offset += 6) {
+    const batch = initial.accepted.slice(offset, offset + 6);
+    const enriched = await Promise.all(batch.map(async (item) => {
+      try {
+        const detailResponse = await fetch(item.url, { headers: { "user-agent": "Hrikalegur/0.1 (+https://hrikalegur.is)" }, signal: AbortSignal.timeout(20000) });
+        if (!detailResponse.ok) throw new Error(`stöðukóði ${detailResponse.status}`);
+        const detail = parseSamradDetail(await detailResponse.text(), item.url.match(/\/mal\/(\d+)/)?.[1]);
+        return { ...item, ...detail, tags: `${item.tags} ${detail.tags}`.trim(), summary: detail.summary || item.summary };
+      } catch (error) {
+        enrichmentErrors.push({ title: item.title, url: item.url, error: error.message });
+        return item;
+      }
+    }));
+    accepted.push(...enriched);
+  }
+  accepted.sort((a, b) => (b.publishedAt || "").localeCompare(a.publishedAt || ""));
+  const { rejected, ignored, duplicates } = initial;
   const previous = await readFile(outputPath, "utf8").then(JSON.parse).catch(() => null);
   const previousItems = previous?.items || [];
   const previousIds = new Set(previousItems.map((item) => item.id));
@@ -29,8 +48,8 @@ try {
   if (changed) await saveJson(outputPath, { source: "Samráðsgátt", sourceUrl: feedUrl, fetchedAt: now, items: accepted });
   await saveJson(reportPath, {
     ok: true, source: "Samráðsgátt", sourceUrl: feedUrl, checkedAt: now, changed,
-    counts: { received: parsed.length, accepted: accepted.length, new: newItems.length, ignored: ignored.length, duplicates: duplicates.length, rejected: rejected.length },
-    newItems: newItems.map(({ id, title, url }) => ({ id, title, url })), ignored, duplicates, rejected
+    counts: { received: parsed.length, accepted: accepted.length, new: newItems.length, ignored: ignored.length, duplicates: duplicates.length, rejected: rejected.length, enrichmentErrors: enrichmentErrors.length },
+    newItems: newItems.map(({ id, title, url }) => ({ id, title, url })), enrichmentErrors, ignored, duplicates, rejected
   });
   console.log(`Samráðsgátt: ${accepted.length} viðeigandi mál, ${newItems.length} ný, ${ignored.length} utan vöktunar.`);
 } catch (error) {

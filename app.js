@@ -66,7 +66,8 @@ async function loadMonitoring() {
   if (available.length) {
     const imported = available.flatMap((data) => data.items || []).sort((a, b) => (b.publishedAt || "").localeCompare(a.publishedAt || "")).map((item) => {
       const published = item.publishedAt ? new Intl.DateTimeFormat("is-IS", { day: "numeric", month: "long", year: "numeric" }).format(new Date(item.publishedAt)) : "Dagsetning ótilgreind";
-      return { ...item, date: item.deadline ? `${published} · frestur ${item.deadline}` : published };
+      const deadline = item.deadline ? (() => { const value = new Date(item.deadline); return Number.isNaN(value.valueOf()) ? item.deadline : new Intl.DateTimeFormat("is-IS").format(value); })() : "";
+      return { ...item, date: deadline ? `${published} · frestur ${deadline}` : published };
     });
     const known = new Set(imported.map((item) => item.url));
     stories = [...imported, ...stories.filter((item) => !known.has(item.url))];
