@@ -54,19 +54,27 @@ document.querySelector("#filter-toggle").addEventListener("click", (event) => {
 });
 render();
 
-async function loadUuaMonitoring() {
-  try {
-    const response = await fetch("./data/uua.json", { cache: "no-store" });
-    if (!response.ok) throw new Error("Gögn fundust ekki");
-    const data = await response.json();
-    const imported = (data.items || []).map((item) => ({ ...item, date: new Intl.DateTimeFormat("is-IS", { day: "numeric", month: "long", year: "numeric" }).format(new Date(item.publishedAt)) }));
+async function loadMonitoring() {
+  const sources = await Promise.all(["uua", "samrad"].map(async (name) => {
+    try {
+      const response = await fetch(`./data/${name}.json`, { cache: "no-store" });
+      if (!response.ok) return null;
+      return response.json();
+    } catch { return null; }
+  }));
+  const available = sources.filter(Boolean);
+  if (available.length) {
+    const imported = available.flatMap((data) => data.items || []).sort((a, b) => (b.publishedAt || "").localeCompare(a.publishedAt || "")).map((item) => {
+      const published = item.publishedAt ? new Intl.DateTimeFormat("is-IS", { day: "numeric", month: "long", year: "numeric" }).format(new Date(item.publishedAt)) : "Dagsetning ótilgreind";
+      return { ...item, date: item.deadline ? `${published} · frestur ${item.deadline}` : published };
+    });
     const known = new Set(imported.map((item) => item.url));
     stories = [...imported, ...stories.filter((item) => !known.has(item.url))];
-    dataStatus.textContent = `UUA-vöktun virk · ${imported.length} mál sótt ${new Intl.DateTimeFormat("is-IS", { dateStyle: "medium", timeStyle: "short" }).format(new Date(data.fetchedAt))}`;
+    dataStatus.textContent = `Vöktun virk · ${available.map((data) => `${data.source}: ${data.items.length}`).join(" · ")}`;
     render();
-  } catch {
-    dataStatus.textContent = "Sýnigögn · UUA-vöktun bíður næstu keyrslu";
+  } else {
+    dataStatus.textContent = "Sýnigögn · vöktun bíður næstu keyrslu";
   }
 }
 
-loadUuaMonitoring();
+loadMonitoring();

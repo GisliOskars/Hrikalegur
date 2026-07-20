@@ -1,0 +1,2276 @@
+{
+  "ok": true,
+  "source": "Samráðsgátt",
+  "sourceUrl": "https://island.is/samradsgatt/api/rss",
+  "checkedAt": "2026-07-20T21:29:55.974Z",
+  "changed": true,
+  "counts": {
+    "received": 451,
+    "accepted": 63,
+    "new": 63,
+    "ignored": 388,
+    "duplicates": 0,
+    "rejected": 0
+  },
+  "newItems": [
+    {
+      "id": "https://island.is/samradsgatt/mal/4278",
+      "title": "Áform um lagasetningu - Frumvarp um breytingu á lögum um mannvirki nr. 160/2010 (einföldun byggingarreglugerðar og breytt byggingareftirlit)",
+      "url": "https://island.is/samradsgatt/mal/4278"
+    },
+    {
+      "id": "https://island.is/samradsgatt/mal/4277",
+      "title": "Áform um lagasetningu - Frumvarp um breytingu á skipulagslögum nr. 123/2010 (ýmsar breytingar)",
+      "url": "https://island.is/samradsgatt/mal/4277"
+    },
+    {
+      "id": "https://island.is/samradsgatt/mal/4270",
+      "title": "Drög að þingsályktun um stefnu stjórnvalda um uppbyggingu flutningskerfis raforku",
+      "url": "https://island.is/samradsgatt/mal/4270"
+    },
+    {
+      "id": "https://island.is/samradsgatt/mal/4269",
+      "title": "Drög að reglugerð um framkvæmd 20. gr. a–20. gr. i raforkulaga nr. 65/2003",
+      "url": "https://island.is/samradsgatt/mal/4269"
+    },
+    {
+      "id": "https://island.is/samradsgatt/mal/4253",
+      "title": "Reglugerð um Loftslags- og orkusjóð",
+      "url": "https://island.is/samradsgatt/mal/4253"
+    },
+    {
+      "id": "https://island.is/samradsgatt/mal/4252",
+      "title": "Forsamráð um efnistök grænbókar um fjarskipti og netöryggi",
+      "url": "https://island.is/samradsgatt/mal/4252"
+    },
+    {
+      "id": "https://island.is/samradsgatt/mal/4250",
+      "title": "Áform um frumvarp til laga um orkunýtni",
+      "url": "https://island.is/samradsgatt/mal/4250"
+    },
+    {
+      "id": "https://island.is/samradsgatt/mal/4234",
+      "title": "Áform um frumvarp til laga um breytingu á lögum um varnir gegn mengun hafs og stranda (leyfisveitingar vegna vísindarannsókna í hafi)",
+      "url": "https://island.is/samradsgatt/mal/4234"
+    },
+    {
+      "id": "https://island.is/samradsgatt/mal/4243",
+      "title": "Aðgerðaáætlun stefnu stjórnvalda um líffræðilega fjölbreytni 2026-2030",
+      "url": "https://island.is/samradsgatt/mal/4243"
+    },
+    {
+      "id": "https://island.is/samradsgatt/mal/4225",
+      "title": "Breyting á reglugerð um skráningarskyldan atvinnurekstur samkvæmt lögum um hollustuhætti og mengunarvarnir",
+      "url": "https://island.is/samradsgatt/mal/4225"
+    },
+    {
+      "id": "https://island.is/samradsgatt/mal/4218",
+      "title": "Breyting á reglugerð um varnir gegn olíumengun frá starfsemi á landi",
+      "url": "https://island.is/samradsgatt/mal/4218"
+    },
+    {
+      "id": "https://island.is/samradsgatt/mal/4213",
+      "title": "Drög að breytingu á reglugerð um framkvæmd raforkulaga",
+      "url": "https://island.is/samradsgatt/mal/4213"
+    },
+    {
+      "id": "https://island.is/samradsgatt/mal/4205",
+      "title": "Breytingar á raforkulögum (verkefni Raforkueftirlitsins)",
+      "url": "https://island.is/samradsgatt/mal/4205"
+    },
+    {
+      "id": "https://island.is/samradsgatt/mal/4203",
+      "title": "Flýting uppbyggingar raforkuinnviða og einföldun regluverks",
+      "url": "https://island.is/samradsgatt/mal/4203"
+    },
+    {
+      "id": "https://island.is/samradsgatt/mal/4204",
+      "title": "Breytingar á reglugerðum til innleiðingar á samþykkt Alþjóðavinnumálastofnunarinnar nr. 188, um vinnu við fiskveiðar",
+      "url": "https://island.is/samradsgatt/mal/4204"
+    },
+    {
+      "id": "https://island.is/samradsgatt/mal/4198",
+      "title": "Drög að frumvarpi til laga um rýmiseignir og afnám undanþágu orkumannvirkja frá fasteignamati",
+      "url": "https://island.is/samradsgatt/mal/4198"
+    },
+    {
+      "id": "https://island.is/samradsgatt/mal/4155",
+      "title": "Breytingar á raforkulögum (verkefni Raforkueftirlitsins)",
+      "url": "https://island.is/samradsgatt/mal/4155"
+    },
+    {
+      "id": "https://island.is/samradsgatt/mal/4152",
+      "title": "Drög að nýrri reglugerð um strandveiði",
+      "url": "https://island.is/samradsgatt/mal/4152"
+    },
+    {
+      "id": "https://island.is/samradsgatt/mal/4138",
+      "title": "Drög að frumvarpi til laga um breytingu á lögum um lax og silungsveiði, lögum um fiskrækt og lögum um fiskræktarsjóð",
+      "url": "https://island.is/samradsgatt/mal/4138"
+    },
+    {
+      "id": "https://island.is/samradsgatt/mal/4123",
+      "title": "Ný reglugerð um meðhöndlun seyru",
+      "url": "https://island.is/samradsgatt/mal/4123"
+    },
+    {
+      "id": "https://island.is/samradsgatt/mal/4121",
+      "title": "Áform um lagasetningu - Frumvarp til laga um breytingu á ýmsum lögum vegna lax- og silungsveiði og fiskræktar",
+      "url": "https://island.is/samradsgatt/mal/4121"
+    },
+    {
+      "id": "https://island.is/samradsgatt/mal/4058",
+      "title": "Frumvarp til laga um verndun og sjálfbæra nýtingu líffræðilegrar fjölbreytni hafsins utan lögsögu ríkja",
+      "url": "https://island.is/samradsgatt/mal/4058"
+    },
+    {
+      "id": "https://island.is/samradsgatt/mal/4040",
+      "title": "Drög að aðgerðalista aðlögunaráætlunar vegna áhrifa loftslagsbreytinga á Íslandi",
+      "url": "https://island.is/samradsgatt/mal/4040"
+    },
+    {
+      "id": "https://island.is/samradsgatt/mal/4038",
+      "title": "Áform um frumvarp til laga um verndun og sjálfbæra nýtingu líffræðilegrar fjölbreytni hafsins utan lögsögu ríkja",
+      "url": "https://island.is/samradsgatt/mal/4038"
+    },
+    {
+      "id": "https://island.is/samradsgatt/mal/4034",
+      "title": "Drög að reglugerð um veiðar á skollakopp (ígulkerum)",
+      "url": "https://island.is/samradsgatt/mal/4034"
+    },
+    {
+      "id": "https://island.is/samradsgatt/mal/3998",
+      "title": "Tillaga um flokkun virkjunarkostsins Garpsdal í nýtingarflokk verndar- og orkunýtingaráætlunar",
+      "url": "https://island.is/samradsgatt/mal/3998"
+    },
+    {
+      "id": "https://island.is/samradsgatt/mal/3991",
+      "title": "Drög að stefnu um líffræðilega fjölbreytni",
+      "url": "https://island.is/samradsgatt/mal/3991"
+    },
+    {
+      "id": "https://island.is/samradsgatt/mal/3974",
+      "title": "Áform um endurskoðun laga um tekjustofna sveitarfélaga (skattlagning orkumannvirkja)",
+      "url": "https://island.is/samradsgatt/mal/3974"
+    },
+    {
+      "id": "https://island.is/samradsgatt/mal/3982",
+      "title": "Frumvarp til laga um loftslagsmál",
+      "url": "https://island.is/samradsgatt/mal/3982"
+    },
+    {
+      "id": "https://island.is/samradsgatt/mal/3953",
+      "title": "Stefna stjórnvalda um öflun raforku",
+      "url": "https://island.is/samradsgatt/mal/3953"
+    },
+    {
+      "id": "https://island.is/samradsgatt/mal/3947",
+      "title": "Drög að frumvarpi um breytingar á lögum um veiðigjald",
+      "url": "https://island.is/samradsgatt/mal/3947"
+    },
+    {
+      "id": "https://island.is/samradsgatt/mal/3943",
+      "title": "Drög að reglugerð um breytingu á reglugerð um strandveiðar",
+      "url": "https://island.is/samradsgatt/mal/3943"
+    },
+    {
+      "id": "https://island.is/samradsgatt/mal/3931",
+      "title": "Frumvarp til laga um breytingu á lögum um varnir gegn mengun hafs og stranda (móttaka úrgangs í höfnum)",
+      "url": "https://island.is/samradsgatt/mal/3931"
+    },
+    {
+      "id": "https://island.is/samradsgatt/mal/3904",
+      "title": "Endurskoðun fyrirkomulags eftirlitskerfis með hollustuháttum og mengunarvörnum og matvælum",
+      "url": "https://island.is/samradsgatt/mal/3904"
+    },
+    {
+      "id": "https://island.is/samradsgatt/mal/3758",
+      "title": "Ný og uppfærð aðgerðaáætlun í loftslagsmálum",
+      "url": "https://island.is/samradsgatt/mal/3758"
+    },
+    {
+      "id": "https://island.is/samradsgatt/mal/3759",
+      "title": "Frumvarp til laga um loftslagsmál (ný heildarlög)",
+      "url": "https://island.is/samradsgatt/mal/3759"
+    },
+    {
+      "id": "https://island.is/samradsgatt/mal/3708",
+      "title": "Frumvarp um Loftslags- og orkusjóð",
+      "url": "https://island.is/samradsgatt/mal/3708"
+    },
+    {
+      "id": "https://island.is/samradsgatt/mal/3700",
+      "title": "Frumvarp til breytinga á raforkulögum (raforkuviðskipti)",
+      "url": "https://island.is/samradsgatt/mal/3700"
+    },
+    {
+      "id": "https://island.is/samradsgatt/mal/3652",
+      "title": "Áform um breytingu á raforkulögum",
+      "url": "https://island.is/samradsgatt/mal/3652"
+    },
+    {
+      "id": "https://island.is/samradsgatt/mal/3651",
+      "title": "Breyting á reglugerð nr. 550/2018 um losun frá atvinnurekstri og mengunarvarnaeftirlit",
+      "url": "https://island.is/samradsgatt/mal/3651"
+    },
+    {
+      "id": "https://island.is/samradsgatt/mal/3595",
+      "title": "Breytingar á skipulagslögum nr. 123/2010 (Tímabundnar uppbyggingarheimildir)",
+      "url": "https://island.is/samradsgatt/mal/3595"
+    },
+    {
+      "id": "https://island.is/samradsgatt/mal/3578",
+      "title": "Breyting reglugerð nr. 796/1999 um varnir gegn mengun vatns",
+      "url": "https://island.is/samradsgatt/mal/3578"
+    },
+    {
+      "id": "https://island.is/samradsgatt/mal/3542",
+      "title": "Endurskipulagning stofnana umhverfis-, orku- og loftslagsráðuneytisins - samráð við hagsmunaaðila",
+      "url": "https://island.is/samradsgatt/mal/3542"
+    },
+    {
+      "id": "https://island.is/samradsgatt/mal/3557",
+      "title": "Viðskiptavettvangur raforku",
+      "url": "https://island.is/samradsgatt/mal/3557"
+    },
+    {
+      "id": "https://island.is/samradsgatt/mal/3545",
+      "title": "Áform um lagasetningu: Frumvarp til laga um breytingu á lögum um loftslagsmál nr. 70/2012 (EES-innleiðing, viðskiptakerfi ESB með losunarheimildir)",
+      "url": "https://island.is/samradsgatt/mal/3545"
+    },
+    {
+      "id": "https://island.is/samradsgatt/mal/3540",
+      "title": "Frumvörp til laga um Loftslagsstofnun og Náttúruverndar- og minjastofnun",
+      "url": "https://island.is/samradsgatt/mal/3540"
+    },
+    {
+      "id": "https://island.is/samradsgatt/mal/3499",
+      "title": "Drög að reglugerðum um breytingu á reglugerðum nr. 1061/2008, nr. 1062/2008 og nr. 561/2012, um mælifræðilegt eftirlit með raforkumælum, vatnsmælum og varmaorkumælum",
+      "url": "https://island.is/samradsgatt/mal/3499"
+    },
+    {
+      "id": "https://island.is/samradsgatt/mal/3435",
+      "title": "Stöðuskjal og tillögur að aðgerðum um bætta nýtingu lífrænna efna í landbúnaði og landgræðslu",
+      "url": "https://island.is/samradsgatt/mal/3435"
+    },
+    {
+      "id": "https://island.is/samradsgatt/mal/3407",
+      "title": "Breyting á lögum um hollustuhætti og mengunarvarnir (geymsla koldíoxíðs)",
+      "url": "https://island.is/samradsgatt/mal/3407"
+    },
+    {
+      "id": "https://island.is/samradsgatt/mal/3405",
+      "title": "Grænbók um húsnæðis- og mannvirkjamál",
+      "url": "https://island.is/samradsgatt/mal/3405"
+    },
+    {
+      "id": "https://island.is/samradsgatt/mal/3368",
+      "title": "Áform um frumvarp til laga um breytingu á lögum um loftslagsmál (styrking stjórnsýslu loftslagsmála)",
+      "url": "https://island.is/samradsgatt/mal/3368"
+    },
+    {
+      "id": "https://island.is/samradsgatt/mal/3362",
+      "title": "Frumvarp til laga um breytingu á lögum um mengun hafs og stranda",
+      "url": "https://island.is/samradsgatt/mal/3362"
+    },
+    {
+      "id": "https://island.is/samradsgatt/mal/3309",
+      "title": "Áform um lagasetningu - Breyting á lögum nr. 155/2018 um landgræðslu og lögum nr. 33/2019 um skóga og skógrækt (sameining stofnana)",
+      "url": "https://island.is/samradsgatt/mal/3309"
+    },
+    {
+      "id": "https://island.is/samradsgatt/mal/3278",
+      "title": "Drög að frumvarpi að breytingu á raforkulögum nr. 65/2003",
+      "url": "https://island.is/samradsgatt/mal/3278"
+    },
+    {
+      "id": "https://island.is/samradsgatt/mal/3262",
+      "title": "Áform um frumvarp til laga um breytingu á lögum um hollustuhætti og mengunarvarnir nr. 7/1998 (geymsla koldíoxíðs)",
+      "url": "https://island.is/samradsgatt/mal/3262"
+    },
+    {
+      "id": "https://island.is/samradsgatt/mal/3225",
+      "title": "Vegvísir að vistvænni mannvirkjagerð 2030",
+      "url": "https://island.is/samradsgatt/mal/3225"
+    },
+    {
+      "id": "https://island.is/samradsgatt/mal/3009",
+      "title": "Reglugerð um breytingu á reglugerð nr. 1150/2019 um raforkuviðskipti og mælingar",
+      "url": "https://island.is/samradsgatt/mal/3009"
+    },
+    {
+      "id": "https://island.is/samradsgatt/mal/2871",
+      "title": "Drög að reglugerð um takmarkanir og bann veghaldara við umferð vélknúinna ökutækja um stundarsakir vegna loftmengunar",
+      "url": "https://island.is/samradsgatt/mal/2871"
+    },
+    {
+      "id": "https://island.is/samradsgatt/mal/2782",
+      "title": "Drög að frumvarpi til laga um breytingu á lögum nr. 52/1989 um ráðstafanir gegn umhverfismengun af völdum einnota umbúða fyrir drykkjarvörur",
+      "url": "https://island.is/samradsgatt/mal/2782"
+    },
+    {
+      "id": "https://island.is/samradsgatt/mal/2753",
+      "title": "Áform um frumvarp til laga um breytingar á lögum nr. 52/1989 um ráðstafanir gegn umhverfismengun af völdum einnota umbúða fyrir drykkjarvörur",
+      "url": "https://island.is/samradsgatt/mal/2753"
+    },
+    {
+      "id": "https://island.is/samradsgatt/mal/2759",
+      "title": "Áform um frumvarp til laga um breytingar á lögum nr. 106/2000 um mat á umhverfisáhrifum (leyfi til bráðabirgða)",
+      "url": "https://island.is/samradsgatt/mal/2759"
+    },
+    {
+      "id": "https://island.is/samradsgatt/mal/2587",
+      "title": "Frumvarp - breyting á lögum um meðhöndlun úrgangs (EES-innleiðing)",
+      "url": "https://island.is/samradsgatt/mal/2587"
+    },
+    {
+      "id": "https://island.is/samradsgatt/mal/43",
+      "title": "Drög að reglugerð um fráveitur og skólp",
+      "url": "https://island.is/samradsgatt/mal/43"
+    }
+  ],
+  "ignored": [
+    {
+      "title": "Frumvarp til laga um barnavernd",
+      "url": "https://island.is/samradsgatt/mal/4287",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "Drög að reglugerð um áburðarvörur",
+      "url": "https://island.is/samradsgatt/mal/4258",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "Áform um lagasetningu - Frumvarp til laga um breytingu á lögum um almannatryggingar, nr. 100/2007",
+      "url": "https://island.is/samradsgatt/mal/4286",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "Samráð um drög að leiðbeiningum um viðskipti á heildsöluorkumarkaði",
+      "url": "https://island.is/samradsgatt/mal/4283",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "Áform um breytingu á lögum nr. 38/2018, um þjónustu við fatlað fólk með langvarandi stuðningsþarfir",
+      "url": "https://island.is/samradsgatt/mal/4275",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "Staðsetning Landsréttar – áform um breytingu á lögum um dómstóla",
+      "url": "https://island.is/samradsgatt/mal/4282",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "Áform um breytingu á lögum um framhaldsskóla (skipulag náms, námslok o.fl.)",
+      "url": "https://island.is/samradsgatt/mal/4281",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "Áform um lagasetningu - Frumvarp til laga um breytingu á lögum um almannatryggingar, nr. 100/2007",
+      "url": "https://island.is/samradsgatt/mal/4280",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "Áform um frumvarp til laga um aldursmörk fyrir aðgengi barna að samfélagsmiðlum",
+      "url": "https://island.is/samradsgatt/mal/4279",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "Áform um frumvarp til laga um Ábyrgðasjóð launa",
+      "url": "https://island.is/samradsgatt/mal/4276",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "Drög að frumvarpi til laga til innleiðingar á tilskipun Evrópuþingsins og ráðsins (ESB) 2018/2001 um að auka notkun orku frá endurnýjanlegum orkugjöfum (EES-réttur)",
+      "url": "https://island.is/samradsgatt/mal/4274",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "Tímabundin aðlögun á nýjum reglum um eiginfjárkröfur til lánastofnana vegna markaðsáhættu",
+      "url": "https://island.is/samradsgatt/mal/4272",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "Frumvarp til laga um fjárfestingar ríkisins",
+      "url": "https://island.is/samradsgatt/mal/4266",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "Drög að viðmiðum fyrir ræstingarútboð ríkisins",
+      "url": "https://island.is/samradsgatt/mal/4273",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "Breytingar á reglugerðum vegna einföldunar eftirlits",
+      "url": "https://island.is/samradsgatt/mal/4260",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "Áform um lagasetningu - breyting á búvörulögum og búnaðarlögum um framlengingu búvörusamninga",
+      "url": "https://island.is/samradsgatt/mal/4271",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "Drög að reglum um úthlutun styrkja úr nýsköpunar- og þróunarsjóði fjölmiðla",
+      "url": "https://island.is/samradsgatt/mal/4268",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "Áform um lagasetningu - innleiðing reglugerðar (ESB) 2025/914",
+      "url": "https://island.is/samradsgatt/mal/4267",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "Drög að breytingu á reglugerð um endurgreiðslu virðisaukaskatts til erlendra fyrirtækja, nr. 1243/2019",
+      "url": "https://island.is/samradsgatt/mal/4264",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "Áform um breytingu á vændiskaupaákvæði almennra hegningarlaga",
+      "url": "https://island.is/samradsgatt/mal/4265",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "Drög að reglugerð um heilsugæslu",
+      "url": "https://island.is/samradsgatt/mal/4257",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "Áform um lagasetningu um breytingu á lögum um stuðning við nýsköpunarfyrirtæki nr. 152/2009",
+      "url": "https://island.is/samradsgatt/mal/4263",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "Áform um breytingar á lögum um öryggi net- og upplýsingakerfa mikilvægra innviða nr. 78/2019",
+      "url": "https://island.is/samradsgatt/mal/4262",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "Drög að frumvarpi sifjalaganefndar til nýrra hjúskaparlaga",
+      "url": "https://island.is/samradsgatt/mal/4242",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "Stjórnskipulag gagna",
+      "url": "https://island.is/samradsgatt/mal/4259",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "Áform um lagasetningu - frumvarp til laga um Stafræna heilsu",
+      "url": "https://island.is/samradsgatt/mal/4255",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "Reglugerð um gildistöku reglugerða ESB um stafrænan viðnámsþrótt fjármálamarkaðar",
+      "url": "https://island.is/samradsgatt/mal/4248",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "Allsherjarúttekt Sameinuðu þjóðanna á stöðu mannréttindamála- drög að skýrslu",
+      "url": "https://island.is/samradsgatt/mal/4256",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "Drög að reglugerð um fjarheilbrigðisþjónustu",
+      "url": "https://island.is/samradsgatt/mal/4254",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "Svar Íslands við spurningalista (List of Issues) sérfræðinefndar SÞ um réttindi fatlaðs fólks - drög",
+      "url": "https://island.is/samradsgatt/mal/4244",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "Sviðslistastefna 2026-2030",
+      "url": "https://island.is/samradsgatt/mal/4235",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "Hvítbók um byggðamál",
+      "url": "https://island.is/samradsgatt/mal/4251",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "Drög að reglugerð um breytingu á reglugerð um flokkunarkerfi fyrir sjálfbærar fjárfestingar, nr. 10/2024",
+      "url": "https://island.is/samradsgatt/mal/4249",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "Áætlun um innleiðingu EES-gerða á fjármálamarkaði",
+      "url": "https://island.is/samradsgatt/mal/4247",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "Drög að reglugerð um notkun síma og snjalltækja í grunnskóla",
+      "url": "https://island.is/samradsgatt/mal/4246",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "Drög að aðgerðaáætlun um þjónustu við einstaklinga með heilabilun fyrir árin 2026-2030",
+      "url": "https://island.is/samradsgatt/mal/4245",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "Drög að reglugerð um aðstoðarmannakort fatlaðs fólks",
+      "url": "https://island.is/samradsgatt/mal/4210",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "Áform um breytingar á námsmatshluta aðalnámskrár grunnskóla",
+      "url": "https://island.is/samradsgatt/mal/4241",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "Áform um frumvarp til laga um breytingu á hafnalögum (Gjaldaákvæði hafnalaga)",
+      "url": "https://island.is/samradsgatt/mal/4240",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "Drög að reglugerð um vanhæfismörk við stjórn ökutækis vegna neyslu lyfja",
+      "url": "https://island.is/samradsgatt/mal/4239",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "Drög að reglugerð um (6.) breytingu á reglugerð nr. 200/1998 um búfjármörk, markaskrár og takmörkun á sammerkingum búfjár",
+      "url": "https://island.is/samradsgatt/mal/4238",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "Drög að reglugerð um (4.) breytingu á reglugerð nr. 442/2011 um uppruna og ræktun íslenska hestsins",
+      "url": "https://island.is/samradsgatt/mal/4237",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "Drög að reglugerð um merkingar og skráningar dýra",
+      "url": "https://island.is/samradsgatt/mal/4236",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "Reglugerð um tilkynningar til þátttakenda í vísindarannsókn á heilbrigðissviði",
+      "url": "https://island.is/samradsgatt/mal/4233",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "Skipan nefndar til að kanna aðbúnað barna sem vistuð voru fyrir atbeina stjórnvalda á einkaheimilum",
+      "url": "https://island.is/samradsgatt/mal/4232",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "Drög að reglugerð um innra eftirlit",
+      "url": "https://island.is/samradsgatt/mal/4231",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "Áform um frumvarp til laga um breytingu á skipalögum (heimildir LHG)",
+      "url": "https://island.is/samradsgatt/mal/4230",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "Reglugerð um upplýsingaskyldu flytjenda, söfnun, vinnslu, miðlun og varðveislu upplýsinga um farþega og áhöfn skv. l. lið 1. mgr. 23. gr. laga um landamæri nr. 136/2022",
+      "url": "https://island.is/samradsgatt/mal/4229",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "Drög að reglugerð um flugvernd (heildarendurskoðun)",
+      "url": "https://island.is/samradsgatt/mal/4219",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "Kynjuð fjárlagagerð: Stöðumat og valkostir",
+      "url": "https://island.is/samradsgatt/mal/4217",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "Drög að reglugerð um Byggðastofnun",
+      "url": "https://island.is/samradsgatt/mal/4227",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "Drög að frumvarpi um breytingar á lögum um Byggðastofnun",
+      "url": "https://island.is/samradsgatt/mal/4226",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "Drög að reglugerð um málsmeðferð vegna ákvörðunar um vistun barna með fjölþættar stuðningsþarfir í sérhæfð vistunarúrræði á vegum ríkisins *Umsagnarfrestur hefur verið framlengdur til 12. maí*",
+      "url": "https://island.is/samradsgatt/mal/4221",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "Reglugerð um kortlagningu óbyggðra víðerna **Frestur til að skila umsögn hefur verið framlengdur til 4.maí**",
+      "url": "https://island.is/samradsgatt/mal/4212",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "Áform um lagasetningu - frumvarp til laga um tæknifrjóvgun og notkun kynfrumna og fósturvísa manna til stofnfrumurannsókna (heildarendurskoðun)",
+      "url": "https://island.is/samradsgatt/mal/4224",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "Reglugerð um tilkynningarskyldu vegna færanlegrar starfsemi",
+      "url": "https://island.is/samradsgatt/mal/4223",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "Opin og ábyrg vísindi",
+      "url": "https://island.is/samradsgatt/mal/4214",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "Breyting á reglugerð um mennta- og starfsþróunarsetur lögreglu",
+      "url": "https://island.is/samradsgatt/mal/4215",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "Drög að reglugerð um innra eftirlit",
+      "url": "https://island.is/samradsgatt/mal/4209",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "Drög að reglugerð um endurgreiðslu ríkissjóðs á kostnaði vegna leiðsöguhunda við ferðalög notenda erlendis",
+      "url": "https://island.is/samradsgatt/mal/4208",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "Þátttaka Íslands í samstarfsáætlunum ESB 2028-2034",
+      "url": "https://island.is/samradsgatt/mal/4185",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "Drög að reglugerð um netöryggissveit (CERT-IS)",
+      "url": "https://island.is/samradsgatt/mal/4207",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "Drög að reglugerð um reikningagerð fyrir fjarskiptaþjónustu",
+      "url": "https://island.is/samradsgatt/mal/4206",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "Áform um mótun ungmennastefnu",
+      "url": "https://island.is/samradsgatt/mal/4187",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "Breyting á lögum um ökutækjatryggingar",
+      "url": "https://island.is/samradsgatt/mal/4197",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "Drög að frumvarpi til laga um breytingu á lögum um skyldutryggingu lífeyrisréttinda og starfsemi lífeyrissjóða, nr. 129/1997 (fjárfestingarheimildir lífeyrissjóða)",
+      "url": "https://island.is/samradsgatt/mal/4199",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "Grænbók um byggðamál",
+      "url": "https://island.is/samradsgatt/mal/4169",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "Drög að frumvarpi til laga um breytingu á lögum um útlendinga og lögreglulögum (verndarsamkomulag ESB)",
+      "url": "https://island.is/samradsgatt/mal/4196",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "Drög að tillögu til þingsályktunar um einstaklingssniðna heilbrigðisþjónustu",
+      "url": "https://island.is/samradsgatt/mal/4194",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "Drög að reglugerð um notkun Skráargatsins við markaðssetningu matvæla",
+      "url": "https://island.is/samradsgatt/mal/4192",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "Drög að frumvarpi til laga um breytingu á lögum um ársreikninga, nr. 3/2006 (stærðarhlutföll, endurskoðunarmörk, skilafrestir o.fl.)",
+      "url": "https://island.is/samradsgatt/mal/4171",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "Áform um breytingu á lögum um skyldutryggingu lífeyrisréttinda og starfsemi lífeyrissjóða (fjárfestingarheimildir lífeyrissjóða)",
+      "url": "https://island.is/samradsgatt/mal/4182",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "Drög að frumvarpi til laga um ráðstöfun séreignarsparnaðar inn á höfuðstól húsnæðislána (varanleg heimild)",
+      "url": "https://island.is/samradsgatt/mal/4181",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "Drög að frumvarpi til laga um sameiningu Matvælastofnunar, Fiskistofu og Verðlagsstofu skiptaverðs",
+      "url": "https://island.is/samradsgatt/mal/4178",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "Áform um breytingu á lögum um útlendinga og lögreglulögum (verndarsamkomulag ESB)",
+      "url": "https://island.is/samradsgatt/mal/4177",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "Drög að frumvarpi til laga um breytingu á lögum um Hafrannsóknastofnun, rannsókna- og ráðgjafarstofnun hafs og vatna",
+      "url": "https://island.is/samradsgatt/mal/4175",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "Drög að frumvarpi um breytingar á lögum um Gæða- og eftirlitsstofnun velferðarmála (rannsókn alvarlegra óvæntra atvika)",
+      "url": "https://island.is/samradsgatt/mal/4173",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "Drög að reglugerð um breytingu á reglugerð um leigubifreiðaakstur nr. 324/2023",
+      "url": "https://island.is/samradsgatt/mal/4164",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "Frumvarp til laga til innleiðingar á tilskipun Evrópuþingsins og ráðsins (ESB) 2018/2001 um að auka notkun orku frá endurnýjanlegum orkugjöfum",
+      "url": "https://island.is/samradsgatt/mal/4163",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "Drög að frumvarpi til laga um leiðarmerki og öryggi siglinga",
+      "url": "https://island.is/samradsgatt/mal/4162",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "Frumvarp til laga um stjórn vatnamála",
+      "url": "https://island.is/samradsgatt/mal/4139",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "Drög að stefnu í áfengis- og vímuvarnarmálum til ársins 2035",
+      "url": "https://island.is/samradsgatt/mal/4158",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "Áform um lagasetningu um breytingu á lögum um Landsbókasafn Íslands – Háskólabókasafn (Hljóðbókasafn og Kvikmyndasafn)",
+      "url": "https://island.is/samradsgatt/mal/4130",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "Saman gegn sóun - drög að stefnu og aðgerðaáætlun",
+      "url": "https://island.is/samradsgatt/mal/4156",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "Frumvarp til laga um breytingu á lögum um ársreikninga nr. 3/2006 (innleiðing EES reglna)",
+      "url": "https://island.is/samradsgatt/mal/4154",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "Drög að reglugerð um fyrirkomulag og framkvæmd samræmds námsmats í grunnskólum",
+      "url": "https://island.is/samradsgatt/mal/4153",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "Drög að reglugerð um starfsemi Fasteignasjóðs Jöfnunarsjóðs sveitarfélaga",
+      "url": "https://island.is/samradsgatt/mal/4151",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "Drög að reglugerð um breytingu á reglugerð um ökuskírteini nr. 830/2011",
+      "url": "https://island.is/samradsgatt/mal/4149",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "Áform um frumvarp til laga um aðlögunarkerfi við landamæri vegna kolefnis (EES-innleiðing, CBAM)",
+      "url": "https://island.is/samradsgatt/mal/4146",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "Drög að reglugerð um flokkun tilkynningar- og skráningarskyldra dýrasjúkdóma og smitefna",
+      "url": "https://island.is/samradsgatt/mal/4145",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "Drög að frumvarpi til laga um lagareldi",
+      "url": "https://island.is/samradsgatt/mal/4137",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "Frumvarp vegna sveitarstjórnarkosninga í Grindavík 2026",
+      "url": "https://island.is/samradsgatt/mal/4142",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "Frumvarp til laga um barnavernd",
+      "url": "https://island.is/samradsgatt/mal/4109",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "Frumvarpsdrög um netöryggisvottun á sviði upplýsinga- og fjarskiptatækni",
+      "url": "https://island.is/samradsgatt/mal/4141",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "Drög að frumvarpi til laga um breytingu á lögum 48/2011, um verndar- og orkunýtingaráætlun (vindorka og verndarflokkur)",
+      "url": "https://island.is/samradsgatt/mal/4140",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "Jöfnun atkvæðavægis - breyting á kosningalögum nr. 112/2021",
+      "url": "https://island.is/samradsgatt/mal/4136",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "Evrópsk græn skuldabréf (EGBR)",
+      "url": "https://island.is/samradsgatt/mal/4135",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "Áform um frumvarp til laga um breytingu á ýmsum lögum (EES-reglur - FuelEU Maritime)",
+      "url": "https://island.is/samradsgatt/mal/4134",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "Áform um lagasetningu vegna sveitarstjórnarkosninga í Grindavík 2026",
+      "url": "https://island.is/samradsgatt/mal/4129",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "Endurskoðun stjórnvaldsfyrirmæla um Jöfnunarsjóð sveitarfélaga eftir setningu laga nr. 56/2025",
+      "url": "https://island.is/samradsgatt/mal/4127",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "Áform um lagasetningu - Frumvarp til laga um lagareldi",
+      "url": "https://island.is/samradsgatt/mal/4120",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "Drög að frumvarpi um breytingu á lögum um landhelgi, aðlægt belti, efnahagslögsögu og landgrunn, nr. 41/1979 (afmörkun landgrunns)",
+      "url": "https://island.is/samradsgatt/mal/4115",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "Áformaskjöl vegna frumvarps til laga um breytingu á lögum um Matvælastofnun, Fiskistofu o.fl. (sameining stofnana)",
+      "url": "https://island.is/samradsgatt/mal/4114",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "Drög að reglugerð um flutning sauð- og geitfjár yfir varnarlínur",
+      "url": "https://island.is/samradsgatt/mal/4110",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "Reglugerð um innleiðingu BEREC",
+      "url": "https://island.is/samradsgatt/mal/4108",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "Frumvarp til laga um breytingu á lögum um stuðning við nýsköpunarfyrirtæki (framkvæmd)",
+      "url": "https://island.is/samradsgatt/mal/4103",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "Stöðumat og valkostir um stefnu um opinbera þjónustu",
+      "url": "https://island.is/samradsgatt/mal/4101",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "Drög að reglugerð um riðuveiki í fé",
+      "url": "https://island.is/samradsgatt/mal/4090",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "Drög að frumvarpi til laga um breytingu á samkeppnislögum",
+      "url": "https://island.is/samradsgatt/mal/4100",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "Drög að breytingu á reglugerð um einangrun og einangrunarstöðvar fyrir gæludýr, nr. 201/2020",
+      "url": "https://island.is/samradsgatt/mal/4098",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "Drög að breytingu á reglugerð um innflutning hunda og katta, nr. 200/2020",
+      "url": "https://island.is/samradsgatt/mal/4097",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "Drög að reglugerð um breytingu á reglugerð um velferð sauðfjár og geitfjár, nr. 1066/2014",
+      "url": "https://island.is/samradsgatt/mal/4096",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "Drög að frumvarpi til laga um breytingu á lögum um nálgunarbann og brottvísun af heimili nr. 85/2011",
+      "url": "https://island.is/samradsgatt/mal/4095",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "Skýrsla um hlutverk og starfsskilyrði embættismanna",
+      "url": "https://island.is/samradsgatt/mal/4094",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "Drög að frumvarpi til laga um breytingu á búvörulögum (framleiðendafélög)",
+      "url": "https://island.is/samradsgatt/mal/4076",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "Drög að frumvarpi til laga um breytingu á lögum um Schengen-upplýsingakerfið, nr. 51/2021",
+      "url": "https://island.is/samradsgatt/mal/4086",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "Aðgengi að vefsetrum og smáforritum opinberra aðila",
+      "url": "https://island.is/samradsgatt/mal/4085",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "Grindavík – næstu skref í endurreisn",
+      "url": "https://island.is/samradsgatt/mal/4083",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "Drög að reglugerð um (17.) breytingu á reglugerð nr. 674/2017 um heilbrigðisreglur að því er varðar aukaafurðir úr dýrum og afleiddar afurðir sem ekki eru ætlaðar til manneldis",
+      "url": "https://island.is/samradsgatt/mal/4082",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "Drög að reglugerð um breytingu á reglugerð um ökuskírteini nr. 830/2011",
+      "url": "https://island.is/samradsgatt/mal/4079",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "Drög að frumvarpi til laga um brottfararstöð",
+      "url": "https://island.is/samradsgatt/mal/4078",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "Drög að frumvarpi til laga um rýni á fjárfestingum erlendra aðila vegna þjóðaröryggis og allsherjarreglu",
+      "url": "https://island.is/samradsgatt/mal/4077",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "Áform um frumvarp til laga um breytingu á lögum um stuðning við nýsköpunarfyrirtæki nr. 152/2009",
+      "url": "https://island.is/samradsgatt/mal/4074",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "Breyting á lögum um tímabundnar endurgreiðslur til kvikmyndagerðar á Íslandi",
+      "url": "https://island.is/samradsgatt/mal/4073",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "Drög að frumvarpi til laga um breytinga á almennum hegningarlögum nr. 19/1940 (öryggisráðstafanir)",
+      "url": "https://island.is/samradsgatt/mal/4069",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "Drög að frumvarpi til markaðssetningarlaga",
+      "url": "https://island.is/samradsgatt/mal/4066",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "Áform um nefndahús",
+      "url": "https://island.is/samradsgatt/mal/4064",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "Áform um breytingu á lögum nr. 48/2011 um verndar- og orkunýtingaráætlun vegna vindorku og verndarflokks áætlunarinnar",
+      "url": "https://island.is/samradsgatt/mal/4063",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "Frumvarp til laga til innleiðingar á reglugerð (EU) 2023/2405 (ReFuelEU Aviation Regulation)​",
+      "url": "https://island.is/samradsgatt/mal/4057",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "Drög að frumvarpi. Breyting á lögum um faggildingu o.fl. og lögum um staðla og Staðlaráð Íslands",
+      "url": "https://island.is/samradsgatt/mal/4053",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "Áform um breytingu á lögum um tímabundnar endurgreiðslur vegna kvikmyndagerðar á Íslandi",
+      "url": "https://island.is/samradsgatt/mal/4050",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "Drög að landsákvörðuðu framlagi Íslands 2035 til Parísarsamningsins",
+      "url": "https://island.is/samradsgatt/mal/4051",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "Fæðuöryggi á Íslandi. Staða og horfur - 2025",
+      "url": "https://island.is/samradsgatt/mal/4048",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "Áform um frumvarp til laga um breytingu á lögum um meðferð sakamála, nr. 88/2008 og lögreglulaga, nr. 90/1996 (embætti ákæruvalds og lögreglu)",
+      "url": "https://island.is/samradsgatt/mal/4047",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "Breytingar á uppgjörsreglum virðisaukaskatts o.fl. til skoðunar",
+      "url": "https://island.is/samradsgatt/mal/4043",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "Áform um breytingu á samkeppnislögum",
+      "url": "https://island.is/samradsgatt/mal/4046",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "Áform um breytingu á lögum nr. 85/2011 um nálgunarbann og brottvísun af heimili",
+      "url": "https://island.is/samradsgatt/mal/4041",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "Reglugerð um merkingu og lýsingu hindrana til verndar loftförum á flugi",
+      "url": "https://island.is/samradsgatt/mal/4033",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "Áform um frumvarp til laga um breytingu á almennum hegningarlögum, nr. 19/1940 (öryggisráðstafanir)",
+      "url": "https://island.is/samradsgatt/mal/4026",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "Skýrsla starfshóps um verndun, miðlun og rannsóknir á menningararfi íslensks arkitektúrs",
+      "url": "https://island.is/samradsgatt/mal/3992",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "Áform um breytingu á lögum nr. 41/1979 um landhelgi, aðlægt belti, efnhagslögsögu og landgrunn",
+      "url": "https://island.is/samradsgatt/mal/4025",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "Frumvarp til laga um uppbótarskatt á skattstofna innan samstæðna sem sæta lægri skatti en lágmarksskatti",
+      "url": "https://island.is/samradsgatt/mal/3986",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "Áform um frumvarp til laga um brottfararstöð",
+      "url": "https://island.is/samradsgatt/mal/4023",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "Frumvarp til laga um Netöryggisstofnun Evrópu (ENISA) og netöryggisvottunarkerfi upplýsinga- og fjarskiptatækni vöru, þjónustu og ferla",
+      "url": "https://island.is/samradsgatt/mal/4022",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "Flugöryggisáætlun Íslands - State Safety Programme 2025",
+      "url": "https://island.is/samradsgatt/mal/4019",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "Frumvarp til laga um almannavarnir",
+      "url": "https://island.is/samradsgatt/mal/3999",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "Drög að frumvarpi um nikótín- og tóbaksvörur",
+      "url": "https://island.is/samradsgatt/mal/4017",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "Áform um breytingu á lögum um Schengen upplýsingakerfið",
+      "url": "https://island.is/samradsgatt/mal/4014",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "Áform um breytingu á lögum um meðferð sakamála (bótafjárhæðir)",
+      "url": "https://island.is/samradsgatt/mal/4013",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "Áform um endurskoðun laga um vitamál nr. 132/1999",
+      "url": "https://island.is/samradsgatt/mal/4001",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "Áform um breytingar á 112. gr. almennra hegningarlaga um tálmun lögreglurannsóknar",
+      "url": "https://island.is/samradsgatt/mal/3990",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "Drög að forgangslista við hagsmunagæslu Íslands gagnvart Evrópusambandinu (ESB) fyrir árin 2024 – 2029",
+      "url": "https://island.is/samradsgatt/mal/3979",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "Frumvarp til laga um varnir gegn tóbaki og nikótíni (heildarlög)",
+      "url": "https://island.is/samradsgatt/mal/3989",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "Drög að reglugerð um breytingu á reglugerð nr. 1067/2011 um þjónustuaðila brunavarna með síðari breytingum",
+      "url": "https://island.is/samradsgatt/mal/3985",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "Drög að skýrslu um aðgerðaáætlun lýðheilsustefnu 2025-2029",
+      "url": "https://island.is/samradsgatt/mal/3976",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "Áform um lagasetningu um rýni á fjárfestingum erlendra aðila vegna þjóðaröryggis og allsherjarreglu",
+      "url": "https://island.is/samradsgatt/mal/3971",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "Drög að gjaldskrá Matvælastofnunar",
+      "url": "https://island.is/samradsgatt/mal/3951",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "Reglugerð um 13. breytingu á reglugerð nr. 745/2016 um vigtun og skráningu sjávarafla",
+      "url": "https://island.is/samradsgatt/mal/3950",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "Drög að frumvarpi til laga um breytingar á varnarmálalögum nr. 34/2008 (netöryggi)",
+      "url": "https://island.is/samradsgatt/mal/3946",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "Breyting á reglugerð um pappírslaust peningahappdrætti Happdrættis Háskóla Íslands",
+      "url": "https://island.is/samradsgatt/mal/3945",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "Drög að frumvarpi til laga um breytingu á lögum nr. 85/2007, um veitingastaði, gististaði og skemmtanahald (skilyrði fyrir skammtímaleigu, miðlun upplýsinga, tímabinding rekstrarleyfa)",
+      "url": "https://island.is/samradsgatt/mal/3942",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "Áform um breytingu á lögum um faggildingu o.fl",
+      "url": "https://island.is/samradsgatt/mal/3940",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "Drög að tillögu til þingsályktunar um stefnu um farsæld barna",
+      "url": "https://island.is/samradsgatt/mal/3935",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "Drög að frumvarpi til laga um breytingu á lögum um leigubifreiðaakstur, nr. 120/2022 (öryggi í leigubifreiðaþjónustu og starfsumhverfi leigubifreiðastjóra)",
+      "url": "https://island.is/samradsgatt/mal/3916",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "Frumvarp til laga um breytingu á lögum um meðferð sakamála, almennum hegningarlögum ofl. (endurheimt ávinnings af afbrotum ofl.)",
+      "url": "https://island.is/samradsgatt/mal/3934",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "Stuðningur til einkarekinna fjölmiðla",
+      "url": "https://island.is/samradsgatt/mal/3928",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "Frumvarp til laga um breytingu á lögum um kirkjugarða, greftrun og líkbrennslu nr. 36/1993 (rekstur líkhúsa)",
+      "url": "https://island.is/samradsgatt/mal/3918",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "Frumvarp um breytingar á lögum um landamæri, lögreglulögum og tollalögum (farþegaupplýsingar fyrir lögreglu og tollyfirvöld)",
+      "url": "https://island.is/samradsgatt/mal/3909",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "Áform um frumvarp til laga um lágmarksskatt á fjölþjóðleg stórfyrirtæki",
+      "url": "https://island.is/samradsgatt/mal/3907",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "Drög að frumvarpi til laga um breytingu á lögum um þjónustu- og þekkingarmiðstöð fyrir blinda, sjónskerta og einstaklinga með samþætta sjón- og heyrnarskerðingu, nr. 160/2008 (heiti stofnunar)",
+      "url": "https://island.is/samradsgatt/mal/3905",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "Frumvarp til laga um breytingar á jarðalögum, nr. 81/2004 (forkaupsréttur sameigenda o.fl.)",
+      "url": "https://island.is/samradsgatt/mal/3897",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "Aðalnámskrá tónlistarskóla - almennur hluti",
+      "url": "https://island.is/samradsgatt/mal/3884",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "Áformaskjal vegna frumvarps til laga um breytingar á jarðalögum, nr. 81/2004 (forkaupsréttur sameigenda, slit)",
+      "url": "https://island.is/samradsgatt/mal/3887",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "Drög að reglugerð um breytingu á reglugerð um stærð og þyngd ökutækja, nr. 155/2007 og reglugerð um gerð og búnað ökutækja, nr. 822/2004",
+      "url": "https://island.is/samradsgatt/mal/3883",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "Frumvarp til laga um breytingu á ýmsum lögum vegna einföldunar og samræmingar leyfisferla á sviði umhverfis- og orkumála",
+      "url": "https://island.is/samradsgatt/mal/3871",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "Drög að reglugerð um breytingu á reglugerð nr. 605/2010 um aksturs- og hvíldartíma ökumanna, notkun ökurita og eftirlit",
+      "url": "https://island.is/samradsgatt/mal/3876",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "Skýrsla um kolefnismarkaði - Áskoranir og tækifæri í íslensku samhengi",
+      "url": "https://island.is/samradsgatt/mal/3870",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "Gjaldtaka vegna umsókna um viðurkenningu menntunar og starfsreynslu erlendra iðnaðarmanna",
+      "url": "https://island.is/samradsgatt/mal/3865",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "Drög að reglugerð um upplýsingaskyldu rekstraraðila í heilbrigðisþjónustu vegna sjúklingatryggingar",
+      "url": "https://island.is/samradsgatt/mal/3861",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "Gildistaka reglugerðar Evrópusambandsins um skortsölu og skuldatryggingar",
+      "url": "https://island.is/samradsgatt/mal/3860",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "Tillögur starfshóps um gerð tillagna að lagabreytingum á sviði fasteignakaupa",
+      "url": "https://island.is/samradsgatt/mal/3841",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "Breyting á reglugerð um fjárhagsleg viðmið og eftirlit með fjármálum sveitarfélaga",
+      "url": "https://island.is/samradsgatt/mal/3849",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "Breyting á kosningalögum",
+      "url": "https://island.is/samradsgatt/mal/3844",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "Einföldun málsmeðferðar laga um framsal sakamanna og aðra aðstoð í sakamálum",
+      "url": "https://island.is/samradsgatt/mal/3846",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "Áform um breytingar á lögum um meðferð sakamála og meðferð einkamála. Meðferð kæru- og áfrýjunarbeiðna fyrir Hæstarétti, aðgangur að gögnum hjá lögreglu og skýrslutökur á rannsóknarstigi",
+      "url": "https://island.is/samradsgatt/mal/3845",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "Drög að reglugerð um breytingu á byggingarreglugerð, nr. 112/2012, með síðari breytingum (ljósvist)",
+      "url": "https://island.is/samradsgatt/mal/3843",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "Framlenging á stuðningi til einkarekinna fjölmiðla",
+      "url": "https://island.is/samradsgatt/mal/3839",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "Endurútgáfa reglugerðar um för yfir landamæri",
+      "url": "https://island.is/samradsgatt/mal/3355",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "Drög að reglugerð um framlög Jöfnunarsjóðs sveitarfélaga vegna þjónustu við fatlað fólk",
+      "url": "https://island.is/samradsgatt/mal/3820",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "Frumvarp til breytinga á áfengislögum - vefverslun",
+      "url": "https://island.is/samradsgatt/mal/3834",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "Frumvarp til laga um breytingu á lögum um siglingavernd (áhættumat hafnaraðstöðu)",
+      "url": "https://island.is/samradsgatt/mal/3825",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "Áform um breytingu á lögum um siglingavernd (áhættumat hafnaraðstöðu)",
+      "url": "https://island.is/samradsgatt/mal/3818",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "Frumvarp til laga um breytingu á lögum um stöðu íslenskrar tungu og íslensks táknmáls og fleiri lögum",
+      "url": "https://island.is/samradsgatt/mal/3770",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "Áform um lagasetningu til breytinga á lögum um ársreikninga, lögum um endurskoðendur og endurskoðun ofl. - innleiðing á sjálfbærnireikningsskilatilskipun ESB (CSRD)",
+      "url": "https://island.is/samradsgatt/mal/3798",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "Mótun framtíðarfyrirkomulags skólastyrkveitinga GRÓ til framhaldsnáms (meistara- og doktorsnám)",
+      "url": "https://island.is/samradsgatt/mal/3811",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "Reglugerð um flutning á hergögnum og varnartengdum vörum",
+      "url": "https://island.is/samradsgatt/mal/3810",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "Frumvarp um umhverfismat framkvæmda og áætlana - afhúðun",
+      "url": "https://island.is/samradsgatt/mal/3808",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "Frumvarp til laga um breytingu á lögum um heilbrigðisþjónustu (Stjórn Sjúkrahússins á Akureyri)",
+      "url": "https://island.is/samradsgatt/mal/3802",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "Áform um breytingu á lögum um dómstóla (leyfi dómara)",
+      "url": "https://island.is/samradsgatt/mal/3797",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "Breyting á lögum um grunnskóla (námsmat)",
+      "url": "https://island.is/samradsgatt/mal/3795",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "Áform um breytingu á lögum um meðferð sakamála o.fl. (endurheimt ávinnings, netbrot o.fl. breytingar vegna alþjóðasamninga)",
+      "url": "https://island.is/samradsgatt/mal/3763",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "Áform um breytingu á lögum um grunnskóla, nr. 91/2008 (námsmat)",
+      "url": "https://island.is/samradsgatt/mal/3779",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "Drög að breytingu á reglugerð nr. 745/2016 um vigtun og skráningu sjávarafla",
+      "url": "https://island.is/samradsgatt/mal/3782",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "Breyting á reglugerð um íslensk vegabréf nr. 560/2009",
+      "url": "https://island.is/samradsgatt/mal/3788",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "Áform um breytingu á ýmsum lögum vegna einföldunar leyfisferla, samræming málsmeðferðar o.fl. í umhverfis- og orkumálum",
+      "url": "https://island.is/samradsgatt/mal/3776",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "Breyting á lögum um evrópskt eftirlitskerfi á fjármálamarkaði o.fl",
+      "url": "https://island.is/samradsgatt/mal/3771",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "Áform um breytingu á lögum um svæðisbunda flutningsjöfnun",
+      "url": "https://island.is/samradsgatt/mal/3769",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "Reglugerð um umhverfisupplýsingar",
+      "url": "https://island.is/samradsgatt/mal/3765",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "Áform um breytingu á lögum um framsal sakamanna og aðra aðstoð í sakamálum (einföldun málsmeðferðar)",
+      "url": "https://island.is/samradsgatt/mal/3764",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "Áform um gerð samninga við Þekkingarsetur á landsbyggðinni",
+      "url": "https://island.is/samradsgatt/mal/3755",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "Drög að rannsóknaráætlun 2024-2026 um rannsóknir og gagnaöflun í ferðaþjónustu",
+      "url": "https://island.is/samradsgatt/mal/3760",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "Breyting á reglugerð nr. 474/2017 um leyfi til að stunda farþegaflutninga og farmflutninga á landi",
+      "url": "https://island.is/samradsgatt/mal/3757",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "Drög að reglugerð um breytingu á reglugerð um skoðun ökutækja",
+      "url": "https://island.is/samradsgatt/mal/3754",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "Áform um heildstæða stefnumótun fullnustumála (Grænbók)",
+      "url": "https://island.is/samradsgatt/mal/3752",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "REGLUGERÐ um öryggi fjarskiptaneta og fjarskiptaþjónustu",
+      "url": "https://island.is/samradsgatt/mal/3744",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "Landsáætlun um útrýmingu á sauðfjárriðu",
+      "url": "https://island.is/samradsgatt/mal/3737",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "Drög að reglugerð um veitingu hafnarþjónustu og um sameiginlegar reglur um gagnsæi í fjármálum fyrir hafnir",
+      "url": "https://island.is/samradsgatt/mal/3746",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "Framkvæmdaáætlun um stefnu Íslands í málefnum norðurslóða",
+      "url": "https://island.is/samradsgatt/mal/3741",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "Skilvirkari leyfisveitingar á sviði umhverfis- og orkumála",
+      "url": "https://island.is/samradsgatt/mal/3733",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "Drög að tillögu til þingsályktunar um stefnu í neytendamálum til 2030",
+      "url": "https://island.is/samradsgatt/mal/3735",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "Endurskoðun greinasviða aðalnámskrá grunnskóla",
+      "url": "https://island.is/samradsgatt/mal/3728",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "Breyting á reglum um notkun á losunar- og sjósetningarbúnaði í skipum yfir 15 metrum að lengd samkvæmt reglugerð nr. 122/2004 og reglum nr. 189/1994",
+      "url": "https://island.is/samradsgatt/mal/3727",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "Aðgerðaráætlun landbúnaðarstefnu",
+      "url": "https://island.is/samradsgatt/mal/3704",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "Aðgerðaáætlun matvælastefnu",
+      "url": "https://island.is/samradsgatt/mal/3703",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "Breyting á lögum um listamannalaun",
+      "url": "https://island.is/samradsgatt/mal/3725",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "Drög að bókmenntastefnu",
+      "url": "https://island.is/samradsgatt/mal/3701",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "Kosningar - kostnaðarskipting ríkis og sveitarfélaga",
+      "url": "https://island.is/samradsgatt/mal/3723",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "Frumvarp til laga um námsgögn",
+      "url": "https://island.is/samradsgatt/mal/3713",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "Drög að frumvarpi til markaðssetningarlaga",
+      "url": "https://island.is/samradsgatt/mal/3696",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "Lágmarkskrafa um eiginfjárgrunn og hæfar skuldbindingar fjármálafyrirtækja",
+      "url": "https://island.is/samradsgatt/mal/3670",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "Reglugerð um áburðarvörur",
+      "url": "https://island.is/samradsgatt/mal/3705",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "Drög að tillögu til þingsályktunar um ferðamálastefnu og aðgerðaáætlun til 2030",
+      "url": "https://island.is/samradsgatt/mal/3702",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "Frumvarp til laga um inngildandi menntun",
+      "url": "https://island.is/samradsgatt/mal/3699",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "Drög að frumvarpi til laga um breytingu á lögum um velferð dýra nr. 55/2013 o.fl. (eftirlit)",
+      "url": "https://island.is/samradsgatt/mal/3693",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "Frumvarp til laga um skák",
+      "url": "https://island.is/samradsgatt/mal/3688",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "Frumvarp til laga um breytingu á lögum nr. 96/2023 um viðskiptakerfi ESB með losunarheimildir (ETS2-kerfið)",
+      "url": "https://island.is/samradsgatt/mal/3686",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "Kosningar - drög að reglugerðum",
+      "url": "https://island.is/samradsgatt/mal/3683",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "Kosningar - drög að reglugerðum",
+      "url": "https://island.is/samradsgatt/mal/3662",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "Skýrsludrög: Lykiláhrif tæknibyltinga á starfs- og rekstrarumhverfi skapandi greina á Íslandi",
+      "url": "https://island.is/samradsgatt/mal/3669",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "Gullhúðun EES-reglna",
+      "url": "https://island.is/samradsgatt/mal/3666",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "Drög að frumvarpi um breytingar á ýmsum lögum vegna eftirlits og leyfisveitinga Orkustofnunar (þjónustugjöld)",
+      "url": "https://island.is/samradsgatt/mal/3660",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "Drög að reglugerð um réttindi flugfarþega",
+      "url": "https://island.is/samradsgatt/mal/3659",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "Drög að reglugerð um fjárfestingastuðning í kornrækt",
+      "url": "https://island.is/samradsgatt/mal/3658",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "Frumvarp til laga um lokað búsetuúrræði",
+      "url": "https://island.is/samradsgatt/mal/3649",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "Drög að reglugerð um afnám leyfisskoðunar ökutækja",
+      "url": "https://island.is/samradsgatt/mal/3648",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "Drög að reglugerð um nafnskírteini",
+      "url": "https://island.is/samradsgatt/mal/3638",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "Hagsmunagæsla Íslands gagnvart ESB – uppfærður forgangslisti til ársins 2024",
+      "url": "https://island.is/samradsgatt/mal/3622",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "Drög að breytingu á reglugerð nr. 200/2020 um innflutning hunda og katta",
+      "url": "https://island.is/samradsgatt/mal/3627",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "Breyting á reglugerð nr. 814/2010",
+      "url": "https://island.is/samradsgatt/mal/3619",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "Frumvarp til laga um breytingu á lögum um Seðlabanka Íslands, nr. 92/2019 (rekstraröryggi í greiðslumiðlun)",
+      "url": "https://island.is/samradsgatt/mal/3621",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "Aðgerðaráætlun - Efling lífrænnar matvælaframleiðslu",
+      "url": "https://island.is/samradsgatt/mal/3620",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "Breyting á lögum um þjónustu við fatlað fólk með langvarandi stuðningsþarfir (reglugerðarheimild)",
+      "url": "https://island.is/samradsgatt/mal/3618",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "Fyrstu drög að aðgerðum í aðgerðaráætlun ferðamálastefnu 2030",
+      "url": "https://island.is/samradsgatt/mal/3591",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "Drög að frumvarpi til laga um breytingu á ýmsum lögum vegna þjóðlendna (starfslok óbyggðanefndar o.fl.)",
+      "url": "https://island.is/samradsgatt/mal/3613",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "Útlendingalög (alþjóðleg vernd)",
+      "url": "https://island.is/samradsgatt/mal/3608",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "Reglugerð um breytingu á reglugerð nr. 816/2011 um hafnarríkiseftirlit",
+      "url": "https://island.is/samradsgatt/mal/3606",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "Áform um breytingu á lögum um réttindagæslu fyrir fatlað fólk",
+      "url": "https://island.is/samradsgatt/mal/3598",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "Áform um lagasetningu um breytingu á ýmsum lögum vegna þjóðlendna (starfslok óbyggðanefndar o.fl.)",
+      "url": "https://island.is/samradsgatt/mal/3603",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "Breytingar á réttarfarslöggjöf (miðlun og form gagna, fjarþinghöld og birting ákæru í stafrænu pósthólfi)",
+      "url": "https://island.is/samradsgatt/mal/3590",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "Breyting á lögum um aðför og lögum um nauðungarsölu (stafræn málsmeðferð)",
+      "url": "https://island.is/samradsgatt/mal/3589",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "Frumvarp til laga um viðskiptakerfi ESB með losunarheimildir (EES-innleiðing)",
+      "url": "https://island.is/samradsgatt/mal/3584",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "Drög að frumvarpi um breytingar á lögreglulögum nr. 90/1996 (afbrotavarnir, vopnaburður og eftirlit með lögreglu)",
+      "url": "https://island.is/samradsgatt/mal/3582",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "Breyting á reglugerð nr. 514/2010 um styrk brennisteinsvetnis í andrúmslofti",
+      "url": "https://island.is/samradsgatt/mal/3579",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "Breyting á reglugerð nr. 787/1999 um loftgæði",
+      "url": "https://island.is/samradsgatt/mal/3577",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "Drög að frumvarpi til laga um breytingu á lögum nr. 25/1993, um dýrasjúkdóma og varnir gegn þeim, lögum nr. 22/1994 og lögum nr. 66/1998",
+      "url": "https://island.is/samradsgatt/mal/3565",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "Drög að breytingu á reglugerð nr. 580/2012 um framleiðslu og markaðssetningu aðila undir smáræðismörkum á matvælum og afhendingu frumframleiðenda á litlu magni matvæla beint til neytenda",
+      "url": "https://island.is/samradsgatt/mal/3563",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "Drög að frumvarpi um breytingu á búvörulögum nr. 99/1993 (framleiðendafélög)",
+      "url": "https://island.is/samradsgatt/mal/3559",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "Frumvarp til laga um breytingu á barnaverndarlögum nr. 80/2002 og lögum um félagsþjónustu sveitarfélaga nr. 40/1991 (reglugerðarheimildir)",
+      "url": "https://island.is/samradsgatt/mal/3552",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "Áform um breytingar á lögum um útlendinga (alþjóðleg vernd)",
+      "url": "https://island.is/samradsgatt/mal/3551",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "Drög að breytingu á reglugerð um endurgreiðslur vegna hljóðritunar á tónlist",
+      "url": "https://island.is/samradsgatt/mal/3543",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "Áform um lagasetningu - Breyting á búvörulögum nr. 99/1993 - Framleiðendafélög",
+      "url": "https://island.is/samradsgatt/mal/3528",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "Áform um breytingar á réttarfarslöggjöf (stafræn miðlun gagna og stafræn birting)",
+      "url": "https://island.is/samradsgatt/mal/3536",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "Breyting á lögræðislögum",
+      "url": "https://island.is/samradsgatt/mal/3533",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "Áform um frumvarp til laga um breytingu á húsaleigulögum, nr. 36/1994, með síðari breytingum (húsnæðisöryggi og réttarstaða leigjenda)",
+      "url": "https://island.is/samradsgatt/mal/3505",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "Drög að frumvarpi til laga um breytingu á húsaleigulögum, nr. 36/1994 (tillögur starfshóps um endurskoðun húsaleigulaga)",
+      "url": "https://island.is/samradsgatt/mal/3512",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "Áform um breytingar á lögum um söfnunarkassa og lögum um Happdrætti Háskóla Íslands (aðgerðir gegn peningaþvætti og fjármögnun hryðjuverka)",
+      "url": "https://island.is/samradsgatt/mal/3509",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "Áform um frumvarp til laga um breytingu á lögum um fjöleignarhús (samþykki annarra eigenda fyrir skammtímaleigu/gististarfsemi)",
+      "url": "https://island.is/samradsgatt/mal/3502",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "Útlendingar",
+      "url": "https://island.is/samradsgatt/mal/3498",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "Innlend óháð smágreiðslumiðlun",
+      "url": "https://island.is/samradsgatt/mal/3496",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "Breytingar á lögum um fatlað fólk með langvarandi stuðningsþarfir",
+      "url": "https://island.is/samradsgatt/mal/3490",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "Breytingar á lögum um Þjónustu- og þekkingarmiðstöð fyrir blinda, sjónskerta og einstaklinga með samþætta sjón- og heyrnarskerðingu",
+      "url": "https://island.is/samradsgatt/mal/3488",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "Drög að reglugerð um meðferð og nýtingu þjóðlendna",
+      "url": "https://island.is/samradsgatt/mal/3478",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "Áform um gerð samnings til fimm ára um kennslu og rannsóknir á háskólastigi",
+      "url": "https://island.is/samradsgatt/mal/3469",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "Breytt fyrirkomulag við skoðanir á skipum og búnaði þeirra",
+      "url": "https://island.is/samradsgatt/mal/3447",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "Drög að frumvarpi til laga um breytingar á lögum um endurskoðendur og endurskoðun og lögum um ársreikninga (endurskoðunarnefndir, siðareglur endurskoðenda, sektarákvæði o.fl.)",
+      "url": "https://island.is/samradsgatt/mal/3445",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "Fjárnám og nauðungarsala - stafræn málsmeðferð",
+      "url": "https://island.is/samradsgatt/mal/3441",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "Afnám banns við framleiðslu áfengis til einkaneyslu (heimabruggun)",
+      "url": "https://island.is/samradsgatt/mal/3440",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "Stefna um nýtt námsmat grunnskóla - Matsferill",
+      "url": "https://island.is/samradsgatt/mal/3433",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "Drög að reglugerð um leigubifreiðaakstur",
+      "url": "https://island.is/samradsgatt/mal/3432",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "Áform um gerð samnings til fimm ára um kennslu og rannsóknir á háskólastigi",
+      "url": "https://island.is/samradsgatt/mal/3428",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "Frumvarp til laga um breytingu á lögum um vaktstöð siglinga, nr. 41/2003",
+      "url": "https://island.is/samradsgatt/mal/3424",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "Drög að gjaldskrá Matvælastofnunar",
+      "url": "https://island.is/samradsgatt/mal/3423",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "Breytingar á vopnalögum, hálfsjálfvirk og sjálfvirk skotvopn og innleiðing á tilskipun Evrópuþingsins- og ráðsins 2021/555",
+      "url": "https://island.is/samradsgatt/mal/3419",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "Frumvarp til laga um breytingu á lögum um ríkislögmann, nr. 51/1985",
+      "url": "https://island.is/samradsgatt/mal/3417",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "Frumvarp til laga um breytingu á hafnalögum, nr. 61/2003 (gjaldtaka o.fl.)",
+      "url": "https://island.is/samradsgatt/mal/3409",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "Drög að þingsályktunartillögu um matvælastefnu",
+      "url": "https://island.is/samradsgatt/mal/3403",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "Drög að þingsályktunartillögu um landbúnaðarstefnu",
+      "url": "https://island.is/samradsgatt/mal/3402",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "Drög að frumvarpi til laga um breytingu á lögum um Evrópska efnahagssvæðið nr. 2/1993, með síðari breytingum (bókun 35)",
+      "url": "https://island.is/samradsgatt/mal/3399",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "Áform um breytingu á lögum um ríkislögmann, nr. 51/1985",
+      "url": "https://island.is/samradsgatt/mal/3395",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "Neyðarbirgðir eldsneytis",
+      "url": "https://island.is/samradsgatt/mal/3392",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "Drög að reglugerð um breytingu á reglugerð nr. 944/2014, um öryggi leikfanga og markaðssetningu þeirra á Evrópska efnahagssvæðinu",
+      "url": "https://island.is/samradsgatt/mal/3388",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "Áform um frumvarp til laga um gagnaöflun um farsæld barna",
+      "url": "https://island.is/samradsgatt/mal/3385",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "Afnám banns við heimabruggun á áfengi til einkaneyslu",
+      "url": "https://island.is/samradsgatt/mal/3382",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "Drög að frumvarpi til laga um Land og skóg",
+      "url": "https://island.is/samradsgatt/mal/3380",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "Drög að reglum um skilríki starfsmanna sendiráða, kjörræðismanna o.fl",
+      "url": "https://island.is/samradsgatt/mal/3372",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "Heilbrigðiskröfur til fiskara",
+      "url": "https://island.is/samradsgatt/mal/3371",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "Drög að reglugerð um breytingu á reglugerð nr. 956/2006 um starfshætti þeirra sem annast löggildingar mælitækja í umboði Neytendastofu",
+      "url": "https://island.is/samradsgatt/mal/3367",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "Drög að þingsályktunartillögu um aðgerðaáætlun um þjónustu við eldra fólk 2023-2027",
+      "url": "https://island.is/samradsgatt/mal/3366",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "Frumvarp til laga um breytingu á lögum um Orkusjóð",
+      "url": "https://island.is/samradsgatt/mal/3363",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "Drög að frumvarpi um sanngirnisbætur",
+      "url": "https://island.is/samradsgatt/mal/3353",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "Frumvarp til laga um uppbyggingu og rekstur flugvalla og þjónustu við flugumferð",
+      "url": "https://island.is/samradsgatt/mal/3351",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "Drög að frumvarpi til laga um breytingar á lögum um endurskoðendur og endurskoðun og lögum um ársreikninga (endurskoðunarnefndir, siðareglur endurskoðenda o.fl.)",
+      "url": "https://island.is/samradsgatt/mal/3340",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "Sanngirnisbætur",
+      "url": "https://island.is/samradsgatt/mal/3348",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "Frumvarp til laga um breytingu á lögum nr. 65/2015 um leigu skráningarskyldra ökutækja",
+      "url": "https://island.is/samradsgatt/mal/3339",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "Drög að Rannsóknaráætlun 2023-2025 um rannsóknir og gagnaöflun í ferðaþjónustu",
+      "url": "https://island.is/samradsgatt/mal/3327",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "Frumvarp til laga um breytingum á ýmsum lögum vegna gjaldskrár Matvælastofnunar (gjaldskrárheimildir)",
+      "url": "https://island.is/samradsgatt/mal/3319",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "Breyting á ákvæðum fjölmiðlalaga er varða stuðning til einkarekinna fjölmiðla (framlenging gildistíma og endurskoðun einstakra ákvæða)",
+      "url": "https://island.is/samradsgatt/mal/3302",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "Drög að frumvarpi til laga um rýni á fjárfestingum erlendra aðila vegna þjóðaröryggis og allsherjarreglu",
+      "url": "https://island.is/samradsgatt/mal/3310",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "Drög að reglugerð um breytingu á reglugerð um leigubifreiðar nr. 397/2003",
+      "url": "https://island.is/samradsgatt/mal/3300",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "Drög að frumvarpi um breytingar á lögum nr. 110/2016 um tímabundnar endurgreiðslur vegna hljóðritunar á tónlist (framlenging gildistíma laganna og endurskoðun einstakra ákvæða)",
+      "url": "https://island.is/samradsgatt/mal/3299",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "Frumvarp til laga um breytingu á hafnalögum, nr. 61/2003 (EES-reglur)",
+      "url": "https://island.is/samradsgatt/mal/3290",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "Frumvarp til laga um breytingu á þinglýsingalögum, nr. 39/1978, og fleiri lögum (stafrænt Ísland, tæknilegt hlutleysi þinglýsinga, rafrænar skuldaviðurkenningar o.fl.)",
+      "url": "https://island.is/samradsgatt/mal/3257",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "Drög að reglugerð um breytingu á reglugerð um Kvikmyndasjóð, nr. 229/2003",
+      "url": "https://island.is/samradsgatt/mal/3266",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "Frumvarp til laga um breytingu á kvikmyndalögum nr. 137/2001 (framleiðslustyrkur til lokafjármögnunar)",
+      "url": "https://island.is/samradsgatt/mal/3265",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "Drög að breytingu á reglugerð um starfsumhverfi leikskóla, nr. 655/2009",
+      "url": "https://island.is/samradsgatt/mal/3205",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "Drög að reglugerð um smíði, hönnun og búnað skipa með mestu lengd allt að 15 metrum",
+      "url": "https://island.is/samradsgatt/mal/3209",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "Drög að tónlistarstefnu",
+      "url": "https://island.is/samradsgatt/mal/3259",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "Frumvarp til laga um tónlist",
+      "url": "https://island.is/samradsgatt/mal/3258",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "Drög að reglugerð um brottfall reglugerða",
+      "url": "https://island.is/samradsgatt/mal/3240",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "Áform um frumvarp til laga um heimild til að stofna opinbert hlutafélag um uppbyggingu og rekstur samgönguinnviða",
+      "url": "https://island.is/samradsgatt/mal/3243",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "Áform um frumvarp til laga um uppbyggingu og rekstur flugvalla og veitingu flugleiðsöguþjónustu",
+      "url": "https://island.is/samradsgatt/mal/3241",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "Drög að reglugerð um breytingu á reglugerð um starfsemi og aðbúnað á skammtímadvalarstöðum, nr. 1037/2018",
+      "url": "https://island.is/samradsgatt/mal/3239",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "Drög að reglugerð um breytingu á reglugerð um notendastýrða persónulega aðstoð, nr. 1250/2018",
+      "url": "https://island.is/samradsgatt/mal/3238",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "Drög að reglugerð um umferðarmerki og notkun þeirra",
+      "url": "https://island.is/samradsgatt/mal/3237",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "Drög að reglugerð um breytingu á reglugerð um ökuskírteini nr. 830/2011",
+      "url": "https://island.is/samradsgatt/mal/3234",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "Frumvarp til laga um leigubifreiðaakstur",
+      "url": "https://island.is/samradsgatt/mal/3228",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "Öryggisþjónusta - frumvarp um öryggisráðstafanir og öryggisvistun",
+      "url": "https://island.is/samradsgatt/mal/3213",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "Öryggisþjónusta – kortlagning, greining og stefna",
+      "url": "https://island.is/samradsgatt/mal/3212",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "Tillaga til þingsályktunar um málstefnu íslensks táknmáls",
+      "url": "https://island.is/samradsgatt/mal/3203",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "Breytingar á steypukafla byggingarreglugerðar",
+      "url": "https://island.is/samradsgatt/mal/3197",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "Aukið öryggi á vegum",
+      "url": "https://island.is/samradsgatt/mal/3196",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "Drög að stefnu og aðgerðaráætlun um orkuskipti í flugi",
+      "url": "https://island.is/samradsgatt/mal/3186",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "Reglugerð um heilbrigðisþjónustu, lyf og lækningatæki um borð í íslenskum skipum",
+      "url": "https://island.is/samradsgatt/mal/3188",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "Reglugerð um breytingu á reglugerð nr. 524/2008 um afmörkun siglingaleiða, svæði sem ber að forðast og tilkynningaskyldu skipa fyrir Suðvesturland",
+      "url": "https://island.is/samradsgatt/mal/3190",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "Drög að reglugerð um breytingu á reglugerð um girðingar meðfram vegum nr. 930/2012, með síðari breytingum",
+      "url": "https://island.is/samradsgatt/mal/3181",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "Drög að skýrslu starfshóps um smáfarartæki",
+      "url": "https://island.is/samradsgatt/mal/3194",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "Drög að reglugerð um breytingu á reglugerð um leigubifreiðar nr. 397/2003",
+      "url": "https://island.is/samradsgatt/mal/3193",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "Hagsmunagæsla Íslands gagnvart ESB - Forgangsmál 2022-2023",
+      "url": "https://island.is/samradsgatt/mal/3191",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "Frumvarp til laga um heimild Reykjavíkurborgar til að skipa nefnd til að kanna starfsemi vöggustofa",
+      "url": "https://island.is/samradsgatt/mal/3178",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "Frumvarp til laga um breytingu á hafnalögum, nr. 61/2003",
+      "url": "https://island.is/samradsgatt/mal/3172",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "Drög að frumvarpi um breytingu á lögreglulögum nr. 90/1996 (afbrotvarnir og vopnaburður)",
+      "url": "https://island.is/samradsgatt/mal/3170",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "Frumvarp til laga um breytingu á lögum um vaktstöð siglinga, nr. 41/2003",
+      "url": "https://island.is/samradsgatt/mal/3168",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "Breytingar á lögum um aðgerðir gegn peningaþvætti og fjármögnun hryðjuverka",
+      "url": "https://island.is/samradsgatt/mal/3153",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "Frumvarp til laga um breytingu á lögum nr. 93/1995, um matvæli og lögum nr. 22/1994, um eftirlit með fóðri, áburði og sáðvöru (lífræn framleiðsla)",
+      "url": "https://island.is/samradsgatt/mal/3131",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "Frumvarp til laga um breytingu á lögum um Slysavarnaskóla sjómanna, nr. 33/1991",
+      "url": "https://island.is/samradsgatt/mal/3129",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "Upplýsingar í skýrslu stjórnar og framsetning þeirra",
+      "url": "https://island.is/samradsgatt/mal/3113",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "Drög að reglugerð um dagsektir Gæða- og eftirlitsstofnunar velferðarmála",
+      "url": "https://island.is/samradsgatt/mal/3105",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "Reglugerð um breytingu á reglugerð nr. 616/2017 um rannsóknir og forvarnir gegn sjóslysum og sjóatvikum.",
+      "url": "https://island.is/samradsgatt/mal/3104",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "Drög að reglugerð um breytingu á reglugerð nr. 956/2006 um starfshætti þeirra sem annast löggildingar mælitækja í umboði Neytendastofu",
+      "url": "https://island.is/samradsgatt/mal/3100",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "Drög að reglugerð um Kvikmyndasjóð",
+      "url": "https://island.is/samradsgatt/mal/3089",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "Drög að auglýsingu um flokkun vöru og þjónustu vegna vörumerkja",
+      "url": "https://island.is/samradsgatt/mal/3069",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "Drög að reglugerð um breytingu á reglugerð nr. 850/2020 um umsóknir og skráningu vörumerkja, félagamerkja og ábyrgðar- og gæðamerkja",
+      "url": "https://island.is/samradsgatt/mal/3031",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "Drög að reglugerð um (3.) breytingu á reglugerð nr. 1294/2014, um miðlun upplýsinga um matvæli til neytenda",
+      "url": "https://island.is/samradsgatt/mal/2943",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "Áform um frumvarp til laga um breytingu á hafnalögum, nr. 61/2003.",
+      "url": "https://island.is/samradsgatt/mal/3096",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "Áform um frumvarp til laga um breytingu á lögum um vaktstöð siglinga, nr. 41/2003.",
+      "url": "https://island.is/samradsgatt/mal/3097",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "Fyrirhuguð samningsgerð við Verzlunarskóla Íslands",
+      "url": "https://island.is/samradsgatt/mal/3090",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "Drög að rannsóknaráætlun Ferðamálastofu 2022-2024",
+      "url": "https://island.is/samradsgatt/mal/3085",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "Drög að reglugerð um viðbúnað og viðbrögð við smitsjúkdómum í dýrum",
+      "url": "https://island.is/samradsgatt/mal/3077",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "Fyrirhugaður samningur við Hönnunarsafn Íslands",
+      "url": "https://island.is/samradsgatt/mal/3064",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "Drög að reglugerð um áfyllingarstöðvar fyrir vélknúin ökutæki",
+      "url": "https://island.is/samradsgatt/mal/3059",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "Drög að reglugerð um breytingu á reglugerð nr. 1040/2005",
+      "url": "https://island.is/samradsgatt/mal/3052",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "Drög að reglugerð um breytingu á reglugerð um leigubifreiðar nr. 397/2003",
+      "url": "https://island.is/samradsgatt/mal/3057",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "Reglugerð um niðurdælingu koldíoxíðs",
+      "url": "https://island.is/samradsgatt/mal/3035",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "Drög að breytingu á lögum vegna innleiðingar hringrásarhagkerfis",
+      "url": "https://island.is/samradsgatt/mal/2880",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "Drög að reglugerð um öryggiskröfur fyrir jarðgöng",
+      "url": "https://island.is/samradsgatt/mal/2989",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "Mótun skuldbindinga íslenskra stjórnvalda í tengslum við þátttöku í átaksverkefni UN Women, Kynslóð jafnréttis (e. Generation Equality Forum).",
+      "url": "https://island.is/samradsgatt/mal/2970",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "Eignarráð og nýting fasteigna (landamerki, óskipt sameign, forkaupsréttur, aðilar utan EES)",
+      "url": "https://island.is/samradsgatt/mal/2960",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "Áform um frumvarp til laga um breytingu á lögum um Samskiptamiðstöð heyrnarlausra og heyrnarskertra, nr. 129/1990",
+      "url": "https://island.is/samradsgatt/mal/2907",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "Óskipt sameign að jörðum, reglur um ákvörðunartöku o.fl.",
+      "url": "https://island.is/samradsgatt/mal/2896",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "Drög að reglum vegna styrkveitinga til eflingar hringrásarhagkerfisins með grænni nýsköpun",
+      "url": "https://island.is/samradsgatt/mal/2865",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "Breyting á reglugerð um stjórnvaldssektir vegna brota á efnalögum",
+      "url": "https://island.is/samradsgatt/mal/2848",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "Drög að reglugerð um birgðaskrárvottorð yfir hættuleg efni í skipum og breyting á reglugerð nr. 816/2001 um hafnarríkiseftirlit.",
+      "url": "https://island.is/samradsgatt/mal/2814",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "Drög að frumvarpi til laga um breytingu á lögum nr. 49/1997 um varnir gegn snjóflóðum og skriðuföllum (markmiðsákvæði, endurskoðun hættumats, sektir o.fl.)",
+      "url": "https://island.is/samradsgatt/mal/2781",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "Áform um frumvarp til laga um breytingar á lögum nr. 49/1997 um varnir gegn snjóflóðum og skriðuföllum",
+      "url": "https://island.is/samradsgatt/mal/2755",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "Drög að reglugerð um gerð og búnað reiðhjóla",
+      "url": "https://island.is/samradsgatt/mal/2724",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "Stafræn ökuskírteini",
+      "url": "https://island.is/samradsgatt/mal/2690",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "Reglugerð um rekstur héraðsskjalasafns",
+      "url": "https://island.is/samradsgatt/mal/2621",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "Drög að reglugerð um vinnuskilyrði farmanna á farþega- og flutningaskipum.",
+      "url": "https://island.is/samradsgatt/mal/1304",
+      "reason": "utan vaktaðra efnisorða"
+    }
+  ],
+  "duplicates": [],
+  "rejected": []
+}

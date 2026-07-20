@@ -31,6 +31,9 @@ jobs:
       - name: Sækja ný UUA-mál
         run: npm run collect:uua
 
+      - name: Sækja ný mál úr Samráðsgátt
+        run: npm run collect:samrad
+
       - name: Vista keyrsluskýrslu
         uses: actions/upload-artifact@v4
         with:
@@ -38,14 +41,21 @@ jobs:
           path: data/uua-report.json
           retention-days: 14
 
+      - name: Vista skýrslu Samráðsgáttar
+        uses: actions/upload-artifact@v4
+        with:
+          name: samrad-report-${{ github.run_number }}
+          path: data/samrad-report.json
+          retention-days: 14
+
       - name: Birta aðeins ef málaskrá breyttist
         run: |
-          if git diff --quiet -- data/uua.json; then
-            echo "Engin ný eða breytt UUA-mál."
+          if git diff --quiet -- data/uua.json data/samrad.json; then
+            echo "Engin ný eða breytt mál."
             exit 0
           fi
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add data/uua.json
-          git commit -m "Uppfæra daglega UUA-vöktun"
+          git add data/uua.json data/samrad.json
+          git commit -m "Uppfæra daglega réttarvakt"
           git push
