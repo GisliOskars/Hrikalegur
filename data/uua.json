@@ -1,8 +1,20 @@
 {
   "source": "UUA",
   "sourceUrl": "https://uua.is/feed/",
-  "fetchedAt": "2026-07-21T10:14:04.977Z",
+  "fetchedAt": "2026-07-22T10:13:43.772Z",
   "items": [
+    {
+      "id": "https://uua.is/urleits/uua2607004-heitloftsthurrkun-ad-laugum/",
+      "caseNumber": "UUA2607004",
+      "category": "urskurdur",
+      "type": "Úrskurður",
+      "source": "UUA",
+      "publishedAt": "2026-07-21T12:15:17.000Z",
+      "title": "UUA2607004 Heitloftsþurrkun að Laugum",
+      "summary": "Mál nr. UUA2607004, kæra á ákvörðun Heilbrigðisnefndar Norðurlands eystra frá 3. júní 2026 um að gefa út starfsleyfi fyrir heitloftsþurrkun fiskafurða að Laugum í Reykjadal í Þingeyjarsveit.",
+      "tags": "umhverfisréttur úrskurður mengunarvarnir starfsleyfi stöðvun framkvæmda kæruheimild",
+      "url": "https://uua.is/urleits/uua2607004-heitloftsthurrkun-ad-laugum/"
+    },
     {
       "id": "https://uua.is/urleits/uua2603014-lyngas/",
       "caseNumber": "UUA2603014",
@@ -1166,18 +1178,6 @@
       "summary": "mál nr. 140/2025, kæra á ákvörðunum Reykjavíkurborgar frá 19. janúar 2024 og 21. janúar 2025 um álagningu gjalds vegna pappírsúrgangs og plasts frá fasteign kæranda að Kjarrvegi 13.",
       "tags": "umhverfisréttur úrskurður mengunarvarnir úrgangur kæruheimild",
       "url": "https://uua.is/urleits/140-2025-kjarrvegur/"
-    },
-    {
-      "id": "https://uua.is/urleits/2512005-skilti/",
-      "caseNumber": "UUA2512005",
-      "category": "urskurdur",
-      "type": "Úrskurður",
-      "source": "UUA",
-      "publishedAt": "2025-12-19T18:00:33.000Z",
-      "title": "UUA2512005 Skilti",
-      "summary": "Mál nr. UUA2512005, erindi Reykjavíkurborgar um að úrskurðarnefndin skeri úr um hvort uppsetning auglýsingaskilta innanhúss í gluggum bygginga sé háð byggingarleyfi.",
-      "tags": "umhverfisréttur úrskurður byggingarleyfi mannvirki",
-      "url": "https://uua.is/urleits/2512005-skilti/"
     }
   ]
 }
