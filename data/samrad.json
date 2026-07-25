@@ -1,7 +1,7 @@
 {
   "source": "Samráðsgátt",
   "sourceUrl": "https://island.is/samradsgatt/api/rss",
-  "fetchedAt": "2026-07-20T21:38:34.028Z",
+  "fetchedAt": "2026-07-25T09:26:41.040Z",
   "items": [
     {
       "id": "https://island.is/samradsgatt/mal/4278",
@@ -78,7 +78,7 @@
       "type": "Til samráðs",
       "source": "Samráðsgátt",
       "publishedAt": "2026-06-30T00:00:00.000Z",
-      "deadline": "2026-08-05T23:59:59.000Z",
+      "deadline": "2026-08-12T23:59:59.000Z",
       "title": "Reglugerð um Loftslags- og orkusjóð",
       "summary": "Umhverfis-, orku- og loftslagsráðuneytið kynnir til samráðs drög að nýrri reglugerð um Loftslags- og orkusjóð, í stað núgildandi reglugerðar um sama efni nr. 1566/2024.",
       "tags": "loftslagsmál loftslagsmál",
