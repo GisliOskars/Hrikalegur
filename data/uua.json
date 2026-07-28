@@ -1,8 +1,20 @@
 {
   "source": "UUA",
   "sourceUrl": "https://uua.is/feed/",
-  "fetchedAt": "2026-07-22T10:13:43.772Z",
+  "fetchedAt": "2026-07-28T10:23:14.523Z",
   "items": [
+    {
+      "id": "https://uua.is/urleits/uua2607016-fannborg/",
+      "caseNumber": "UUA2607016",
+      "category": "urskurdur",
+      "type": "Úrskurður",
+      "source": "UUA",
+      "publishedAt": "2026-07-27T18:00:53.000Z",
+      "title": "UUA2607016 Fannborg",
+      "summary": "Mál nr. UUA2607016, kæra á ákvörðun byggingarfulltrúa Kópavogsbæjar frá 17. júlí 2026 um að heimila niðurrif eftirstandandi mannvirkja á lóðinni Fannborg 2.",
+      "tags": "umhverfisréttur úrskurður byggingarleyfi deiliskipulag mannvirki stöðvun framkvæmda kæruheimild",
+      "url": "https://uua.is/urleits/uua2607016-fannborg/"
+    },
     {
       "id": "https://uua.is/urleits/uua2607004-heitloftsthurrkun-ad-laugum/",
       "caseNumber": "UUA2607004",
