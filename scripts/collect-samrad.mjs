@@ -2,6 +2,7 @@ import { mkdir, readFile, rename, writeFile } from "node:fs/promises";
 import { dirname, resolve } from "node:path";
 import { fileURLToPath } from "node:url";
 import { parseSamradDetail, parseSamradFeed, validateSamrad } from "./samrad-lib.mjs";
+import { fetchWithRetry } from "./fetch-retry.mjs";
 
 const root = resolve(dirname(fileURLToPath(import.meta.url)), "..");
 const outputPath = resolve(root, "data/samrad.json");
@@ -17,7 +18,15 @@ async function saveJson(path, value) {
 }
 
 try {
-  const response = await fetch(feedUrl, { headers: { "user-agent": "Hrikalegur/0.1 (+https://hrikalegur.is)" }, signal: AbortSignal.timeout(30000) });
+  const requestOptions = {
+    headers: {
+      "user-agent": "Mozilla/5.0 (compatible; Hrikalegur/0.1; +https://hrikalegur.is)",
+      "accept": "application/rss+xml, application/xml, text/xml;q=0.9, */*;q=0.8",
+      "accept-language": "is,en;q=0.7"
+    },
+    signal: AbortSignal.timeout(30000)
+  };
+  const response = await fetchWithRetry(feedUrl, requestOptions);
   if (!response.ok) throw new Error(`Samráðsgátt svaraði með stöðukóða ${response.status}.`);
   const parsed = parseSamradFeed(await response.text());
   const initial = validateSamrad(parsed);
@@ -27,7 +36,7 @@ try {
     const batch = initial.accepted.slice(offset, offset + 6);
     const enriched = await Promise.all(batch.map(async (item) => {
       try {
-        const detailResponse = await fetch(item.url, { headers: { "user-agent": "Hrikalegur/0.1 (+https://hrikalegur.is)" }, signal: AbortSignal.timeout(20000) });
+        const detailResponse = await fetchWithRetry(item.url, { ...requestOptions, signal: AbortSignal.timeout(20000) }, { attempts: 2, delays: [1200] });
         if (!detailResponse.ok) throw new Error(`stöðukóði ${detailResponse.status}`);
         const detail = parseSamradDetail(await detailResponse.text(), item.url.match(/\/mal\/(\d+)/)?.[1]);
         return { ...item, ...detail, tags: `${item.tags} ${detail.tags}`.trim(), summary: detail.summary || item.summary };
@@ -53,7 +62,13 @@ try {
   });
   console.log(`Samráðsgátt: ${accepted.length} viðeigandi mál, ${newItems.length} ný, ${ignored.length} utan vöktunar.`);
 } catch (error) {
-  await saveJson(reportPath, { ok: false, source: "Samráðsgátt", sourceUrl: feedUrl, checkedAt: now, error: error.message });
-  console.error(`Vöktun Samráðsgáttar mistókst: ${error.message}`);
-  process.exitCode = 1;
+  const previousExists = await readFile(outputPath, "utf8").then(() => true).catch(() => false);
+  await saveJson(reportPath, { ok: false, source: "Samráðsgátt", sourceUrl: feedUrl, checkedAt: now, preservedPreviousData: previousExists, error: error.message });
+  const message = `Vöktun Samráðsgáttar mistókst: ${error.message}. ${previousExists ? "Síðustu gildu gögn voru varðveitt." : "Engin eldri gögn fundust."}`;
+  if (process.env.SAMRAD_SOFT_FAIL === "1" && previousExists) {
+    console.warn(message);
+  } else {
+    console.error(message);
+    process.exitCode = 1;
+  }
 }
