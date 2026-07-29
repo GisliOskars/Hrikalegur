@@ -1,4 +1,4 @@
-name: Dagleg UUA-vöktun
+name: Dagleg réttarvakt
 
 on:
   schedule:
@@ -9,7 +9,7 @@ permissions:
   contents: write
 
 concurrency:
-  group: uua-daily-monitoring
+  group: daily-legal-monitoring
   cancel-in-progress: false
 
 jobs:
@@ -33,6 +33,8 @@ jobs:
 
       - name: Sækja ný mál úr Samráðsgátt
         run: npm run collect:samrad
+        env:
+          SAMRAD_SOFT_FAIL: "1"
 
       - name: Vista keyrsluskýrslu
         uses: actions/upload-artifact@v4
