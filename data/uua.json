@@ -1,8 +1,44 @@
 {
   "source": "UUA",
   "sourceUrl": "https://uua.is/feed/",
-  "fetchedAt": "2026-07-28T10:23:14.523Z",
+  "fetchedAt": "2026-08-05T10:23:45.290Z",
   "items": [
+    {
+      "id": "https://uua.is/urleits/uua2607012-skutahraun/",
+      "caseNumber": "UUA2607012",
+      "category": "urskurdur",
+      "type": "Úrskurður",
+      "source": "UUA",
+      "publishedAt": "2026-08-04T18:00:31.000Z",
+      "title": "UUA2607012 Skútahraun",
+      "summary": "Mál nr. UUA2607012, kæra á þeirri ákvörðun byggingarfulltrúa Hafnarfjarðar­kaupstaðar frá 18. júní 2026 að leggja dagsektir á lóðarhafa lóðar nr. 2 við Skútahraun.",
+      "tags": "umhverfisréttur úrskurður mannvirki stöðvun framkvæmda frestun réttaráhrifa kæruheimild",
+      "url": "https://uua.is/urleits/uua2607012-skutahraun/"
+    },
+    {
+      "id": "https://uua.is/urleits/uua2607013-sjokviaeldi-i-seydisfirdi/",
+      "caseNumber": "UUA2607013",
+      "category": "urskurdur",
+      "type": "Úrskurður",
+      "source": "UUA",
+      "publishedAt": "2026-08-04T18:00:24.000Z",
+      "title": "UUA2607013 Sjókvíaeldi í Seyðisfirði",
+      "summary": "Mál nr. UUA2607013, kæra á kæra á synjun Húsnæðis-, mannvirkja- og skipulags­stofnunar frá 9. júlí 2026 um að ljá eigendum sjávarjarðanna Austdals, Brimness 1 og 2, Dvergasteins og Selstaða aðild að stjórnsýslumáli um umsókn um…",
+      "tags": "umhverfisréttur úrskurður byggingarleyfi svæðisskipulag mannvirki haf- og strandsvæði veiðar sjókvíaeldi stöðvun framkvæmda frestun réttaráhrifa",
+      "url": "https://uua.is/urleits/uua2607013-sjokviaeldi-i-seydisfirdi/"
+    },
+    {
+      "id": "https://uua.is/urleits/uua2607015-fridlysing-grottu/",
+      "caseNumber": "UUA2607015",
+      "category": "urskurdur",
+      "type": "Úrskurður",
+      "source": "UUA",
+      "publishedAt": "2026-08-04T18:00:05.000Z",
+      "title": "UUA2607015 Friðlýsing Gróttu",
+      "summary": "Mál nr. UUA2607015, kæra á hluta ákvörðunar umhverfis-, orku- og loftslagsráðherra frá 1. júlí 2026 um friðlýsingu Gróttu og Seltjarnar.",
+      "tags": "umhverfisréttur úrskurður náttúruvernd loftslagsmál líffræðileg fjölbreytni mengunarvarnir frestun réttaráhrifa kæruheimild",
+      "url": "https://uua.is/urleits/uua2607015-fridlysing-grottu/"
+    },
     {
       "id": "https://uua.is/urleits/uua2607016-fannborg/",
       "caseNumber": "UUA2607016",
@@ -1154,42 +1190,6 @@
       "summary": "mál nr. 150/2025, kæra á ákvörðun skipulags- og umhverfisnefndar Fjallabyggðar frá 20. ágúst 2025 um að standa við fyrri samþykkt á útgáfu byggingarleyfis vegna Aðalgötu 14 á Ólafsfirði.",
       "tags": "umhverfisréttur úrskurður byggingarleyfi framkvæmdaleyfi deiliskipulag aðalskipulag grenndarkynning landnotkun mannvirki skipulagsmál kæruheimild",
       "url": "https://uua.is/urleits/150-2025-adalgata/"
-    },
-    {
-      "id": "https://uua.is/urleits/120-2025-vesturberg/",
-      "caseNumber": "120/2025",
-      "category": "urskurdur",
-      "type": "Úrskurður",
-      "source": "UUA",
-      "publishedAt": "2025-12-22T18:00:15.000Z",
-      "title": "120/2025 Vesturberg",
-      "summary": "mál nr. 120/2025, kæra á ákvörðunum Reykjavíkurborgar frá 21. janúar og 14. júlí 2025 um álagningu gjalda fyrir úrgang vegna fasteignar kæranda að Vestur­bergi 42.",
-      "tags": "umhverfisréttur úrskurður mengunarvarnir úrgangur veiðar kæruheimild",
-      "url": "https://uua.is/urleits/120-2025-vesturberg/"
-    },
-    {
-      "id": "https://uua.is/urleits/129-2025-borgaras/",
-      "caseNumber": "129/2025",
-      "category": "urskurdur",
-      "type": "Úrskurður",
-      "source": "UUA",
-      "publishedAt": "2025-12-22T18:00:13.000Z",
-      "title": "129/2025 Borgarás",
-      "summary": "mál nr. 129/2025, kæra á ákvörðun bæjarráðs Garðabæjar frá 16. júlí 2025 um að synja beiðni um afturköllun eða endurupptöku ákvörðunar um að samþykkja byggingarleyfi, dags. 30. janúar 2024, til að endurbyggja efri hæð og endurnýja…",
-      "tags": "umhverfisréttur úrskurður byggingarleyfi deiliskipulag grenndarkynning landnotkun mannvirki þvingunarúrræði stöðvun framkvæmda málshraði kæruheimild",
-      "url": "https://uua.is/urleits/129-2025-borgaras/"
-    },
-    {
-      "id": "https://uua.is/urleits/140-2025-kjarrvegur/",
-      "caseNumber": "140/2025",
-      "category": "urskurdur",
-      "type": "Úrskurður",
-      "source": "UUA",
-      "publishedAt": "2025-12-22T18:00:12.000Z",
-      "title": "140/2025 Kjarrvegur",
-      "summary": "mál nr. 140/2025, kæra á ákvörðunum Reykjavíkurborgar frá 19. janúar 2024 og 21. janúar 2025 um álagningu gjalds vegna pappírsúrgangs og plasts frá fasteign kæranda að Kjarrvegi 13.",
-      "tags": "umhverfisréttur úrskurður mengunarvarnir úrgangur kæruheimild",
-      "url": "https://uua.is/urleits/140-2025-kjarrvegur/"
     }
   ]
 }
