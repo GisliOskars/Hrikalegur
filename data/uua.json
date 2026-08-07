@@ -1,8 +1,20 @@
 {
   "source": "UUA",
   "sourceUrl": "https://uua.is/feed/",
-  "fetchedAt": "2026-08-05T10:23:45.290Z",
+  "fetchedAt": "2026-08-07T08:45:03.626Z",
   "items": [
+    {
+      "id": "https://uua.is/urleits/uua2605004-hafnarstett/",
+      "caseNumber": "UUA2605004",
+      "category": "urskurdur",
+      "type": "Úrskurður",
+      "source": "UUA",
+      "publishedAt": "2026-08-06T18:00:07.000Z",
+      "title": "UUA2605004 Hafnarstétt",
+      "summary": "Mál nr. UUA2605004, kæra á ákvörðun skipulags- og framkvæmdaráðs Norðurþings um að synja um leyfi til að setja tvo hringlaga glugga með opnanlegu fagi á suðurhlið hússins að Hafnarstétt 13, Húsavík.",
+      "tags": "umhverfisréttur úrskurður byggingarleyfi deiliskipulag mannvirki kæruheimild",
+      "url": "https://uua.is/urleits/uua2605004-hafnarstett/"
+    },
     {
       "id": "https://uua.is/urleits/uua2607012-skutahraun/",
       "caseNumber": "UUA2607012",
@@ -1178,18 +1190,6 @@
       "summary": "mál nr. 143/2025, kæra á ákvörðun byggingarfulltrúa Akureyrarbæjar frá 22. ágúst 2025 um að samþykkja byggingaráform og byggingarheimild um opnun milli fjöleignarhúsanna Hofsbótar 2 og 4.",
       "tags": "umhverfisréttur úrskurður byggingarleyfi mannvirki skipulagsmál kæruheimild",
       "url": "https://uua.is/urleits/143-2025-hofsbot/"
-    },
-    {
-      "id": "https://uua.is/urleits/150-2025-adalgata/",
-      "caseNumber": "150/2025",
-      "category": "urskurdur",
-      "type": "Úrskurður",
-      "source": "UUA",
-      "publishedAt": "2025-12-22T18:00:25.000Z",
-      "title": "150/2025 Aðalgata",
-      "summary": "mál nr. 150/2025, kæra á ákvörðun skipulags- og umhverfisnefndar Fjallabyggðar frá 20. ágúst 2025 um að standa við fyrri samþykkt á útgáfu byggingarleyfis vegna Aðalgötu 14 á Ólafsfirði.",
-      "tags": "umhverfisréttur úrskurður byggingarleyfi framkvæmdaleyfi deiliskipulag aðalskipulag grenndarkynning landnotkun mannvirki skipulagsmál kæruheimild",
-      "url": "https://uua.is/urleits/150-2025-adalgata/"
     }
   ]
 }
