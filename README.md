@@ -32,3 +32,11 @@ Safnarinn les opinberan RSS-straum með fréttum frá öllum ráðuneytum og bir
 ```sh
 npm run collect:stjornarrad
 ```
+
+## Dómstólar
+
+Dómstólasafnarinn les opinber RSS-streymi Hæstaréttar, Landsréttar og allra átta héraðsdómstólanna. Hann sækir opinbera reifun og lykilorð hvers dóms og birtir aðeins dóma sem falla að vöktuðum efnisorðum. Beinir dómatenglar, málsnúmer og dagsetningar eru sannreynd og eldri viðeigandi dómar varðveittir þegar þeir detta úr RSS-straumunum.
+
+```sh
+npm run collect:domstolar
+```

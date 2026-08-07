@@ -1,0 +1,55 @@
+{
+  "source": "Dómstólar",
+  "sourceUrl": "https://island.is/s/domstolar/domar",
+  "fetchedAt": "2026-08-07T21:58:05.428Z",
+  "items": [
+    {
+      "id": "https://island.is/domar/s-400129ED-34EB-4272-AB47-AA96D1CA00D7",
+      "caseNumber": "68/2025",
+      "category": "domur",
+      "type": "Dómur/úrskurður",
+      "source": "Hæstiréttur",
+      "publishedAt": "2026-05-27T15:00:00.000Z",
+      "title": "68/2025 · Hæstiréttur",
+      "summary": "S og Ó kröfðust þess að felld yrði úr gildi ákvörðum umhverfis-, orku- og loftslagsráðherra þar sem L var heimilað eignarnám til ótímabundinna afnota á landi þeirra vegna lagningar 220 kV háspennulínu, svonefndrar Suðurnesjalínu…",
+      "tags": "mat á umhverfisáhrifum loftslagsmál orkumál Stjórnarskrá Friðhelgi eignarréttar Eignarnám Raforka Umhverfismat Meðalhóf Rannsóknarregla Stjórnsýsla",
+      "url": "https://island.is/domar/s-400129ED-34EB-4272-AB47-AA96D1CA00D7",
+      "relevant": true,
+      "court": "Hæstiréttur",
+      "parties": "Dánarbú Sigríðar S. Jónsdóttur og Ólafur Þór Jónsson (Sigurður Örn Hilmarsson lögmaður) gegn Landsneti hf. (Þórður Bogason lögmaður) og íslenska ríkinu (Fanney Rós Þorsteinsdóttir ríkislögmaður)",
+      "courtKeywords": "Stjórnarskrá Friðhelgi eignarréttar Eignarnám Raforka Umhverfismat Meðalhóf Rannsóknarregla Stjórnsýsla"
+    },
+    {
+      "id": "https://island.is/domar/s-27921ED9-7CF9-4805-86F3-7B044C2D16F8",
+      "caseNumber": "67/2025",
+      "category": "domur",
+      "type": "Dómur/úrskurður",
+      "source": "Hæstiréttur",
+      "publishedAt": "2026-05-27T15:00:00.000Z",
+      "title": "67/2025 · Hæstiréttur",
+      "summary": "E og G kröfðust þess að felld yrði úr gildi ákvörðum umhverfis-, orku- og loftslagsráðherra þar sem L var heimilað eignarnám til ótímabundinna afnota á landi þeirra vegna lagningar 220 kV háspennulínu, svonefndrar Suðurnesjalínu…",
+      "tags": "mat á umhverfisáhrifum loftslagsmál orkumál Stjórnarskrá Friðhelgi eignarréttar Eignarnám Raforka Umhverfismat Meðalhóf Rannsóknarregla Stjórnsýsla",
+      "url": "https://island.is/domar/s-27921ED9-7CF9-4805-86F3-7B044C2D16F8",
+      "relevant": true,
+      "court": "Hæstiréttur",
+      "parties": "Eydís Lára Franzdóttir og Guðni Kjartan Franzon (Sigurður Örn Hilmarsson lögmaður) gegn Landsneti hf. (Þórður Bogason lögmaður) og íslenska ríkinu (Fanney Rós Þorsteinsdóttir ríkislögmaður)",
+      "courtKeywords": "Stjórnarskrá Friðhelgi eignarréttar Eignarnám Raforka Umhverfismat Meðalhóf Rannsóknarregla Stjórnsýsla"
+    },
+    {
+      "id": "https://island.is/domar/s-31146C15-5754-40DB-AC41-77BBAEAEEA32",
+      "caseNumber": "66/2025",
+      "category": "domur",
+      "type": "Dómur/úrskurður",
+      "source": "Hæstiréttur",
+      "publishedAt": "2026-05-27T15:00:00.000Z",
+      "title": "66/2025 · Hæstiréttur",
+      "summary": "R o.fl. kröfðust þess að felld yrði úr gildi ákvörðum umhverfis-, orku- og loftslagsráðherra þar sem L var heimilað eignarnám til ótímabundinna afnota á landi þeirra vegna lagningar 220 kV háspennulínu, svonefndrar Suðurnesjalínu…",
+      "tags": "mat á umhverfisáhrifum loftslagsmál orkumál Stjórnarskrá Friðhelgi eignarréttar Eignarnám Raforka Meðalhóf Umhverfismat Rannsóknarregla Stjórnsýsla",
+      "url": "https://island.is/domar/s-31146C15-5754-40DB-AC41-77BBAEAEEA32",
+      "relevant": true,
+      "court": "Hæstiréttur",
+      "parties": "Reykjaprent ehf., dánarbú Sigríðar S. Jónsdóttur, Jón Gestur Ólafsson, Freygerður Anna Ólafsdóttir og Edda Rún Ólafsdóttir (Sigurður Örn Hilmarsson lögmaður) gegn Landsneti hf (Þórður Bogason lögmaður) og íslenska ríkinu (Fanney Rós Þorsteinsdóttir ríkislögmaður)",
+      "courtKeywords": "Stjórnarskrá Friðhelgi eignarréttar Eignarnám Raforka Meðalhóf Umhverfismat Rannsóknarregla Stjórnsýsla"
+    }
+  ]
+}
