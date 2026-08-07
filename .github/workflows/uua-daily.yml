@@ -41,6 +41,11 @@ jobs:
         env:
           STJORNARRAD_SOFT_FAIL: "1"
 
+      - name: Sækja nýja dóma
+        run: npm run collect:domstolar
+        env:
+          DOMSTOLAR_SOFT_FAIL: "1"
+
       - name: Vista keyrsluskýrslu
         uses: actions/upload-artifact@v4
         with:
@@ -62,14 +67,21 @@ jobs:
           path: data/stjornarrad-report.json
           retention-days: 14
 
+      - name: Vista skýrslu dómstóla
+        uses: actions/upload-artifact@v4
+        with:
+          name: domstolar-report-${{ github.run_number }}
+          path: data/domstolar-report.json
+          retention-days: 14
+
       - name: Birta aðeins ef málaskrá breyttist
         run: |
-          if git diff --quiet -- data/uua.json data/samrad.json data/stjornarrad.json; then
+          if git diff --quiet -- data/uua.json data/samrad.json data/stjornarrad.json data/domstolar.json; then
             echo "Engin ný eða breytt mál."
             exit 0
           fi
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add data/uua.json data/samrad.json data/stjornarrad.json
+          git add data/uua.json data/samrad.json data/stjornarrad.json data/domstolar.json
           git commit -m "Uppfæra daglega réttarvakt"
           git push

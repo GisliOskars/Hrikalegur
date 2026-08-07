@@ -6,6 +6,7 @@
     "collect:uua": "node scripts/collect-uua.mjs",
     "collect:samrad": "node scripts/collect-samrad.mjs",
     "collect:stjornarrad": "node scripts/collect-stjornarrad.mjs",
+    "collect:domstolar": "node scripts/collect-domstolar.mjs",
     "test": "node --test"
   }
 }

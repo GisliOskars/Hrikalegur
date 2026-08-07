@@ -1,0 +1,526 @@
+{
+  "ok": true,
+  "source": "Dómstólar",
+  "sourceUrl": "https://island.is/s/domstolar/domar",
+  "checkedAt": "2026-08-07T21:58:05.428Z",
+  "changed": true,
+  "counts": {
+    "received": 100,
+    "accepted": 3,
+    "stored": 3,
+    "new": 3,
+    "ignored": 97,
+    "duplicates": 0,
+    "rejected": 0,
+    "feedErrors": 0,
+    "detailErrors": 0
+  },
+  "newItems": [
+    {
+      "id": "https://island.is/domar/s-400129ED-34EB-4272-AB47-AA96D1CA00D7",
+      "title": "68/2025 · Hæstiréttur",
+      "url": "https://island.is/domar/s-400129ED-34EB-4272-AB47-AA96D1CA00D7"
+    },
+    {
+      "id": "https://island.is/domar/s-27921ED9-7CF9-4805-86F3-7B044C2D16F8",
+      "title": "67/2025 · Hæstiréttur",
+      "url": "https://island.is/domar/s-27921ED9-7CF9-4805-86F3-7B044C2D16F8"
+    },
+    {
+      "id": "https://island.is/domar/s-31146C15-5754-40DB-AC41-77BBAEAEEA32",
+      "title": "66/2025 · Hæstiréttur",
+      "url": "https://island.is/domar/s-31146C15-5754-40DB-AC41-77BBAEAEEA32"
+    }
+  ],
+  "feedErrors": [],
+  "detailErrors": [],
+  "ignored": [
+    {
+      "title": "3/2026 · Hæstiréttur",
+      "url": "https://island.is/domar/s-90B64C86-61A8-4096-B5BB-05DD16953F9F",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "2/2026 · Hæstiréttur",
+      "url": "https://island.is/domar/s-BE2A1420-7AE9-4088-A08D-9E53036D0A6C",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "6/2026 · Hæstiréttur",
+      "url": "https://island.is/domar/s-21012F95-57CE-4D20-B4BA-8AD551B79CE2",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "59/2025 · Hæstiréttur",
+      "url": "https://island.is/domar/s-F022BBF4-E116-43F2-AADB-D2B74FE9D61F",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "23/2026 · Hæstiréttur",
+      "url": "https://island.is/domar/s-C0BB343A-856F-44BB-93AF-3D3D4BE9A297",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "22/2026 · Hæstiréttur",
+      "url": "https://island.is/domar/s-125F5F2B-890A-4813-929A-72585A2400C5",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "21/2026 · Hæstiréttur",
+      "url": "https://island.is/domar/s-3970A392-2E95-4C9E-8A2F-C304F9ED1943",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "605/2026 · Landsréttur",
+      "url": "https://island.is/domar/g-2d1148bf-125b-4a0b-9e26-39c35e234166",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "592/2026 · Landsréttur",
+      "url": "https://island.is/domar/g-fd91471a-2d00-47ea-b0c0-34e00de15a27",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "503/2026 · Landsréttur",
+      "url": "https://island.is/domar/g-84051ead-b2c7-4940-b1bc-243502ac1af5",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "597/2026 · Landsréttur",
+      "url": "https://island.is/domar/g-b2e65bfa-bef8-4eff-b88e-b7e38c6603bd",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "599/2026 · Landsréttur",
+      "url": "https://island.is/domar/g-924833e5-b457-4f8d-9af1-4527ff121963",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "558/2026 · Landsréttur",
+      "url": "https://island.is/domar/g-55c9ccce-529f-49c3-86da-e0cdb428a1a8",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "580/2026 · Landsréttur",
+      "url": "https://island.is/domar/g-7d3ca698-a37b-4816-b94b-cc276622106c",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "572/2026 · Landsréttur",
+      "url": "https://island.is/domar/g-ea629fd5-e0dd-4b57-833c-d992d58a4fd1",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "569/2026 · Landsréttur",
+      "url": "https://island.is/domar/g-0176f3b6-3146-4515-9371-dce680e9164a",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "567/2026 · Landsréttur",
+      "url": "https://island.is/domar/g-25ac3795-9ffc-49c4-827d-55e8dc198391",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "S-2188/2026 · Héraðsdómur Reykjavíkur",
+      "url": "https://island.is/domar/g-156ea359-b2a3-48d6-bafe-5509022c5e93",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "S-6685/2025 · Héraðsdómur Reykjavíkur",
+      "url": "https://island.is/domar/g-9f628d6e-0204-4dc6-8902-c4806b3531b2",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "S-251/2026 · Héraðsdómur Reykjavíkur",
+      "url": "https://island.is/domar/g-5776b904-9873-4b12-9b6d-bf4e525e249a",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "S-1043/2026 · Héraðsdómur Reykjavíkur",
+      "url": "https://island.is/domar/g-373037e2-aac7-49fe-9782-d110099819cc",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "S-2982/2026 · Héraðsdómur Reykjavíkur",
+      "url": "https://island.is/domar/g-0e80b4ae-0349-455c-a783-fcd8bbac5dc3",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "S-4820/2025 · Héraðsdómur Reykjavíkur",
+      "url": "https://island.is/domar/g-21d54a05-1ab4-4000-b04a-8b0aecf8633a",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "S-606/2026 · Héraðsdómur Reykjavíkur",
+      "url": "https://island.is/domar/g-7d66ebd5-05b6-4c13-b7d3-6642be516b4b",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "S-5824/2025 · Héraðsdómur Reykjavíkur",
+      "url": "https://island.is/domar/g-05975d77-47cb-446a-825c-43c95ca57e66",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "S-982/2026 · Héraðsdómur Reykjavíkur",
+      "url": "https://island.is/domar/g-43196353-0301-4c29-8715-ad351345e357",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "S-2412/2026 · Héraðsdómur Reykjavíkur",
+      "url": "https://island.is/domar/g-cdf90693-d5fd-4b8f-b089-8f0a2df7abf3",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "S-171/2026 · Héraðsdómur Vesturlands",
+      "url": "https://island.is/domar/g-ce4b6c56-bcb8-4ad3-a64f-4aa616ab698a",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "E-284/2025 · Héraðsdómur Vesturlands",
+      "url": "https://island.is/domar/g-c97113b5-4d0c-49c0-828a-6205c6a62761",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "S-65/2026 · Héraðsdómur Vesturlands",
+      "url": "https://island.is/domar/g-1a22e630-389a-415a-99d4-a861d40871dd",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "S-300/2025 · Héraðsdómur Vesturlands",
+      "url": "https://island.is/domar/g-fc6f2862-e137-4a59-9b35-67154a0b0966",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "S-124/2026 · Héraðsdómur Vesturlands",
+      "url": "https://island.is/domar/g-e2a20bd0-a50d-44a0-8fb7-9ec2cd29616c",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "S-195/2026 · Héraðsdómur Vesturlands",
+      "url": "https://island.is/domar/g-87df6625-9309-42b7-ab47-96596684de71",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "E-348/2025 · Héraðsdómur Vesturlands",
+      "url": "https://island.is/domar/g-a41ea00c-27fe-4ea5-90e4-dc49bcab5d35",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "S-10/2026 · Héraðsdómur Vesturlands",
+      "url": "https://island.is/domar/g-2cb762e9-c7e7-49d7-967e-954c32775131",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "E-349/2025 · Héraðsdómur Vesturlands",
+      "url": "https://island.is/domar/g-0eb0edca-a488-4992-9cda-83f5f73f329b",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "E-93/2024 · Héraðsdómur Vesturlands",
+      "url": "https://island.is/domar/g-b2a1a296-a7f5-48fd-b64f-7ee2316fa5b7",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "S-12/2026 · Héraðsdómur Vestfjarða",
+      "url": "https://island.is/domar/g-271a4c6e-f389-4a41-b270-dec164695282",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "S-18/2026 · Héraðsdómur Vestfjarða",
+      "url": "https://island.is/domar/g-63fc5288-e022-4073-85c3-083872caa262",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "E-22/2024 · Héraðsdómur Vestfjarða",
+      "url": "https://island.is/domar/g-4f964ea6-a957-412e-8500-3c325611cf95",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "S-8/2026 · Héraðsdómur Vestfjarða",
+      "url": "https://island.is/domar/g-8501740b-7f0b-43ad-8069-844ddaf5f06c",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "E-23/2024 · Héraðsdómur Vestfjarða",
+      "url": "https://island.is/domar/g-56b237fc-ab3d-49ff-bea0-5ae0171a1d90",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "S-9/2026 · Héraðsdómur Vestfjarða",
+      "url": "https://island.is/domar/g-061a1673-373e-4f32-81ed-4d8753e9d7f3",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "S-10/2026 · Héraðsdómur Vestfjarða",
+      "url": "https://island.is/domar/g-0455fd0a-a3f9-46f2-825f-2e3ad59eccbd",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "E-78/2024 · Héraðsdómur Vestfjarða",
+      "url": "https://island.is/domar/g-f7679854-33f2-4c53-a19d-3eedc2ee9dad",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "E-77/2025 · Héraðsdómur Vestfjarða",
+      "url": "https://island.is/domar/g-dcbd9802-99aa-422f-9589-bfcff70a7b12",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "S-99/2025 · Héraðsdómur Vestfjarða",
+      "url": "https://island.is/domar/g-d7c80d97-9357-4ace-bbcb-0953b50837da",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "S-95/2026 · Héraðsdómur Norðurlands vestra",
+      "url": "https://island.is/domar/g-d630ddf0-21f1-42e1-b4c4-aed78588c46b",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "S-90/2026 · Héraðsdómur Norðurlands vestra",
+      "url": "https://island.is/domar/g-f60b23ab-a6f9-4ae1-bd30-c61f6f01b044",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "S-77/2025 · Héraðsdómur Norðurlands vestra",
+      "url": "https://island.is/domar/g-c2220a0c-5e4a-4e01-b05f-da58a56350b6",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "S-59/2026 · Héraðsdómur Norðurlands vestra",
+      "url": "https://island.is/domar/g-8bd30c8a-4186-4a8a-b666-0fef10550c04",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "S-69/2026 · Héraðsdómur Norðurlands vestra",
+      "url": "https://island.is/domar/g-5c436f2d-b04e-4cc5-b3c1-910eae1b5f1c",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "S-55/2026 · Héraðsdómur Norðurlands vestra",
+      "url": "https://island.is/domar/g-2d50b911-ca9d-4334-863a-26cccc11527f",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "S-26/2026 · Héraðsdómur Norðurlands vestra",
+      "url": "https://island.is/domar/g-f3d4af22-b5c3-4c37-8c01-db86c1348087",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "E-89/2025 · Héraðsdómur Norðurlands vestra",
+      "url": "https://island.is/domar/g-f596d408-6397-41fa-a786-b229e0a52506",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "S-73/2025 · Héraðsdómur Norðurlands vestra",
+      "url": "https://island.is/domar/g-48dffca8-f48d-40ab-98ba-fab0073a9221",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "S-81/2025 · Héraðsdómur Norðurlands vestra",
+      "url": "https://island.is/domar/g-a9d0185c-d379-4ab2-addf-1f415f949e8e",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "S-83/2026 · Héraðsdómur Norðurlands eystra",
+      "url": "https://island.is/domar/g-e85d8e5c-1f80-4190-ac6d-1687c877680c",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "S-547/2024 · Héraðsdómur Norðurlands eystra",
+      "url": "https://island.is/domar/g-a332f1ca-9a0e-4d15-927e-99b751eb311e",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "S-746/2025 · Héraðsdómur Norðurlands eystra",
+      "url": "https://island.is/domar/g-553c1c8d-646f-4dbf-a932-a0ffa5b2b37c",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "S-426/2024 · Héraðsdómur Norðurlands eystra",
+      "url": "https://island.is/domar/g-d47ce5d8-6f54-45cc-aab1-4b71f13e4baa",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "S-716/2025 · Héraðsdómur Norðurlands eystra",
+      "url": "https://island.is/domar/g-0021efb1-9ddf-4a16-a721-55215719264c",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "S-689/2025 · Héraðsdómur Norðurlands eystra",
+      "url": "https://island.is/domar/g-76733f78-6c92-4d75-b3e9-24944f08cef3",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "S-713/2025 · Héraðsdómur Norðurlands eystra",
+      "url": "https://island.is/domar/g-d79bb348-c9d9-4360-9c10-e83bb1423588",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "E-253/2025 · Héraðsdómur Norðurlands eystra",
+      "url": "https://island.is/domar/g-aac2281f-6e26-471a-b181-cbd760998805",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "S-125/2025 · Héraðsdómur Norðurlands eystra",
+      "url": "https://island.is/domar/g-15e397bf-f7e6-4ead-bfb1-035afaf33c53",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "S-665/2025 · Héraðsdómur Norðurlands eystra",
+      "url": "https://island.is/domar/g-e853a699-d812-4fba-91fd-0e2f965116a0",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "S-42/2026 · Héraðsdómur Austurlands",
+      "url": "https://island.is/domar/g-660c81ea-a448-430d-a762-6fc285ffe4aa",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "S-13/2026 · Héraðsdómur Austurlands",
+      "url": "https://island.is/domar/g-1426929c-66c4-4734-91de-bd9f8ff3b8ea",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "E-93/2025 · Héraðsdómur Austurlands",
+      "url": "https://island.is/domar/g-319023e4-6322-44c3-98cb-bf91dac93996",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "S-77/2025 · Héraðsdómur Austurlands",
+      "url": "https://island.is/domar/g-026b0f5a-423b-4d95-8e1e-15934dd7803d",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "S-44/2026 · Héraðsdómur Austurlands",
+      "url": "https://island.is/domar/g-db2a33f6-b8c1-4ba7-b4c7-be47fca052ae",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "S-40/2026 · Héraðsdómur Austurlands",
+      "url": "https://island.is/domar/g-6a75a297-c979-4c37-88c7-c5441305cf9e",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "E-31/2025 · Héraðsdómur Austurlands",
+      "url": "https://island.is/domar/g-d1d2bfd7-e75b-42ee-9a6d-4c72484d30db",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "S-163/2025 · Héraðsdómur Austurlands",
+      "url": "https://island.is/domar/g-84d9e003-c136-4fe4-a0ba-e6f069812e5d",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "S-161/2025 · Héraðsdómur Austurlands",
+      "url": "https://island.is/domar/g-e0e2c7fb-9c04-4a0c-9729-3acd2a56f435",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "S-37/2025 · Héraðsdómur Austurlands",
+      "url": "https://island.is/domar/g-459f5528-0e99-4a28-8543-f38745364705",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "S-249/2026 · Héraðsdómur Suðurlands",
+      "url": "https://island.is/domar/g-5dd1c9df-e806-4e97-b717-f65d3a162bbe",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "S-309/2026 · Héraðsdómur Suðurlands",
+      "url": "https://island.is/domar/g-5ee7de7b-f361-4c6a-b8d7-e0ae7b3b083f",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "S-286/2026 · Héraðsdómur Suðurlands",
+      "url": "https://island.is/domar/g-e0a818fa-4dbd-4267-a8bf-cb0f59117a44",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "E-295/2025 · Héraðsdómur Suðurlands",
+      "url": "https://island.is/domar/g-c8f6c694-ae5d-4145-aa0d-8ff2244d9aeb",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "S-169/2026 · Héraðsdómur Suðurlands",
+      "url": "https://island.is/domar/g-328a7412-77f0-4c10-9550-ff3d109bc962",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "S-143/2026 · Héraðsdómur Suðurlands",
+      "url": "https://island.is/domar/g-a8f86999-6f50-4d07-aebd-e288c74fa6e0",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "S-113/2026 · Héraðsdómur Suðurlands",
+      "url": "https://island.is/domar/g-8bcf40e2-8829-4f0f-b851-6a5274ac522e",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "S-114/2026 · Héraðsdómur Suðurlands",
+      "url": "https://island.is/domar/g-cf27d733-cc74-4f4d-9f46-3792f534326b",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "E-325/2025 · Héraðsdómur Suðurlands",
+      "url": "https://island.is/domar/g-e6e7016f-ede6-4958-b6bb-4b08ce80f947",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "S-174/2026 · Héraðsdómur Suðurlands",
+      "url": "https://island.is/domar/g-b6335883-c8dd-494c-9629-c0c128fa417d",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "S-1613/2026 · Héraðsdómur Reykjaness",
+      "url": "https://island.is/domar/g-46e6cde6-8f9a-4787-8671-cb86dcee3cab",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "S-965/2026 · Héraðsdómur Reykjaness",
+      "url": "https://island.is/domar/g-a0548907-c3af-43a5-a111-d648e924e284",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "S-1939/2026 · Héraðsdómur Reykjaness",
+      "url": "https://island.is/domar/g-8cf65fa9-c868-4dd8-9bca-4692fc510f3c",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "E-1382/2026 · Héraðsdómur Reykjaness",
+      "url": "https://island.is/domar/g-bc2d71bf-69eb-491c-833b-ec9389e3040f",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "S-3597/2025 · Héraðsdómur Reykjaness",
+      "url": "https://island.is/domar/g-70a546c4-8cb6-4a76-94ef-0a0e88587dd6",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "S-387/2026 · Héraðsdómur Reykjaness",
+      "url": "https://island.is/domar/g-b43e4578-da6b-4004-9a91-b66d84f39195",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "S-1837/2026 · Héraðsdómur Reykjaness",
+      "url": "https://island.is/domar/g-b97c6cea-1693-4fc6-b9b0-24e5214e38a1",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "S-1437/2026 · Héraðsdómur Reykjaness",
+      "url": "https://island.is/domar/g-3e32792a-ffa2-48bf-ba7a-5537e7e5cb6b",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "S-963/2026 · Héraðsdómur Reykjaness",
+      "url": "https://island.is/domar/g-1ce04462-7c91-4491-9b84-338ffaaf56f7",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "S-1468/2026 · Héraðsdómur Reykjaness",
+      "url": "https://island.is/domar/g-568a3d33-97a1-45b8-ab65-5fc0f0d0f9d3",
+      "reason": "utan vaktaðra efnisorða"
+    }
+  ],
+  "duplicates": [],
+  "rejected": []
+}
