@@ -1,0 +1,43 @@
+{
+  "source": "Stjórnarráðið",
+  "sourceUrl": "https://www.stjornarradid.is/extensions/news/rss/Frettir-fra-ollum-raduneytum.rss",
+  "fetchedAt": "2026-08-07T21:43:42.593Z",
+  "items": [
+    {
+      "id": "https://www.stjornarradid.is/efst-a-baugi/frettir/stok-frett/2026/08/05/Aflaheimildir-til-strandveida-auknar-um-964-tonn/",
+      "category": "frett",
+      "type": "Frétt",
+      "source": "Stjórnarráðið",
+      "publishedAt": "2026-08-05T14:00:00.000Z",
+      "title": "Aflaheimildir til strandveiða auknar um 964 tonn",
+      "summary": "Innviðaráðherra hefur á ný aukið aflaheimildir til strandveiða á yfirstandandi strandveiðitímabili.",
+      "tags": "veiðar",
+      "url": "https://www.stjornarradid.is/efst-a-baugi/frettir/stok-frett/2026/08/05/Aflaheimildir-til-strandveida-auknar-um-964-tonn/",
+      "relevant": true
+    },
+    {
+      "id": "https://www.stjornarradid.is/efst-a-baugi/frettir/stok-frett/2026/07/28/Uthlutun-styrkja-Strandhreinsun-Islands-2026/",
+      "category": "frett",
+      "type": "Frétt",
+      "source": "Stjórnarráðið",
+      "publishedAt": "2026-07-28T09:05:00.000Z",
+      "title": "Úthlutun styrkja: Strandhreinsun Íslands 2026",
+      "summary": "Jóhann Páll Jóhannsson, umhverfis-, orku- og loftslagsráðherra, hefur úthlutað 18 styrkjum til verkefna sem felast í hreinsun á strandlengju Íslands á grundvelli tillögu Umhverfis- og orkustofnunar.",
+      "tags": "loftslagsmál",
+      "url": "https://www.stjornarradid.is/efst-a-baugi/frettir/stok-frett/2026/07/28/Uthlutun-styrkja-Strandhreinsun-Islands-2026/",
+      "relevant": true
+    },
+    {
+      "id": "https://www.stjornarradid.is/efst-a-baugi/frettir/stok-frett/2026/07/24/Frumvarpsdrog-um-innleidingu-a-CBAM-reglugerd-ESB-sett-i-Samradsgatt/",
+      "category": "frett",
+      "type": "Frétt",
+      "source": "Stjórnarráðið",
+      "publishedAt": "2026-07-24T11:19:00.000Z",
+      "title": "Frumvarpsdrög um innleiðingu á CBAM-reglugerð ESB sett í Samráðsgátt",
+      "summary": "Umhverfis-, orku- og loftslagsráðuneytið hefur birt í Samráðsgátt stjórnvalda frumvarp til innleiðingar á reglugerð Evrópuþingsins og ráðsins (ESB) 2023/956 frá 10. maí 2023 um að koma á fót aðlögunarkerfi við landamæri vegna…",
+      "tags": "loftslagsmál",
+      "url": "https://www.stjornarradid.is/efst-a-baugi/frettir/stok-frett/2026/07/24/Frumvarpsdrog-um-innleidingu-a-CBAM-reglugerd-ESB-sett-i-Samradsgatt/",
+      "relevant": true
+    }
+  ]
+}

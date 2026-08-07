@@ -36,6 +36,11 @@ jobs:
         env:
           SAMRAD_SOFT_FAIL: "1"
 
+      - name: Sækja nýjar fréttir Stjórnarráðsins
+        run: npm run collect:stjornarrad
+        env:
+          STJORNARRAD_SOFT_FAIL: "1"
+
       - name: Vista keyrsluskýrslu
         uses: actions/upload-artifact@v4
         with:
@@ -50,14 +55,21 @@ jobs:
           path: data/samrad-report.json
           retention-days: 14
 
+      - name: Vista skýrslu Stjórnarráðsins
+        uses: actions/upload-artifact@v4
+        with:
+          name: stjornarrad-report-${{ github.run_number }}
+          path: data/stjornarrad-report.json
+          retention-days: 14
+
       - name: Birta aðeins ef málaskrá breyttist
         run: |
-          if git diff --quiet -- data/uua.json data/samrad.json; then
+          if git diff --quiet -- data/uua.json data/samrad.json data/stjornarrad.json; then
             echo "Engin ný eða breytt mál."
             exit 0
           fi
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add data/uua.json data/samrad.json
+          git add data/uua.json data/samrad.json data/stjornarrad.json
           git commit -m "Uppfæra daglega réttarvakt"
           git push

@@ -1,0 +1,106 @@
+{
+  "ok": true,
+  "source": "Stjórnarráðið",
+  "sourceUrl": "https://www.stjornarradid.is/extensions/news/rss/Frettir-fra-ollum-raduneytum.rss",
+  "checkedAt": "2026-08-07T21:44:03.853Z",
+  "changed": false,
+  "counts": {
+    "received": 20,
+    "accepted": 3,
+    "stored": 3,
+    "new": 0,
+    "ignored": 17,
+    "duplicates": 0,
+    "rejected": 0
+  },
+  "newItems": [],
+  "ignored": [
+    {
+      "title": "Undirrituðu viljayfirlýsingu um að bæta stöðu hinsegin fólks á vinnumarkaði",
+      "url": "https://www.stjornarradid.is/efst-a-baugi/frettir/stok-frett/2026/08/07/Undirritudu-viljayfirlysingu-um-ad-baeta-stodu-hinsegin-folks-a-vinnumarkadi/",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "Ráðherra heimsótt öll lögregluembætti",
+      "url": "https://www.stjornarradid.is/efst-a-baugi/frettir/stok-frett/2026/08/07/Radherra-heimsott-oll-logregluembaetti/",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "Utanríkisráðherra fundaði með varnarmálaráðherra Belgíu",
+      "url": "https://www.stjornarradid.is/efst-a-baugi/frettir/stok-frett/2026/08/07/Utanrikisradherra-fundadi-med-varnarmalaradherra-Belgiu-/",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "Drengja- og stúlknalið Ascent Soccer frá Malaví heimsóttu utanríkisráðuneytið",
+      "url": "https://www.stjornarradid.is/efst-a-baugi/frettir/stok-frett/2026/08/07/Drengja-og-stulknalid-Ascent-Soccer-fra-Malavi-heimsottu-utanrikisraduneytid/",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "Tölustafir innleiddir í stað bókstafa",
+      "url": "https://www.stjornarradid.is/efst-a-baugi/frettir/stok-frett/2026/08/07/Tolustafir-innleiddir-i-stad-bokstafa/",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "Margrét Helga skipuð í embætti dómara við Héraðsdóm Norðurlands eystra",
+      "url": "https://www.stjornarradid.is/efst-a-baugi/frettir/stok-frett/2026/08/07/Margret-Helga-skipud-i-embaetti-domara-vid-Heradsdom-Nordurlands-eystra/",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "Auglýst eftir umsóknum um jarðræktarstyrki í garðyrkju",
+      "url": "https://www.stjornarradid.is/efst-a-baugi/frettir/stok-frett/2026/08/06/Auglyst-eftir-umsoknum-um-jardraektarstyrki-i-gardyrkju/",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "Þrettán umsækjendur um embætti forstjóra Stofnunar atvinnuveganna",
+      "url": "https://www.stjornarradid.is/efst-a-baugi/frettir/stok-frett/2026/08/06/Threttan-umsaekjendur-um-embaetti-forstjora-Stofnunar-atvinnuveganna/",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "Áhættumat fyrir þéttbýlið í Grindavík endurskoðað",
+      "url": "https://www.stjornarradid.is/efst-a-baugi/frettir/stok-frett/2026/08/06/Ahaettumat-fyrir-thettbylid-i-Grindavik-endurskodad/",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "Belgíski flugherinn sinnir loftrýmisgæslu á Íslandi",
+      "url": "https://www.stjornarradid.is/efst-a-baugi/frettir/stok-frett/2026/08/06/Belgiski-flugherinn-sinnir-loftrymisgaeslu-a-Islandi/",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "Opnað fyrir umsóknir til listamannalauna og í Sviðslistasjóð",
+      "url": "https://www.stjornarradid.is/efst-a-baugi/frettir/stok-frett/2026/08/06/Opnad-fyrir-umsoknir-til-listamannalauna-og-i-Svidslistasjod/",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "Ragnar Þór heimsótti Vestur-Íslendinga í Manitoba og Norður-Dakóta",
+      "url": "https://www.stjornarradid.is/efst-a-baugi/frettir/stok-frett/2026/08/05/Ragnar-Thor-heimsotti-Vestur-Islendinga-i-Manitoba-og-Nordur-Dakota/",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "Drög að frumvarpi um Stafræna heilsu til umsagnar",
+      "url": "https://www.stjornarradid.is/efst-a-baugi/frettir/stok-frett/2026/08/04/Drog-ad-frumvarpi-um-Stafraena-heilsu-til-umsagnar/",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "Ráðherra sat fjarfund um stöðuna í Ceuta",
+      "url": "https://www.stjornarradid.is/efst-a-baugi/frettir/stok-frett/2026/08/04/Radherra-sat-fjarfund-um-stoduna-i-Ceuta/",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "Dómsmálaráðherra skipar nýja bótanefnd",
+      "url": "https://www.stjornarradid.is/efst-a-baugi/frettir/stok-frett/2026/08/04/Domsmalaradherra-skipar-nyja-botanefnd/",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "Heilbrigðisþing 2026 haldið 26. nóvember – takið daginn frá",
+      "url": "https://www.stjornarradid.is/efst-a-baugi/frettir/stok-frett/2026/07/23/Heilbrigdisthing-2026-haldid-26.-november-takid-daginn-fra/",
+      "reason": "utan vaktaðra efnisorða"
+    },
+    {
+      "title": "Frumvarpsdrög um breyttan útivistartíma barna kynnt til samráðs",
+      "url": "https://www.stjornarradid.is/efst-a-baugi/frettir/stok-frett/2026/07/23/-Frumvarpsdrog-um-breyttan-utivistartima-barna-kynnt-til-samrads/",
+      "reason": "utan vaktaðra efnisorða"
+    }
+  ],
+  "duplicates": [],
+  "rejected": []
+}

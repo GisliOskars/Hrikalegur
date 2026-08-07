@@ -64,7 +64,7 @@ document.querySelector("#filter-toggle").addEventListener("click", (event) => {
 render();
 
 async function loadMonitoring() {
-  const sources = await Promise.all(["uua", "samrad"].map(async (name) => {
+  const sources = await Promise.all(["uua", "samrad", "stjornarrad"].map(async (name) => {
     try {
       const response = await fetch(`./data/${name}.json`, { cache: "no-store" });
       if (!response.ok) return null;
