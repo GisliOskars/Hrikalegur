@@ -24,3 +24,11 @@ Samráðssafnarinn les opinbera RSS-veitu Samráðsgáttarinnar, sem gáttin upp
 ```sh
 npm run collect:samrad
 ```
+
+## Stjórnarráðið
+
+Safnarinn les opinberan RSS-straum með fréttum frá öllum ráðuneytum og birtir aðeins fréttir sem falla að vöktuðum efnisorðum. Beinir fréttatenglar, titlar og dagsetningar eru sannreynd áður en færslur birtast. Stutta reifunin kemur úr opinberri lýsingu fréttarinnar og er merkt sem óyfirfarin. Eldri gögn eru varðveitt ef þjónustan bilar tímabundið.
+
+```sh
+npm run collect:stjornarrad
+```
