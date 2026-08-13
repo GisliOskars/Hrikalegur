@@ -1,7 +1,7 @@
 {
   "source": "Stjórnarráðið",
   "sourceUrl": "https://www.stjornarradid.is/extensions/news/rss/Frettir-fra-ollum-raduneytum.rss",
-  "fetchedAt": "2026-08-12T09:00:30.162Z",
+  "fetchedAt": "2026-08-13T09:02:15.624Z",
   "items": [
     {
       "id": "https://www.stjornarradid.is/efst-a-baugi/frettir/stok-frett/2026/08/11/Almyrkvi-a-solu-a-morgun/",
@@ -9,8 +9,8 @@
       "type": "Frétt",
       "source": "Stjórnarráðið",
       "publishedAt": "2026-08-11T11:45:00.000Z",
-      "title": "Almyrkvi á sólu á morgun",
-      "summary": "Almyrkvi á sólu verður síðdegis á morgun. Hann hefst á Vestfjörðum og fer yfir Vestfirði, Vesturland og Reykjanesskaga. Deildarmyrkvi verður um allt land.",
+      "title": "Almyrkvi á sólu",
+      "summary": "Almyrkvi á sólu verður síðdegis á miðvikudag. Hann hefst á Vestfjörðum og fer yfir Vestfirði, Vesturland og Reykjanesskaga. Deildarmyrkvi verður um allt land.",
       "tags": "vegagerð",
       "url": "https://www.stjornarradid.is/efst-a-baugi/frettir/stok-frett/2026/08/11/Almyrkvi-a-solu-a-morgun/",
       "relevant": true
