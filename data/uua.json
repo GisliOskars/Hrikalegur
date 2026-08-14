@@ -1,8 +1,32 @@
 {
   "source": "UUA",
   "sourceUrl": "https://uua.is/feed/",
-  "fetchedAt": "2026-08-07T08:45:03.626Z",
+  "fetchedAt": "2026-08-14T08:57:01.478Z",
   "items": [
+    {
+      "id": "https://uua.is/urleits/uua2607005-njardvikurbraut/",
+      "caseNumber": "UUA2607005",
+      "category": "urskurdur",
+      "type": "Úrskurður",
+      "source": "UUA",
+      "publishedAt": "2026-08-13T18:00:47.000Z",
+      "title": "UUA2607005 Njarðvíkurbraut",
+      "summary": "Mál nr. UUA2607005, kæra á ákvörðun byggingarfulltrúa í Reykjanesbæjar frá 26. febrúar 2026 um að staðfesta merkjalýsingu fyrir Njarðvíkurbraut 25.",
+      "tags": "umhverfisréttur úrskurður kæruheimild",
+      "url": "https://uua.is/urleits/uua2607005-njardvikurbraut/"
+    },
+    {
+      "id": "https://uua.is/urleits/uua2607006-rettarvegur/",
+      "caseNumber": "UUA2607006",
+      "category": "urskurdur",
+      "type": "Úrskurður",
+      "source": "UUA",
+      "publishedAt": "2026-08-13T18:00:22.000Z",
+      "title": "UUA2607006 Réttarvegur",
+      "summary": "Mál nr. UUA2607006, kæra á ákvörðun byggingarfulltrúa Reykjanesbæjar frá 25. júní 2026 um að samþykkja umsókn um stöðuleyfi fyrir vinnu- og kaffiskúr á horni Réttarvegar í Höfnum.",
+      "tags": "umhverfisréttur úrskurður mannvirki frestun réttaráhrifa kæruheimild",
+      "url": "https://uua.is/urleits/uua2607006-rettarvegur/"
+    },
     {
       "id": "https://uua.is/urleits/uua2605004-hafnarstett/",
       "caseNumber": "UUA2605004",
@@ -1048,18 +1072,6 @@
       "url": "https://uua.is/urleits/uua2601001-hoffellslon/"
     },
     {
-      "id": "https://uua.is/urleits/uua2512004-bardastadir/",
-      "caseNumber": "UUA2512004",
-      "category": "urskurdur",
-      "type": "Úrskurður",
-      "source": "UUA",
-      "publishedAt": "2026-01-23T18:00:36.000Z",
-      "title": "UUA2512004 Barðastaðir",
-      "summary": "mál nr. UUA2512004, kæra á ákvörðun byggingarfulltrúans í Reykjavík frá 20. október 2025 um að gera eiganda Barðastaða 61 að sækja um byggingarleyfi fyrir þegar gerðum skúr eða breyta mannvirkinu þannig að það uppfylli skilyrði…",
-      "tags": "umhverfisréttur úrskurður byggingarleyfi mannvirki þvingunarúrræði kæruheimild",
-      "url": "https://uua.is/urleits/uua2512004-bardastadir/"
-    },
-    {
       "id": "https://uua.is/urleits/uua2511049-bann-vid-hundahaldi/",
       "caseNumber": "UUA2511049",
       "category": "urskurdur",
@@ -1070,6 +1082,18 @@
       "summary": "mál nr. UUA2511049, kæra á ákvörðun sveitarstjóra Grímsnes- og Grafningshrepps frá 23. september 2025 um að banna umráðamanni hundsins A að halda hundinn.",
       "tags": "umhverfisréttur úrskurður mengunarvarnir kæruheimild",
       "url": "https://uua.is/urleits/uua2511049-bann-vid-hundahaldi/"
+    },
+    {
+      "id": "https://uua.is/urleits/uua2512004-bardastadir/",
+      "caseNumber": "UUA2512004",
+      "category": "urskurdur",
+      "type": "Úrskurður",
+      "source": "UUA",
+      "publishedAt": "2026-01-23T18:00:36.000Z",
+      "title": "UUA2512004 Barðastaðir",
+      "summary": "mál nr. UUA2512004, kæra á ákvörðun byggingarfulltrúans í Reykjavík frá 20. október 2025 um að gera eiganda Barðastaða 61 að sækja um byggingarleyfi fyrir þegar gerðum skúr eða breyta mannvirkinu þannig að það uppfylli skilyrði…",
+      "tags": "umhverfisréttur úrskurður byggingarleyfi mannvirki þvingunarúrræði kæruheimild",
+      "url": "https://uua.is/urleits/uua2512004-bardastadir/"
     },
     {
       "id": "https://uua.is/urleits/uua2512002-skipun-raflinunefndar-vegna-holtavorduheidarlinu/",
@@ -1178,18 +1202,6 @@
       "summary": "mál nr. 153/2025, kæra á ákvörðun byggingarfulltrúans í Reykjavík frá 11. september 2025 um að beita ekki þvingunarúrræðum vegna óleyfisframkvæmda á lóð nr. 11 við Lágholtsveg.",
       "tags": "umhverfisréttur úrskurður byggingarleyfi deiliskipulag grenndarkynning mannvirki mengunarvarnir þvingunarúrræði kæruheimild",
       "url": "https://uua.is/urleits/153-2025-lagholtsvegur/"
-    },
-    {
-      "id": "https://uua.is/urleits/143-2025-hofsbot/",
-      "caseNumber": "143/2025",
-      "category": "urskurdur",
-      "type": "Úrskurður",
-      "source": "UUA",
-      "publishedAt": "2026-01-08T18:00:12.000Z",
-      "title": "143/2025 Hofsbót",
-      "summary": "mál nr. 143/2025, kæra á ákvörðun byggingarfulltrúa Akureyrarbæjar frá 22. ágúst 2025 um að samþykkja byggingaráform og byggingarheimild um opnun milli fjöleignarhúsanna Hofsbótar 2 og 4.",
-      "tags": "umhverfisréttur úrskurður byggingarleyfi mannvirki skipulagsmál kæruheimild",
-      "url": "https://uua.is/urleits/143-2025-hofsbot/"
     }
   ]
 }
