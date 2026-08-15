@@ -1,8 +1,20 @@
 {
   "source": "Stjórnarráðið",
   "sourceUrl": "https://www.stjornarradid.is/extensions/news/rss/Frettir-fra-ollum-raduneytum.rss",
-  "fetchedAt": "2026-08-13T09:02:15.624Z",
+  "fetchedAt": "2026-08-15T08:14:46.315Z",
   "items": [
+    {
+      "id": "https://www.stjornarradid.is/efst-a-baugi/frettir/stok-frett/2026/08/14/Varnir-Islands-og-Nordur-Atlantshafsins-aefdar-a-varnaraefingunni-Nordur-Vikingur-/",
+      "category": "frett",
+      "type": "Frétt",
+      "source": "Stjórnarráðið",
+      "publishedAt": "2026-08-14T10:38:00.000Z",
+      "title": "Varnir Íslands og Norður-Atlantshafsins æfðar á varnaræfingunni Norður-Víkingur",
+      "summary": "Tvíhliða varnaræfing Bandaríkjanna og Íslands, Norður-Víkingur 2026, fer fram á Íslandi og hafsvæðinu í kringum landið dagana 22. ágúst til 3. september n.k. Meginmarkmið æfingarinnar er að æfa varnir Íslands, þar með talið varnir…",
+      "tags": "orkumál",
+      "url": "https://www.stjornarradid.is/efst-a-baugi/frettir/stok-frett/2026/08/14/Varnir-Islands-og-Nordur-Atlantshafsins-aefdar-a-varnaraefingunni-Nordur-Vikingur-/",
+      "relevant": true
+    },
     {
       "id": "https://www.stjornarradid.is/efst-a-baugi/frettir/stok-frett/2026/08/11/Almyrkvi-a-solu-a-morgun/",
       "category": "frett",
