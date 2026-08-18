@@ -1,8 +1,32 @@
 {
   "source": "Stjórnarráðið",
   "sourceUrl": "https://www.stjornarradid.is/extensions/news/rss/Frettir-fra-ollum-raduneytum.rss",
-  "fetchedAt": "2026-08-15T08:14:46.315Z",
+  "fetchedAt": "2026-08-18T08:22:57.903Z",
   "items": [
+    {
+      "id": "https://www.stjornarradid.is/efst-a-baugi/frettir/stok-frett/2026/08/17/Fyrirkomulag-helsingjaveida-2026/",
+      "category": "frett",
+      "type": "Frétt",
+      "source": "Stjórnarráðið",
+      "publishedAt": "2026-08-17T15:31:00.000Z",
+      "title": "Fyrirkomulag helsingjaveiða 2026",
+      "summary": "Jóhann Páll Jóhannsson, umhverfis-, orku- og loftslagsráðherra, hefur staðfest veiðitímabil helsingja í ár. Heimilt verður að veiða helsingja á tímabilinu 1.–20. september.",
+      "tags": "náttúruvernd loftslagsmál veiðar",
+      "url": "https://www.stjornarradid.is/efst-a-baugi/frettir/stok-frett/2026/08/17/Fyrirkomulag-helsingjaveida-2026/",
+      "relevant": true
+    },
+    {
+      "id": "https://www.stjornarradid.is/efst-a-baugi/frettir/stok-frett/2026/08/17/Menningarmidstod-Hornafjardar-tekur-vid-hlutverki-Kviskerjasjods/",
+      "category": "frett",
+      "type": "Frétt",
+      "source": "Stjórnarráðið",
+      "publishedAt": "2026-08-17T11:46:00.000Z",
+      "title": "Menningarmiðstöð Hornafjarðar tekur við hlutverki Kvískerjasjóðs",
+      "summary": "Jóhann Páll Jóhannsson, umhverfis-, orku- og loftslagsráðherra, Logi Einarsson menningar, nýsköpunar- og háskólaráðherra, Árni M. Mathiesen, formaður Kvískerjasjóðs og Hjalti Þór Vignisson, sveitarstjóri Sveitarfélagsins…",
+      "tags": "loftslagsmál",
+      "url": "https://www.stjornarradid.is/efst-a-baugi/frettir/stok-frett/2026/08/17/Menningarmidstod-Hornafjardar-tekur-vid-hlutverki-Kviskerjasjods/",
+      "relevant": true
+    },
     {
       "id": "https://www.stjornarradid.is/efst-a-baugi/frettir/stok-frett/2026/08/14/Varnir-Islands-og-Nordur-Atlantshafsins-aefdar-a-varnaraefingunni-Nordur-Vikingur-/",
       "category": "frett",
