@@ -1,7 +1,7 @@
 {
   "source": "Samráðsgátt",
   "sourceUrl": "https://island.is/samradsgatt/api/rss",
-  "fetchedAt": "2026-08-13T09:02:05.017Z",
+  "fetchedAt": "2026-08-19T08:23:38.299Z",
   "items": [
     {
       "id": "https://island.is/samradsgatt/mal/4296",
@@ -72,6 +72,23 @@
       "policyArea": "Húsnæðis- og skipulagsmál"
     },
     {
+      "id": "https://island.is/samradsgatt/mal/4270",
+      "caseNumber": "123/2026",
+      "category": "samrad",
+      "type": "Til samráðs",
+      "source": "Samráðsgátt",
+      "publishedAt": "2026-07-08T00:00:00.000Z",
+      "deadline": "2026-08-26T23:59:59.000Z",
+      "title": "Drög að þingsályktun um stefnu stjórnvalda um uppbyggingu flutningskerfis raforku",
+      "summary": "Umhverfis-, orku- og loftslagsráðuneytið kynnir til samráðs drög að þingsályktun um stefnu stjórnvalda um uppbyggingu flutningskerfis raforku.",
+      "tags": "orkumál loftslagsmál orkumál",
+      "url": "https://island.is/samradsgatt/mal/4270",
+      "relevant": true,
+      "status": "Til umsagnar",
+      "institution": "Umhverfis-, orku- og loftslagsráðuneytið",
+      "policyArea": "Orkumál"
+    },
+    {
       "id": "https://island.is/samradsgatt/mal/4269",
       "caseNumber": "122/2026",
       "category": "samrad",
@@ -83,23 +100,6 @@
       "summary": "Umhverfis-, orku- og loftslagsráðuneytið kynnir til samráðs drög að reglugerð um framkvæmd 20. gr. a–20. gr. i raforkulaga nr. 65/2003.",
       "tags": "orkumál loftslagsmál orkumál",
       "url": "https://island.is/samradsgatt/mal/4269",
-      "relevant": true,
-      "status": "Til umsagnar",
-      "institution": "Umhverfis-, orku- og loftslagsráðuneytið",
-      "policyArea": "Orkumál"
-    },
-    {
-      "id": "https://island.is/samradsgatt/mal/4270",
-      "caseNumber": "123/2026",
-      "category": "samrad",
-      "type": "Til samráðs",
-      "source": "Samráðsgátt",
-      "publishedAt": "2026-07-08T00:00:00.000Z",
-      "deadline": "2026-08-19T23:59:59.000Z",
-      "title": "Drög að þingsályktun um stefnu stjórnvalda um uppbyggingu flutningskerfis raforku",
-      "summary": "Umhverfis-, orku- og loftslagsráðuneytið kynnir til samráðs drög að þingsályktun um stefnu stjórnvalda um uppbyggingu flutningskerfis raforku.",
-      "tags": "orkumál loftslagsmál orkumál",
-      "url": "https://island.is/samradsgatt/mal/4270",
       "relevant": true,
       "status": "Til umsagnar",
       "institution": "Umhverfis-, orku- og loftslagsráðuneytið",
