@@ -1,8 +1,20 @@
 {
   "source": "Stjórnarráðið",
   "sourceUrl": "https://www.stjornarradid.is/extensions/news/rss/Frettir-fra-ollum-raduneytum.rss",
-  "fetchedAt": "2026-08-18T08:22:57.903Z",
+  "fetchedAt": "2026-08-20T08:24:34.029Z",
   "items": [
+    {
+      "id": "https://www.stjornarradid.is/efst-a-baugi/frettir/stok-frett/2026/08/19/Alitsgerd-um-forraedi-a-natturuaudlindum-o.fl.-i-ljosi-reglna-Evropurettar/",
+      "category": "frett",
+      "type": "Frétt",
+      "source": "Stjórnarráðið",
+      "publishedAt": "2026-08-19T12:52:00.000Z",
+      "title": "Álitsgerð um forræði á náttúruauðlindum o.fl. í ljósi reglna Evrópuréttar​",
+      "summary": "Að beiðni ríkisstjórnarinnar hafa dr. Gunnar Þór Pétursson, dr. Hafsteinn Dan Kristjánsson og dr. Margrét Einarsdóttir, prófessorar við Lagadeild Háskólans í Reykjavík, tekið saman álitsgerð um forræði á náttúruauðlindum o.fl. í…",
+      "tags": "veiðar orkumál",
+      "url": "https://www.stjornarradid.is/efst-a-baugi/frettir/stok-frett/2026/08/19/Alitsgerd-um-forraedi-a-natturuaudlindum-o.fl.-i-ljosi-reglna-Evropurettar/",
+      "relevant": true
+    },
     {
       "id": "https://www.stjornarradid.is/efst-a-baugi/frettir/stok-frett/2026/08/17/Fyrirkomulag-helsingjaveida-2026/",
       "category": "frett",
