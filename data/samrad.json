@@ -1,7 +1,7 @@
 {
   "source": "Samráðsgátt",
   "sourceUrl": "https://island.is/samradsgatt/api/rss",
-  "fetchedAt": "2026-08-19T08:23:38.299Z",
+  "fetchedAt": "2026-08-21T08:26:26.369Z",
   "items": [
     {
       "id": "https://island.is/samradsgatt/mal/4296",
@@ -129,7 +129,7 @@
       "type": "Til samráðs",
       "source": "Samráðsgátt",
       "publishedAt": "2026-06-19T00:00:00.000Z",
-      "deadline": "2026-08-21T23:59:59.000Z",
+      "deadline": "2026-08-27T23:59:59.000Z",
       "title": "Forsamráð um efnistök grænbókar um fjarskipti og netöryggi",
       "summary": "Innviðaráðuneytið undirbýr gerð grænbókar um fjarskipti og netöryggi. Með forsamráði er óskað eftir sjónarmiðum um hvaða viðfangsefni, álitaefni, áskoranir og tækifæri grænbókin eigi að fjalla um.",
       "tags": "efnistaka efnistaka",
