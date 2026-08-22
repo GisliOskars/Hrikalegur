@@ -1,8 +1,32 @@
 {
   "source": "UUA",
   "sourceUrl": "https://uua.is/feed/",
-  "fetchedAt": "2026-08-14T08:57:01.478Z",
+  "fetchedAt": "2026-08-22T08:16:26.706Z",
   "items": [
+    {
+      "id": "https://uua.is/urleits/uua2605011-saudaneshals-i-langanesbyggd/",
+      "caseNumber": "UUA2605011",
+      "category": "urskurdur",
+      "type": "Úrskurður",
+      "source": "UUA",
+      "publishedAt": "2026-08-21T18:00:56.000Z",
+      "title": "UUA2605011 Sauðanesháls í Langanesbyggð",
+      "summary": "mál nr. UUA2605011, kæra á þeirri ákvörðun Húsnæðis-, mannvirkja- og skipulagsstofnunar frá 22. apríl 2026 að uppsetning tveggja vindtúrbína á Sauðaneshálsi í Langanesbyggð skuli sæta mati á umhverfisáhrifum.",
+      "tags": "umhverfisréttur úrskurður framkvæmdaleyfi náttúruvernd mat á umhverfisáhrifum mannvirki veiðar vegagerð orkumál kæruheimild",
+      "url": "https://uua.is/urleits/uua2605011-saudaneshals-i-langanesbyggd/"
+    },
+    {
+      "id": "https://uua.is/urleits/uua2604014-kirkjubraut/",
+      "caseNumber": "UUA2604014",
+      "category": "urskurdur",
+      "type": "Úrskurður",
+      "source": "UUA",
+      "publishedAt": "2026-08-21T18:00:28.000Z",
+      "title": "UUA2604014 Kirkjubraut",
+      "summary": "mál nr. UUA2604014, kæra á ákvörðun bæjarstjórnar Akraneskaupstaðar frá 24.",
+      "tags": "umhverfisréttur úrskurður byggingarleyfi deiliskipulag aðalskipulag grenndarkynning landnotkun mannvirki stöðvun framkvæmda kæruheimild",
+      "url": "https://uua.is/urleits/uua2604014-kirkjubraut/"
+    },
     {
       "id": "https://uua.is/urleits/uua2607005-njardvikurbraut/",
       "caseNumber": "UUA2607005",
@@ -1072,18 +1096,6 @@
       "url": "https://uua.is/urleits/uua2601001-hoffellslon/"
     },
     {
-      "id": "https://uua.is/urleits/uua2511049-bann-vid-hundahaldi/",
-      "caseNumber": "UUA2511049",
-      "category": "urskurdur",
-      "type": "Úrskurður",
-      "source": "UUA",
-      "publishedAt": "2026-01-23T18:00:36.000Z",
-      "title": "UUA2511049 Bann við hundahaldi",
-      "summary": "mál nr. UUA2511049, kæra á ákvörðun sveitarstjóra Grímsnes- og Grafningshrepps frá 23. september 2025 um að banna umráðamanni hundsins A að halda hundinn.",
-      "tags": "umhverfisréttur úrskurður mengunarvarnir kæruheimild",
-      "url": "https://uua.is/urleits/uua2511049-bann-vid-hundahaldi/"
-    },
-    {
       "id": "https://uua.is/urleits/uua2512004-bardastadir/",
       "caseNumber": "UUA2512004",
       "category": "urskurdur",
@@ -1094,6 +1106,18 @@
       "summary": "mál nr. UUA2512004, kæra á ákvörðun byggingarfulltrúans í Reykjavík frá 20. október 2025 um að gera eiganda Barðastaða 61 að sækja um byggingarleyfi fyrir þegar gerðum skúr eða breyta mannvirkinu þannig að það uppfylli skilyrði…",
       "tags": "umhverfisréttur úrskurður byggingarleyfi mannvirki þvingunarúrræði kæruheimild",
       "url": "https://uua.is/urleits/uua2512004-bardastadir/"
+    },
+    {
+      "id": "https://uua.is/urleits/uua2511049-bann-vid-hundahaldi/",
+      "caseNumber": "UUA2511049",
+      "category": "urskurdur",
+      "type": "Úrskurður",
+      "source": "UUA",
+      "publishedAt": "2026-01-23T18:00:36.000Z",
+      "title": "UUA2511049 Bann við hundahaldi",
+      "summary": "mál nr. UUA2511049, kæra á ákvörðun sveitarstjóra Grímsnes- og Grafningshrepps frá 23. september 2025 um að banna umráðamanni hundsins A að halda hundinn.",
+      "tags": "umhverfisréttur úrskurður mengunarvarnir kæruheimild",
+      "url": "https://uua.is/urleits/uua2511049-bann-vid-hundahaldi/"
     },
     {
       "id": "https://uua.is/urleits/uua2512002-skipun-raflinunefndar-vegna-holtavorduheidarlinu/",
@@ -1178,30 +1202,6 @@
       "summary": "Mál nr. UUA2512013, kæra á ákvörðun borgarráðs Reykjavíkur frá 16. október 2025 um að samþykkja breytingu á deiliskipulagi Háskólans í Reykjavík vegna borgarlínu og frekari uppbyggingar á svæði 1a og 1b.",
       "tags": "umhverfisréttur úrskurður framkvæmdaleyfi deiliskipulag mannvirki stöðvun framkvæmda frestun réttaráhrifa",
       "url": "https://uua.is/urleits/uua2512013-menntasveigur/"
-    },
-    {
-      "id": "https://uua.is/urleits/163-2025-fagrakinn/",
-      "caseNumber": "163/2025",
-      "category": "urskurdur",
-      "type": "Úrskurður",
-      "source": "UUA",
-      "publishedAt": "2026-01-12T18:00:03.000Z",
-      "title": "163/2025 Fagrakinn",
-      "summary": "Mál nr. 163/2025, kæra á aðgerðarleysi byggingarfulltrúa Hafnarfjarðarkaupstaðar vegna framkvæmda á lóð nr. 4 að Fögrukinn.",
-      "tags": "umhverfisréttur úrskurður byggingarleyfi mannvirki þvingunarúrræði málshraði",
-      "url": "https://uua.is/urleits/163-2025-fagrakinn/"
-    },
-    {
-      "id": "https://uua.is/urleits/153-2025-lagholtsvegur/",
-      "caseNumber": "153/2025",
-      "category": "urskurdur",
-      "type": "Úrskurður",
-      "source": "UUA",
-      "publishedAt": "2026-01-08T18:00:44.000Z",
-      "title": "153/2025 Lágholtsvegur",
-      "summary": "mál nr. 153/2025, kæra á ákvörðun byggingarfulltrúans í Reykjavík frá 11. september 2025 um að beita ekki þvingunarúrræðum vegna óleyfisframkvæmda á lóð nr. 11 við Lágholtsveg.",
-      "tags": "umhverfisréttur úrskurður byggingarleyfi deiliskipulag grenndarkynning mannvirki mengunarvarnir þvingunarúrræði kæruheimild",
-      "url": "https://uua.is/urleits/153-2025-lagholtsvegur/"
     }
   ]
 }
