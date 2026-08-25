@@ -1,8 +1,20 @@
 {
   "source": "UUA",
   "sourceUrl": "https://uua.is/feed/",
-  "fetchedAt": "2026-08-22T08:16:26.706Z",
+  "fetchedAt": "2026-08-25T08:29:25.366Z",
   "items": [
+    {
+      "id": "https://uua.is/urleits/uua2605010-vogaland/",
+      "caseNumber": "UUA2605010",
+      "category": "urskurdur",
+      "type": "Úrskurður",
+      "source": "UUA",
+      "publishedAt": "2026-08-24T18:00:09.000Z",
+      "title": "UUA2605010 Vogaland",
+      "summary": "mál UUA2605010, kæra á ákvörðun byggingarfulltrúans í Reykjavík frá 21. apríl 2026 um að synja kröfu um að smáhýsi á lóð Vogalands 7 verði fjarlægt og að aðhafast ekki frekar vegna staðsetningar þess.",
+      "tags": "umhverfisréttur úrskurður mannvirki þvingunarúrræði kæruheimild",
+      "url": "https://uua.is/urleits/uua2605010-vogaland/"
+    },
     {
       "id": "https://uua.is/urleits/uua2605011-saudaneshals-i-langanesbyggd/",
       "caseNumber": "UUA2605011",
@@ -1190,18 +1202,6 @@
       "summary": "Mál nr. UUA2512015, kæra á ákvörðun skipulags- og umhverfisráðs Akraneskaupstaðar frá 1. desember 2025 um bann við hundahaldi á heimili kæranda.",
       "tags": "umhverfisréttur úrskurður dýravelferð frestun réttaráhrifa kæruheimild",
       "url": "https://uua.is/urleits/uua2512015-bann-vid-hundahaldi/"
-    },
-    {
-      "id": "https://uua.is/urleits/uua2512013-menntasveigur/",
-      "caseNumber": "UUA2512013",
-      "category": "urskurdur",
-      "type": "Úrskurður",
-      "source": "UUA",
-      "publishedAt": "2026-01-12T18:00:59.000Z",
-      "title": "UUA2512013 Menntasveigur",
-      "summary": "Mál nr. UUA2512013, kæra á ákvörðun borgarráðs Reykjavíkur frá 16. október 2025 um að samþykkja breytingu á deiliskipulagi Háskólans í Reykjavík vegna borgarlínu og frekari uppbyggingar á svæði 1a og 1b.",
-      "tags": "umhverfisréttur úrskurður framkvæmdaleyfi deiliskipulag mannvirki stöðvun framkvæmda frestun réttaráhrifa",
-      "url": "https://uua.is/urleits/uua2512013-menntasveigur/"
     }
   ]
 }

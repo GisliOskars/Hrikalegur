@@ -1,8 +1,20 @@
 {
   "source": "Stjórnarráðið",
   "sourceUrl": "https://www.stjornarradid.is/extensions/news/rss/Frettir-fra-ollum-raduneytum.rss",
-  "fetchedAt": "2026-08-22T08:16:37.838Z",
+  "fetchedAt": "2026-08-25T08:29:38.562Z",
   "items": [
+    {
+      "id": "https://www.stjornarradid.is/efst-a-baugi/frettir/stok-frett/2026/08/24/Fyrsta-raflinunefndin-hefur-storf/",
+      "category": "frett",
+      "type": "Frétt",
+      "source": "Stjórnarráðið",
+      "publishedAt": "2026-08-24T09:00:00.000Z",
+      "title": "Fyrsta raflínunefndin hefur störf",
+      "summary": "Ragnar Þór Ingólfsson, félags- og húsnæðismálaráðherra, hefur skipað fyrstu raflínunefndina á Íslandi þ.e. raflínunefnd um Holtavörðuheiðarlínu 1, sbr. ákvörðun ráðherra 14. nóvember síðastliðinn.",
+      "tags": "framkvæmdaleyfi loftslagsmál skipulagsmál orkumál",
+      "url": "https://www.stjornarradid.is/efst-a-baugi/frettir/stok-frett/2026/08/24/Fyrsta-raflinunefndin-hefur-storf/",
+      "relevant": true
+    },
     {
       "id": "https://www.stjornarradid.is/efst-a-baugi/frettir/stok-frett/2026/08/21/Fyrsta-raflinunefndin-hefur-storf/",
       "category": "frett",
