@@ -1,8 +1,32 @@
 {
   "source": "Stjórnarráðið",
   "sourceUrl": "https://www.stjornarradid.is/extensions/news/rss/Frettir-fra-ollum-raduneytum.rss",
-  "fetchedAt": "2026-08-25T08:29:38.562Z",
+  "fetchedAt": "2026-08-26T08:30:15.881Z",
   "items": [
+    {
+      "id": "https://www.stjornarradid.is/efst-a-baugi/frettir/stok-frett/2026/08/25/Eggert-Benedikt-Gudmundsson-skipadur-forstjori-Hafrannsoknastofnunar/",
+      "category": "frett",
+      "type": "Frétt",
+      "source": "Stjórnarráðið",
+      "publishedAt": "2026-08-25T17:00:00.000Z",
+      "title": "Eggert Benedikt Guðmundsson skipaður forstjóri Hafrannsóknastofnunar",
+      "summary": "Hanna Katrín Friðriksson atvinnuvegaráðherra hefur ákveðið að skipa Eggert Benedikt Guðmundsson í embætti forstjóra Hafrannsóknastofnunar, rannsókna- og ráðgjafastofnunar hafs og vatna til fimm ára.",
+      "tags": "loftslagsmál orkumál",
+      "url": "https://www.stjornarradid.is/efst-a-baugi/frettir/stok-frett/2026/08/25/Eggert-Benedikt-Gudmundsson-skipadur-forstjori-Hafrannsoknastofnunar/",
+      "relevant": true
+    },
+    {
+      "id": "https://www.stjornarradid.is/efst-a-baugi/frettir/stok-frett/2026/08/25/Einfoldun-regluverks-um-verkefni-sveitarfelaga/",
+      "category": "frett",
+      "type": "Frétt",
+      "source": "Stjórnarráðið",
+      "publishedAt": "2026-08-25T08:55:00.000Z",
+      "title": "Einföldun regluverks um verkefni sveitarfélaga",
+      "summary": "Fyrr á árinu óskuðu ráðuneytin eftir tillögum hvernig megi einfalda regluverk um verkefni sveitarfélaga.",
+      "tags": "skipulagsmál",
+      "url": "https://www.stjornarradid.is/efst-a-baugi/frettir/stok-frett/2026/08/25/Einfoldun-regluverks-um-verkefni-sveitarfelaga/",
+      "relevant": true
+    },
     {
       "id": "https://www.stjornarradid.is/efst-a-baugi/frettir/stok-frett/2026/08/24/Fyrsta-raflinunefndin-hefur-storf/",
       "category": "frett",

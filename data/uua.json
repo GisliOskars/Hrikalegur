@@ -1,8 +1,20 @@
 {
   "source": "UUA",
   "sourceUrl": "https://uua.is/feed/",
-  "fetchedAt": "2026-08-25T08:29:25.366Z",
+  "fetchedAt": "2026-08-26T08:30:00.182Z",
   "items": [
+    {
+      "id": "https://uua.is/urleits/11253/",
+      "caseNumber": "UUA2602005",
+      "category": "urskurdur",
+      "type": "Úrskurður",
+      "source": "UUA",
+      "publishedAt": "2026-08-25T15:00:07.000Z",
+      "title": "UUA2602005 Heiðarbær",
+      "summary": "mál nr. UUA2602005, kæra á ákvörðunum sveitarstjórnar Bláskóga­byggðar frá 20. ágúst 2025 og 21. apríl 2026 sem og ákvörðunum sveitarstjórnar Gríms­nes- og Grafningshrepps frá 3. september 2025 og 22. apríl 2026 um að samþykkja…",
+      "tags": "umhverfisréttur úrskurður deiliskipulag aðalskipulag náttúruvernd landnotkun mannvirki skipulagsmál vegagerð kæruheimild",
+      "url": "https://uua.is/urleits/11253/"
+    },
     {
       "id": "https://uua.is/urleits/uua2605010-vogaland/",
       "caseNumber": "UUA2605010",
@@ -1190,18 +1202,6 @@
       "summary": "mál nr. UUA2511045, kæra á ákvörðun skipulags- og samgöngunefndar Húnabyggðar frá 7. október 2025, sem staðfest var á fundi sveitarstjórnar 14. s.m., um að synja umsókn kæranda um byggingarleyfi á lóðinni Brimslóð 8 á Blönduósi.",
       "tags": "umhverfisréttur úrskurður byggingarleyfi framkvæmdaleyfi deiliskipulag aðalskipulag mannvirki",
       "url": "https://uua.is/urleits/uua2511045-brimslod/"
-    },
-    {
-      "id": "https://uua.is/urleits/uua2512015-bann-vid-hundahaldi/",
-      "caseNumber": "UUA2512015",
-      "category": "urskurdur",
-      "type": "Úrskurður",
-      "source": "UUA",
-      "publishedAt": "2026-01-15T18:00:49.000Z",
-      "title": "UUA2512015 Bann við hundahaldi",
-      "summary": "Mál nr. UUA2512015, kæra á ákvörðun skipulags- og umhverfisráðs Akraneskaupstaðar frá 1. desember 2025 um bann við hundahaldi á heimili kæranda.",
-      "tags": "umhverfisréttur úrskurður dýravelferð frestun réttaráhrifa kæruheimild",
-      "url": "https://uua.is/urleits/uua2512015-bann-vid-hundahaldi/"
     }
   ]
 }

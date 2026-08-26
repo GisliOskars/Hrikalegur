@@ -1,8 +1,25 @@
 {
   "source": "Samráðsgátt",
   "sourceUrl": "https://island.is/samradsgatt/api/rss",
-  "fetchedAt": "2026-08-22T08:16:29.495Z",
+  "fetchedAt": "2026-08-26T08:30:03.891Z",
   "items": [
+    {
+      "id": "https://island.is/samradsgatt/mal/4302",
+      "caseNumber": "155/2026",
+      "category": "samrad",
+      "type": "Til samráðs",
+      "source": "Samráðsgátt",
+      "publishedAt": "2026-08-25T00:00:00.000Z",
+      "deadline": "2026-09-22T23:59:59.000Z",
+      "title": "Drög að reglugerð um veiðar á hrognkelsum",
+      "summary": "Atvinnuvegaráðuneytið birtir drög að nýrri reglugerð um hrognkelsaveiðar í samráðsgátt stjórnvalda.",
+      "tags": "veiðar veiðar sjókvíaeldi",
+      "url": "https://island.is/samradsgatt/mal/4302",
+      "relevant": true,
+      "status": "Til umsagnar",
+      "institution": "Atvinnuvegaráðuneytið",
+      "policyArea": "Sjávarútvegur og fiskeldi"
+    },
     {
       "id": "https://island.is/samradsgatt/mal/4296",
       "caseNumber": "149/2026",
