@@ -1,8 +1,32 @@
 {
   "source": "UUA",
   "sourceUrl": "https://uua.is/feed/",
-  "fetchedAt": "2026-08-26T08:30:00.182Z",
+  "fetchedAt": "2026-08-27T18:29:11.476Z",
   "items": [
+    {
+      "id": "https://uua.is/urleits/uua2606018-bjarkarlundur-2/",
+      "caseNumber": "UUA2606018",
+      "category": "urskurdur",
+      "type": "Úrskurður",
+      "source": "UUA",
+      "publishedAt": "2026-08-26T18:00:34.000Z",
+      "title": "UUA2606018 Bjarkarlundur",
+      "summary": "Árið 2026, mánudaginn 24. ágúst, kom úrskurðarnefnd umhverfis- og auðlindamála saman til fundar í húsnæði nefndarinnar að Borgartúni 21, Reykjavík. Mætt voru Unnþór Jónsson varaformaður, Karólína Finnbjörnsdóttir lögmaður og…",
+      "tags": "umhverfisréttur úrskurður byggingarleyfi deiliskipulag grenndarkynning landnotkun mannvirki skipulagsmál kæruheimild",
+      "url": "https://uua.is/urleits/uua2606018-bjarkarlundur-2/"
+    },
+    {
+      "id": "https://uua.is/urleits/uua2608005-ytri-holmur/",
+      "caseNumber": "UUA2608005",
+      "category": "urskurdur",
+      "type": "Úrskurður",
+      "source": "UUA",
+      "publishedAt": "2026-08-26T18:00:10.000Z",
+      "title": "UUA2608005 Ytri-Hólmur",
+      "summary": "Mál nr. UUA2608005, kæra á ákvörðunum skipulagsfulltrúa Hvalfjarðarsveitar frá 16. júlí og 12. ágúst 2026 um að hafna kröfu um stöðvun á yfirstandandi framkvæmdum við endurnýjun vatnslagnar og niðurrif/byggingu lokahúss við…",
+      "tags": "umhverfisréttur úrskurður byggingarleyfi framkvæmdaleyfi mannvirki stöðvun framkvæmda",
+      "url": "https://uua.is/urleits/uua2608005-ytri-holmur/"
+    },
     {
       "id": "https://uua.is/urleits/11253/",
       "caseNumber": "UUA2602005",
@@ -1120,18 +1144,6 @@
       "url": "https://uua.is/urleits/uua2601001-hoffellslon/"
     },
     {
-      "id": "https://uua.is/urleits/uua2512004-bardastadir/",
-      "caseNumber": "UUA2512004",
-      "category": "urskurdur",
-      "type": "Úrskurður",
-      "source": "UUA",
-      "publishedAt": "2026-01-23T18:00:36.000Z",
-      "title": "UUA2512004 Barðastaðir",
-      "summary": "mál nr. UUA2512004, kæra á ákvörðun byggingarfulltrúans í Reykjavík frá 20. október 2025 um að gera eiganda Barðastaða 61 að sækja um byggingarleyfi fyrir þegar gerðum skúr eða breyta mannvirkinu þannig að það uppfylli skilyrði…",
-      "tags": "umhverfisréttur úrskurður byggingarleyfi mannvirki þvingunarúrræði kæruheimild",
-      "url": "https://uua.is/urleits/uua2512004-bardastadir/"
-    },
-    {
       "id": "https://uua.is/urleits/uua2511049-bann-vid-hundahaldi/",
       "caseNumber": "UUA2511049",
       "category": "urskurdur",
@@ -1142,6 +1154,18 @@
       "summary": "mál nr. UUA2511049, kæra á ákvörðun sveitarstjóra Grímsnes- og Grafningshrepps frá 23. september 2025 um að banna umráðamanni hundsins A að halda hundinn.",
       "tags": "umhverfisréttur úrskurður mengunarvarnir kæruheimild",
       "url": "https://uua.is/urleits/uua2511049-bann-vid-hundahaldi/"
+    },
+    {
+      "id": "https://uua.is/urleits/uua2512004-bardastadir/",
+      "caseNumber": "UUA2512004",
+      "category": "urskurdur",
+      "type": "Úrskurður",
+      "source": "UUA",
+      "publishedAt": "2026-01-23T18:00:36.000Z",
+      "title": "UUA2512004 Barðastaðir",
+      "summary": "mál nr. UUA2512004, kæra á ákvörðun byggingarfulltrúans í Reykjavík frá 20. október 2025 um að gera eiganda Barðastaða 61 að sækja um byggingarleyfi fyrir þegar gerðum skúr eða breyta mannvirkinu þannig að það uppfylli skilyrði…",
+      "tags": "umhverfisréttur úrskurður byggingarleyfi mannvirki þvingunarúrræði kæruheimild",
+      "url": "https://uua.is/urleits/uua2512004-bardastadir/"
     },
     {
       "id": "https://uua.is/urleits/uua2512002-skipun-raflinunefndar-vegna-holtavorduheidarlinu/",
@@ -1178,30 +1202,6 @@
       "summary": "mál nr. 164/2025, kæra á ákvörðun byggingarfulltrúans í Reykjavík frá 24. september 2025 um álagningu dagsekta vegna skiltis á lóð nr. 6 við Álfabakka.",
       "tags": "umhverfisréttur úrskurður byggingarleyfi deiliskipulag aðalskipulag mannvirki þvingunarúrræði frestun réttaráhrifa",
       "url": "https://uua.is/urleits/164-2025-alfabakki-2/"
-    },
-    {
-      "id": "https://uua.is/urleits/159-2025-sudurgata/",
-      "caseNumber": "159/2025",
-      "category": "urskurdur",
-      "type": "Úrskurður",
-      "source": "UUA",
-      "publishedAt": "2026-01-16T18:00:09.000Z",
-      "title": "159/2025 Suðurgata",
-      "summary": "mál nr. 159/2025, kæra á afgreiðslu skipulags- og umhverfisráðs Akranes­kaupstaðar frá 15. september 2025 á fyrirspurn um að fjölga íbúðum að Suðurgötu 50A.",
-      "tags": "umhverfisréttur úrskurður byggingarleyfi mannvirki",
-      "url": "https://uua.is/urleits/159-2025-sudurgata/"
-    },
-    {
-      "id": "https://uua.is/urleits/uua2511045-brimslod/",
-      "caseNumber": "UUA2511045",
-      "category": "urskurdur",
-      "type": "Úrskurður",
-      "source": "UUA",
-      "publishedAt": "2026-01-16T18:00:04.000Z",
-      "title": "UUA2511045 Brimslóð",
-      "summary": "mál nr. UUA2511045, kæra á ákvörðun skipulags- og samgöngunefndar Húnabyggðar frá 7. október 2025, sem staðfest var á fundi sveitarstjórnar 14. s.m., um að synja umsókn kæranda um byggingarleyfi á lóðinni Brimslóð 8 á Blönduósi.",
-      "tags": "umhverfisréttur úrskurður byggingarleyfi framkvæmdaleyfi deiliskipulag aðalskipulag mannvirki",
-      "url": "https://uua.is/urleits/uua2511045-brimslod/"
     }
   ]
 }
