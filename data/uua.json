@@ -1,8 +1,20 @@
 {
   "source": "UUA",
   "sourceUrl": "https://uua.is/feed/",
-  "fetchedAt": "2026-08-27T18:29:11.476Z",
+  "fetchedAt": "2026-08-28T19:44:47.480Z",
   "items": [
+    {
+      "id": "https://uua.is/urleits/uua2606010-sjokviaeldi-i-arnarfirdi/",
+      "caseNumber": "UUA2606010",
+      "category": "urskurdur",
+      "type": "Úrskurður",
+      "source": "UUA",
+      "publishedAt": "2026-08-28T18:00:57.000Z",
+      "title": "UUA2606010 Sjókvíaeldi í Arnarfirði",
+      "summary": "mál nr. UUA2606010, kæra á ákvörðun Matvælastofnunar frá 11. maí 2026 um að endurnýja rekstrarleyfi fyrir sjókvíaeldi á laxi í Arnarfirði FE-1105.",
+      "tags": "umhverfisréttur úrskurður svæðisskipulag mat á umhverfisáhrifum mannvirki efnistaka haf- og strandsvæði mengunarvarnir starfsleyfi fráveita veiðar sjókvíaeldi orkumál",
+      "url": "https://uua.is/urleits/uua2606010-sjokviaeldi-i-arnarfirdi/"
+    },
     {
       "id": "https://uua.is/urleits/uua2606018-bjarkarlundur-2/",
       "caseNumber": "UUA2606018",
@@ -1144,18 +1156,6 @@
       "url": "https://uua.is/urleits/uua2601001-hoffellslon/"
     },
     {
-      "id": "https://uua.is/urleits/uua2511049-bann-vid-hundahaldi/",
-      "caseNumber": "UUA2511049",
-      "category": "urskurdur",
-      "type": "Úrskurður",
-      "source": "UUA",
-      "publishedAt": "2026-01-23T18:00:36.000Z",
-      "title": "UUA2511049 Bann við hundahaldi",
-      "summary": "mál nr. UUA2511049, kæra á ákvörðun sveitarstjóra Grímsnes- og Grafningshrepps frá 23. september 2025 um að banna umráðamanni hundsins A að halda hundinn.",
-      "tags": "umhverfisréttur úrskurður mengunarvarnir kæruheimild",
-      "url": "https://uua.is/urleits/uua2511049-bann-vid-hundahaldi/"
-    },
-    {
       "id": "https://uua.is/urleits/uua2512004-bardastadir/",
       "caseNumber": "UUA2512004",
       "category": "urskurdur",
@@ -1166,6 +1166,18 @@
       "summary": "mál nr. UUA2512004, kæra á ákvörðun byggingarfulltrúans í Reykjavík frá 20. október 2025 um að gera eiganda Barðastaða 61 að sækja um byggingarleyfi fyrir þegar gerðum skúr eða breyta mannvirkinu þannig að það uppfylli skilyrði…",
       "tags": "umhverfisréttur úrskurður byggingarleyfi mannvirki þvingunarúrræði kæruheimild",
       "url": "https://uua.is/urleits/uua2512004-bardastadir/"
+    },
+    {
+      "id": "https://uua.is/urleits/uua2511049-bann-vid-hundahaldi/",
+      "caseNumber": "UUA2511049",
+      "category": "urskurdur",
+      "type": "Úrskurður",
+      "source": "UUA",
+      "publishedAt": "2026-01-23T18:00:36.000Z",
+      "title": "UUA2511049 Bann við hundahaldi",
+      "summary": "mál nr. UUA2511049, kæra á ákvörðun sveitarstjóra Grímsnes- og Grafningshrepps frá 23. september 2025 um að banna umráðamanni hundsins A að halda hundinn.",
+      "tags": "umhverfisréttur úrskurður mengunarvarnir kæruheimild",
+      "url": "https://uua.is/urleits/uua2511049-bann-vid-hundahaldi/"
     },
     {
       "id": "https://uua.is/urleits/uua2512002-skipun-raflinunefndar-vegna-holtavorduheidarlinu/",
@@ -1190,18 +1202,6 @@
       "summary": "mál nr. UUA2511048, kæra á ákvörðun Skipulagsstofnunar frá 17. október 2025, um að skógrækt í landi Þverár í Reykjahverfi í Norðurþingi skuli háð mati á umhverfisáhrifum.",
       "tags": "umhverfisréttur úrskurður framkvæmdaleyfi aðalskipulag náttúruvernd mat á umhverfisáhrifum loftslagsmál líffræðileg fjölbreytni skógrækt mengunarvarnir fráveita vatnsvernd kæruheimild",
       "url": "https://uua.is/urleits/uua2511048-thvera/"
-    },
-    {
-      "id": "https://uua.is/urleits/164-2025-alfabakki-2/",
-      "caseNumber": "164/2025",
-      "category": "urskurdur",
-      "type": "Úrskurður",
-      "source": "UUA",
-      "publishedAt": "2026-01-16T18:00:48.000Z",
-      "title": "164/2025 Álfabakki",
-      "summary": "mál nr. 164/2025, kæra á ákvörðun byggingarfulltrúans í Reykjavík frá 24. september 2025 um álagningu dagsekta vegna skiltis á lóð nr. 6 við Álfabakka.",
-      "tags": "umhverfisréttur úrskurður byggingarleyfi deiliskipulag aðalskipulag mannvirki þvingunarúrræði frestun réttaráhrifa",
-      "url": "https://uua.is/urleits/164-2025-alfabakki-2/"
     }
   ]
 }

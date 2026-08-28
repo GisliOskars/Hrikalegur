@@ -1,7 +1,7 @@
 {
   "source": "Samráðsgátt",
   "sourceUrl": "https://island.is/samradsgatt/api/rss",
-  "fetchedAt": "2026-08-27T18:29:13.958Z",
+  "fetchedAt": "2026-08-28T19:44:50.541Z",
   "items": [
     {
       "id": "https://island.is/samradsgatt/mal/4302",
@@ -152,7 +152,7 @@
       "tags": "efnistaka efnistaka",
       "url": "https://island.is/samradsgatt/mal/4252",
       "relevant": true,
-      "status": "Til umsagnar",
+      "status": "Niðurstöður í vinnslu",
       "institution": "Innviðaráðuneytið",
       "policyArea": "Samgöngu- og fjarskiptamál"
     },

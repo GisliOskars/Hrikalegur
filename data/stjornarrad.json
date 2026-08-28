@@ -1,8 +1,20 @@
 {
   "source": "Stjórnarráðið",
   "sourceUrl": "https://www.stjornarradid.is/extensions/news/rss/Frettir-fra-ollum-raduneytum.rss",
-  "fetchedAt": "2026-08-27T18:29:24.663Z",
+  "fetchedAt": "2026-08-28T19:44:58.972Z",
   "items": [
+    {
+      "id": "https://www.stjornarradid.is/efst-a-baugi/frettir/stok-frett/2026/08/28/Fyrirkomulag-rjupnaveida-2026/",
+      "category": "frett",
+      "type": "Frétt",
+      "source": "Stjórnarráðið",
+      "publishedAt": "2026-08-28T16:54:00.000Z",
+      "title": "Fyrirkomulag rjúpnaveiða 2026",
+      "summary": "Jóhann Páll Jóhannsson, umhverfis-, orku- og loftslagsráðherra, hefur staðfest veiðitímabil rjúpu í ár. Heimilt verður að veiða rjúpu frá og með föstudögum og til og með þriðjudögum á tímabili sem ákveðið er sérstaklega innan…",
+      "tags": "loftslagsmál veiðar",
+      "url": "https://www.stjornarradid.is/efst-a-baugi/frettir/stok-frett/2026/08/28/Fyrirkomulag-rjupnaveida-2026/",
+      "relevant": true
+    },
     {
       "id": "https://www.stjornarradid.is/efst-a-baugi/frettir/stok-frett/2026/08/27/Sameiginlegur-vinnufundur-Loftslagsrads-og-verkefnisstjorn-loftslagsadgerda/",
       "category": "frett",
