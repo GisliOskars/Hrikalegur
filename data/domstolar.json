@@ -1,8 +1,24 @@
 {
   "source": "Dómstólar",
   "sourceUrl": "https://island.is/s/domstolar/domar",
-  "fetchedAt": "2026-08-07T21:58:05.428Z",
+  "fetchedAt": "2026-09-02T12:22:20.174Z",
   "items": [
+    {
+      "id": "https://island.is/domar/g-150aef20-3033-445e-a62e-75d2031b0d29",
+      "caseNumber": "618/2026",
+      "category": "domur",
+      "type": "Dómur/úrskurður",
+      "source": "Landsréttur",
+      "publishedAt": "2026-08-27T00:00:00.000Z",
+      "title": "618/2026 · Landsréttur",
+      "summary": "Með ákæru var X gefið að sök manndráp og brot gegn lögum nr. 34/2012 um heilbrigðisstarfsmenn en til var manndráp af gáleysi og brot gegn lögum nr. 34/2012. Ákærði hafði áður en ákæra var gefin út sætt sviptingu landlæknis á…",
+      "tags": "starfsleyfi Frávísunarúrskurður héraðsdóms felldur úr gildi Heilbrigðisstarfsmenn Kærumál Mannréttindasáttmáli Evrópu Svipting réttinda",
+      "url": "https://island.is/domar/g-150aef20-3033-445e-a62e-75d2031b0d29",
+      "relevant": true,
+      "court": "Landsréttur",
+      "parties": "Ákæruvaldið (Sigurður Ólafsson saksóknari) gegn X (Almar Þ. Möller lögmaður)",
+      "courtKeywords": "Frávísunarúrskurður héraðsdóms felldur úr gildi Heilbrigðisstarfsmenn Kærumál Mannréttindasáttmáli Evrópu Svipting réttinda"
+    },
     {
       "id": "https://island.is/domar/s-400129ED-34EB-4272-AB47-AA96D1CA00D7",
       "caseNumber": "68/2025",
