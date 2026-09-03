@@ -1,8 +1,44 @@
 {
   "source": "UUA",
   "sourceUrl": "https://uua.is/feed/",
-  "fetchedAt": "2026-08-28T19:44:47.480Z",
+  "fetchedAt": "2026-09-03T12:19:49.099Z",
   "items": [
+    {
+      "id": "https://uua.is/urleits/11276/",
+      "caseNumber": "UUA2605018",
+      "category": "urskurdur",
+      "type": "Úrskurður",
+      "source": "UUA",
+      "publishedAt": "2026-09-02T18:00:48.000Z",
+      "title": "UUA2605018 Depluhólar",
+      "summary": "mál nr. UUA2605018, kæra á ákvörðun byggingarfulltrúans í Reykjavík frá 27. apríl 2026 um að gera þinglýstum eigendum Depluhóla 7 að færa fasteignina til fyrra horfs og til samræmis við samþykkta uppdrætti.",
+      "tags": "umhverfisréttur úrskurður byggingarleyfi deiliskipulag grenndarkynning landnotkun mannvirki þvingunarúrræði frestun réttaráhrifa kæruheimild",
+      "url": "https://uua.is/urleits/11276/"
+    },
+    {
+      "id": "https://uua.is/urleits/11277/",
+      "caseNumber": "UUA2607003",
+      "category": "urskurdur",
+      "type": "Úrskurður",
+      "source": "UUA",
+      "publishedAt": "2026-09-02T18:00:20.000Z",
+      "title": "UUA2607003 Laugavegur",
+      "summary": "mál nr. UUA2607003, kæra á ákvörðun byggingarfulltrúans í Reykjavík frá 24. júní 2026 um að synja beiðni um beitingu þvingunarúrræða vegna hjólageymslu við mörk lóðar Laugavegs 178.",
+      "tags": "umhverfisréttur úrskurður byggingarleyfi mannvirki þvingunarúrræði kæruheimild",
+      "url": "https://uua.is/urleits/11277/"
+    },
+    {
+      "id": "https://uua.is/urleits/uua2601008-bragagata/",
+      "caseNumber": "UUA2601008",
+      "category": "urskurdur",
+      "type": "Úrskurður",
+      "source": "UUA",
+      "publishedAt": "2026-09-02T18:00:20.000Z",
+      "title": "UUA2601008 Bragagata",
+      "summary": "mál nr. UUA2601008, kæra á ákvörðun byggingarfulltrúans í Reykjavík frá 2. desember 2025 um að samþykkja umsókn um byggingarleyfi fyrir áðurgerðum breytingum á einbýlishúsi á lóð nr. 26a við Bragagötu.",
+      "tags": "umhverfisréttur úrskurður byggingarleyfi deiliskipulag grenndarkynning landnotkun mannvirki stöðvun framkvæmda kæruheimild",
+      "url": "https://uua.is/urleits/uua2601008-bragagata/"
+    },
     {
       "id": "https://uua.is/urleits/uua2606010-sjokviaeldi-i-arnarfirdi/",
       "caseNumber": "UUA2606010",
@@ -1166,42 +1202,6 @@
       "summary": "mál nr. UUA2512004, kæra á ákvörðun byggingarfulltrúans í Reykjavík frá 20. október 2025 um að gera eiganda Barðastaða 61 að sækja um byggingarleyfi fyrir þegar gerðum skúr eða breyta mannvirkinu þannig að það uppfylli skilyrði…",
       "tags": "umhverfisréttur úrskurður byggingarleyfi mannvirki þvingunarúrræði kæruheimild",
       "url": "https://uua.is/urleits/uua2512004-bardastadir/"
-    },
-    {
-      "id": "https://uua.is/urleits/uua2511049-bann-vid-hundahaldi/",
-      "caseNumber": "UUA2511049",
-      "category": "urskurdur",
-      "type": "Úrskurður",
-      "source": "UUA",
-      "publishedAt": "2026-01-23T18:00:36.000Z",
-      "title": "UUA2511049 Bann við hundahaldi",
-      "summary": "mál nr. UUA2511049, kæra á ákvörðun sveitarstjóra Grímsnes- og Grafningshrepps frá 23. september 2025 um að banna umráðamanni hundsins A að halda hundinn.",
-      "tags": "umhverfisréttur úrskurður mengunarvarnir kæruheimild",
-      "url": "https://uua.is/urleits/uua2511049-bann-vid-hundahaldi/"
-    },
-    {
-      "id": "https://uua.is/urleits/uua2512002-skipun-raflinunefndar-vegna-holtavorduheidarlinu/",
-      "caseNumber": "UUA2512002",
-      "category": "urskurdur",
-      "type": "Úrskurður",
-      "source": "UUA",
-      "publishedAt": "2026-01-21T18:00:22.000Z",
-      "title": "UUA2512002 Skipun raflínunefndar vegna Holtavörðuheiðarlínu",
-      "summary": "mál nr. UUA2512002, kæra á ákvörðun félags- og húsnæðismálaráðuneytisins frá 13. nóvember 2025 um skipun raflínunefndar vegna Holtavörðuheiðarlínu 1.",
-      "tags": "umhverfisréttur úrskurður framkvæmdaleyfi aðalskipulag svæðisskipulag mat á umhverfisáhrifum landnotkun mannvirki skipulagsmál orkumál kæruheimild",
-      "url": "https://uua.is/urleits/uua2512002-skipun-raflinunefndar-vegna-holtavorduheidarlinu/"
-    },
-    {
-      "id": "https://uua.is/urleits/uua2511048-thvera/",
-      "caseNumber": "UUA2511048",
-      "category": "urskurdur",
-      "type": "Úrskurður",
-      "source": "UUA",
-      "publishedAt": "2026-01-21T18:00:15.000Z",
-      "title": "UUA2511048 Þverá",
-      "summary": "mál nr. UUA2511048, kæra á ákvörðun Skipulagsstofnunar frá 17. október 2025, um að skógrækt í landi Þverár í Reykjahverfi í Norðurþingi skuli háð mati á umhverfisáhrifum.",
-      "tags": "umhverfisréttur úrskurður framkvæmdaleyfi aðalskipulag náttúruvernd mat á umhverfisáhrifum loftslagsmál líffræðileg fjölbreytni skógrækt mengunarvarnir fráveita vatnsvernd kæruheimild",
-      "url": "https://uua.is/urleits/uua2511048-thvera/"
     }
   ]
 }
