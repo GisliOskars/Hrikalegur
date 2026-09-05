@@ -1,7 +1,7 @@
 {
   "source": "Samráðsgátt",
   "sourceUrl": "https://island.is/samradsgatt/api/rss",
-  "fetchedAt": "2026-09-03T12:19:52.030Z",
+  "fetchedAt": "2026-09-05T11:27:43.006Z",
   "items": [
     {
       "id": "https://island.is/samradsgatt/mal/4302",
@@ -118,7 +118,7 @@
       "tags": "orkumál loftslagsmál orkumál",
       "url": "https://island.is/samradsgatt/mal/4269",
       "relevant": true,
-      "status": "Til umsagnar",
+      "status": "Niðurstöður í vinnslu",
       "institution": "Umhverfis-, orku- og loftslagsráðuneytið",
       "policyArea": "Orkumál"
     },

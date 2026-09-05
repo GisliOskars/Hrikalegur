@@ -1,8 +1,32 @@
 {
   "source": "UUA",
   "sourceUrl": "https://uua.is/feed/",
-  "fetchedAt": "2026-09-03T12:19:49.099Z",
+  "fetchedAt": "2026-09-05T11:27:39.836Z",
   "items": [
+    {
+      "id": "https://uua.is/urleits/uua2606007-skotsvaedi-alfsnesi/",
+      "caseNumber": "UUA2606007",
+      "category": "urskurdur",
+      "type": "Úrskurður",
+      "source": "UUA",
+      "publishedAt": "2026-09-04T18:00:26.000Z",
+      "title": "UUA2606007 Skotsvæði Álfsnesi",
+      "summary": "Mál nr. UUA2606007, kæra á ákvörðun Umhverfis- og orkustofnunar frá 5. júní 2026 um synjun bráðabirgðaheimildar fyrir starfsemi Skotveiðifélags Reykjavíkur og nágrennis á Álfsnesi.",
+      "tags": "umhverfisréttur úrskurður mengunarvarnir starfsleyfi veiðar",
+      "url": "https://uua.is/urleits/uua2606007-skotsvaedi-alfsnesi/"
+    },
+    {
+      "id": "https://uua.is/urleits/uua2606011-gufuneshaugar-2/",
+      "caseNumber": "UUA2606011",
+      "category": "urskurdur",
+      "type": "Úrskurður",
+      "source": "UUA",
+      "publishedAt": "2026-09-04T18:00:25.000Z",
+      "title": "UUA2606011 Gufuneshaugar",
+      "summary": "mál nr. UUA2606011 kæra á ákvörðun Umhverfis- og orkustofnunar frá 12. maí 2026 um að gefa Reykjavíkurborg fyrirmæli um lokun og vöktun Gufuneshauga.",
+      "tags": "umhverfisréttur úrskurður landnotkun mengunarvarnir starfsleyfi úrgangur vegagerð kæruheimild",
+      "url": "https://uua.is/urleits/uua2606011-gufuneshaugar-2/"
+    },
     {
       "id": "https://uua.is/urleits/11276/",
       "caseNumber": "UUA2605018",
@@ -16,18 +40,6 @@
       "url": "https://uua.is/urleits/11276/"
     },
     {
-      "id": "https://uua.is/urleits/11277/",
-      "caseNumber": "UUA2607003",
-      "category": "urskurdur",
-      "type": "Úrskurður",
-      "source": "UUA",
-      "publishedAt": "2026-09-02T18:00:20.000Z",
-      "title": "UUA2607003 Laugavegur",
-      "summary": "mál nr. UUA2607003, kæra á ákvörðun byggingarfulltrúans í Reykjavík frá 24. júní 2026 um að synja beiðni um beitingu þvingunarúrræða vegna hjólageymslu við mörk lóðar Laugavegs 178.",
-      "tags": "umhverfisréttur úrskurður byggingarleyfi mannvirki þvingunarúrræði kæruheimild",
-      "url": "https://uua.is/urleits/11277/"
-    },
-    {
       "id": "https://uua.is/urleits/uua2601008-bragagata/",
       "caseNumber": "UUA2601008",
       "category": "urskurdur",
@@ -38,6 +50,18 @@
       "summary": "mál nr. UUA2601008, kæra á ákvörðun byggingarfulltrúans í Reykjavík frá 2. desember 2025 um að samþykkja umsókn um byggingarleyfi fyrir áðurgerðum breytingum á einbýlishúsi á lóð nr. 26a við Bragagötu.",
       "tags": "umhverfisréttur úrskurður byggingarleyfi deiliskipulag grenndarkynning landnotkun mannvirki stöðvun framkvæmda kæruheimild",
       "url": "https://uua.is/urleits/uua2601008-bragagata/"
+    },
+    {
+      "id": "https://uua.is/urleits/11277/",
+      "caseNumber": "UUA2607003",
+      "category": "urskurdur",
+      "type": "Úrskurður",
+      "source": "UUA",
+      "publishedAt": "2026-09-02T18:00:20.000Z",
+      "title": "UUA2607003 Laugavegur",
+      "summary": "mál nr. UUA2607003, kæra á ákvörðun byggingarfulltrúans í Reykjavík frá 24. júní 2026 um að synja beiðni um beitingu þvingunarúrræða vegna hjólageymslu við mörk lóðar Laugavegs 178.",
+      "tags": "umhverfisréttur úrskurður byggingarleyfi mannvirki þvingunarúrræði kæruheimild",
+      "url": "https://uua.is/urleits/11277/"
     },
     {
       "id": "https://uua.is/urleits/uua2606010-sjokviaeldi-i-arnarfirdi/",
@@ -1178,30 +1202,6 @@
       "summary": "mál nr. 152/2025, kæra á ákvörðun byggingarfulltrúans í Reykjavík frá 10. júlí 2025 um að synja beiðni um afturköllun byggingarleyfis Haukahlíðar 18.",
       "tags": "umhverfisréttur úrskurður byggingarleyfi deiliskipulag landnotkun mannvirki skipulagsmál mengunarvarnir kæruheimild",
       "url": "https://uua.is/urleits/152-2025-haukahlid-2/"
-    },
-    {
-      "id": "https://uua.is/urleits/uua2601001-hoffellslon/",
-      "caseNumber": "UUA2601001",
-      "category": "urskurdur",
-      "type": "Úrskurður",
-      "source": "UUA",
-      "publishedAt": "2026-01-23T18:00:44.000Z",
-      "title": "UUA2601001 Hoffellslón",
-      "summary": "mál nr. UUA2601001, kæra á ákvörðun bæjarstjórnar Sveitarfélagsins Hornafjarðar frá 13. nóvember 2025 um að samþykkja umsókn um framkvæmdaleyfi fyrir jarðtæknirannsóknum við Hoffellslón í Hornafirði.",
-      "tags": "umhverfisréttur úrskurður framkvæmdaleyfi náttúruvernd mat á umhverfisáhrifum mannvirki kæruheimild",
-      "url": "https://uua.is/urleits/uua2601001-hoffellslon/"
-    },
-    {
-      "id": "https://uua.is/urleits/uua2512004-bardastadir/",
-      "caseNumber": "UUA2512004",
-      "category": "urskurdur",
-      "type": "Úrskurður",
-      "source": "UUA",
-      "publishedAt": "2026-01-23T18:00:36.000Z",
-      "title": "UUA2512004 Barðastaðir",
-      "summary": "mál nr. UUA2512004, kæra á ákvörðun byggingarfulltrúans í Reykjavík frá 20. október 2025 um að gera eiganda Barðastaða 61 að sækja um byggingarleyfi fyrir þegar gerðum skúr eða breyta mannvirkinu þannig að það uppfylli skilyrði…",
-      "tags": "umhverfisréttur úrskurður byggingarleyfi mannvirki þvingunarúrræði kæruheimild",
-      "url": "https://uua.is/urleits/uua2512004-bardastadir/"
     }
   ]
 }
