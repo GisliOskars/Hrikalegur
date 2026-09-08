@@ -1,8 +1,20 @@
 {
   "source": "UUA",
   "sourceUrl": "https://uua.is/feed/",
-  "fetchedAt": "2026-09-05T11:27:39.836Z",
+  "fetchedAt": "2026-09-08T12:21:54.104Z",
   "items": [
+    {
+      "id": "https://uua.is/urleits/uua2608008-saekot/",
+      "caseNumber": "UUA2608008",
+      "category": "urskurdur",
+      "type": "Úrskurður",
+      "source": "UUA",
+      "publishedAt": "2026-09-07T18:00:00.000Z",
+      "title": "UUA2608008 Sækot",
+      "summary": "Mál nr. UUA2608008, kæra á ákvörðun Heilbrigðiseftirlits Reykjavíkur frá 6. ágúst 2026 um að starfsemi Sánagús ehf. í Sækoti teljist starfsleyfisskyld.",
+      "tags": "umhverfisréttur úrskurður mengunarvarnir starfsleyfi þvingunarúrræði stöðvun framkvæmda frestun réttaráhrifa",
+      "url": "https://uua.is/urleits/uua2608008-saekot/"
+    },
     {
       "id": "https://uua.is/urleits/uua2606007-skotsvaedi-alfsnesi/",
       "caseNumber": "UUA2606007",
@@ -40,18 +52,6 @@
       "url": "https://uua.is/urleits/11276/"
     },
     {
-      "id": "https://uua.is/urleits/uua2601008-bragagata/",
-      "caseNumber": "UUA2601008",
-      "category": "urskurdur",
-      "type": "Úrskurður",
-      "source": "UUA",
-      "publishedAt": "2026-09-02T18:00:20.000Z",
-      "title": "UUA2601008 Bragagata",
-      "summary": "mál nr. UUA2601008, kæra á ákvörðun byggingarfulltrúans í Reykjavík frá 2. desember 2025 um að samþykkja umsókn um byggingarleyfi fyrir áðurgerðum breytingum á einbýlishúsi á lóð nr. 26a við Bragagötu.",
-      "tags": "umhverfisréttur úrskurður byggingarleyfi deiliskipulag grenndarkynning landnotkun mannvirki stöðvun framkvæmda kæruheimild",
-      "url": "https://uua.is/urleits/uua2601008-bragagata/"
-    },
-    {
       "id": "https://uua.is/urleits/11277/",
       "caseNumber": "UUA2607003",
       "category": "urskurdur",
@@ -62,6 +62,18 @@
       "summary": "mál nr. UUA2607003, kæra á ákvörðun byggingarfulltrúans í Reykjavík frá 24. júní 2026 um að synja beiðni um beitingu þvingunarúrræða vegna hjólageymslu við mörk lóðar Laugavegs 178.",
       "tags": "umhverfisréttur úrskurður byggingarleyfi mannvirki þvingunarúrræði kæruheimild",
       "url": "https://uua.is/urleits/11277/"
+    },
+    {
+      "id": "https://uua.is/urleits/uua2601008-bragagata/",
+      "caseNumber": "UUA2601008",
+      "category": "urskurdur",
+      "type": "Úrskurður",
+      "source": "UUA",
+      "publishedAt": "2026-09-02T18:00:20.000Z",
+      "title": "UUA2601008 Bragagata",
+      "summary": "mál nr. UUA2601008, kæra á ákvörðun byggingarfulltrúans í Reykjavík frá 2. desember 2025 um að samþykkja umsókn um byggingarleyfi fyrir áðurgerðum breytingum á einbýlishúsi á lóð nr. 26a við Bragagötu.",
+      "tags": "umhverfisréttur úrskurður byggingarleyfi deiliskipulag grenndarkynning landnotkun mannvirki stöðvun framkvæmda kæruheimild",
+      "url": "https://uua.is/urleits/uua2601008-bragagata/"
     },
     {
       "id": "https://uua.is/urleits/uua2606010-sjokviaeldi-i-arnarfirdi/",
@@ -1190,18 +1202,6 @@
       "summary": "mál nr. 155/2025, kæra á ákvörðun byggingarfulltrúans í Reykjavík frá 26. ágúst 2025 um að samþykkja umsókn um byggingarleyfi fyrir áður gerðum breyt­ingum á fasteigninni að Snorrabraut 29.",
       "tags": "umhverfisréttur úrskurður byggingarleyfi deiliskipulag grenndarkynning mannvirki mengunarvarnir kæruheimild",
       "url": "https://uua.is/urleits/155-2025-snorrabraut/"
-    },
-    {
-      "id": "https://uua.is/urleits/152-2025-haukahlid-2/",
-      "caseNumber": "152/2025",
-      "category": "urskurdur",
-      "type": "Úrskurður",
-      "source": "UUA",
-      "publishedAt": "2026-02-05T18:00:10.000Z",
-      "title": "152/2025 Haukahlíð",
-      "summary": "mál nr. 152/2025, kæra á ákvörðun byggingarfulltrúans í Reykjavík frá 10. júlí 2025 um að synja beiðni um afturköllun byggingarleyfis Haukahlíðar 18.",
-      "tags": "umhverfisréttur úrskurður byggingarleyfi deiliskipulag landnotkun mannvirki skipulagsmál mengunarvarnir kæruheimild",
-      "url": "https://uua.is/urleits/152-2025-haukahlid-2/"
     }
   ]
 }
