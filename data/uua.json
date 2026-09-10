@@ -1,8 +1,32 @@
 {
   "source": "UUA",
   "sourceUrl": "https://uua.is/feed/",
-  "fetchedAt": "2026-09-08T12:21:54.104Z",
+  "fetchedAt": "2026-09-10T12:27:17.399Z",
   "items": [
+    {
+      "id": "https://uua.is/urleits/uua2605013-lindargata-2/",
+      "caseNumber": "UUA2605013",
+      "category": "urskurdur",
+      "type": "Úrskurður",
+      "source": "UUA",
+      "publishedAt": "2026-09-09T18:00:54.000Z",
+      "title": "UUA2605013 Lindargata",
+      "summary": "mál nr. UUA2605013, kæra á ákvörðun byggingarfulltrúans í Reykjavík frá 27. apríl 2026 um að fjarlægja skuli viðbyggingu sem reist hafi verið á baklóð íbúða 0101 og 0102 að Lindargötu 12.",
+      "tags": "umhverfisréttur úrskurður byggingarleyfi mannvirki þvingunarúrræði",
+      "url": "https://uua.is/urleits/uua2605013-lindargata-2/"
+    },
+    {
+      "id": "https://uua.is/urleits/uua2607009-hladbaer/",
+      "caseNumber": "UUA2607009",
+      "category": "urskurdur",
+      "type": "Úrskurður",
+      "source": "UUA",
+      "publishedAt": "2026-09-09T18:00:11.000Z",
+      "title": "UUA2607009 Hlaðbær",
+      "summary": "mál nr. UUA2607009, kæra á ákvörðun byggingarfulltrúans í Reykjavík frá 9. júní 2026 um að samþykkja umsókn um byggingarleyfi fyrir tveimur færanlegum kennslustofum auk tengibyggingar á lóð nr. 17 við Hlaðbæ.",
+      "tags": "umhverfisréttur úrskurður byggingarleyfi deiliskipulag aðalskipulag mannvirki skipulagsmál kæruheimild",
+      "url": "https://uua.is/urleits/uua2607009-hladbaer/"
+    },
     {
       "id": "https://uua.is/urleits/uua2608008-saekot/",
       "caseNumber": "UUA2608008",
@@ -52,18 +76,6 @@
       "url": "https://uua.is/urleits/11276/"
     },
     {
-      "id": "https://uua.is/urleits/11277/",
-      "caseNumber": "UUA2607003",
-      "category": "urskurdur",
-      "type": "Úrskurður",
-      "source": "UUA",
-      "publishedAt": "2026-09-02T18:00:20.000Z",
-      "title": "UUA2607003 Laugavegur",
-      "summary": "mál nr. UUA2607003, kæra á ákvörðun byggingarfulltrúans í Reykjavík frá 24. júní 2026 um að synja beiðni um beitingu þvingunarúrræða vegna hjólageymslu við mörk lóðar Laugavegs 178.",
-      "tags": "umhverfisréttur úrskurður byggingarleyfi mannvirki þvingunarúrræði kæruheimild",
-      "url": "https://uua.is/urleits/11277/"
-    },
-    {
       "id": "https://uua.is/urleits/uua2601008-bragagata/",
       "caseNumber": "UUA2601008",
       "category": "urskurdur",
@@ -74,6 +86,18 @@
       "summary": "mál nr. UUA2601008, kæra á ákvörðun byggingarfulltrúans í Reykjavík frá 2. desember 2025 um að samþykkja umsókn um byggingarleyfi fyrir áðurgerðum breytingum á einbýlishúsi á lóð nr. 26a við Bragagötu.",
       "tags": "umhverfisréttur úrskurður byggingarleyfi deiliskipulag grenndarkynning landnotkun mannvirki stöðvun framkvæmda kæruheimild",
       "url": "https://uua.is/urleits/uua2601008-bragagata/"
+    },
+    {
+      "id": "https://uua.is/urleits/11277/",
+      "caseNumber": "UUA2607003",
+      "category": "urskurdur",
+      "type": "Úrskurður",
+      "source": "UUA",
+      "publishedAt": "2026-09-02T18:00:20.000Z",
+      "title": "UUA2607003 Laugavegur",
+      "summary": "mál nr. UUA2607003, kæra á ákvörðun byggingarfulltrúans í Reykjavík frá 24. júní 2026 um að synja beiðni um beitingu þvingunarúrræða vegna hjólageymslu við mörk lóðar Laugavegs 178.",
+      "tags": "umhverfisréttur úrskurður byggingarleyfi mannvirki þvingunarúrræði kæruheimild",
+      "url": "https://uua.is/urleits/11277/"
     },
     {
       "id": "https://uua.is/urleits/uua2606010-sjokviaeldi-i-arnarfirdi/",
@@ -1178,30 +1202,6 @@
       "summary": "mál nr. UUA2511058, kæra á ákvörðun byggingarfulltrúa Bláskóga­byggðar frá 19. nóvember 2025 um að synja umsókn um heimild til að byggja við sumarhús í landi Heiðarbæjar í Þingvallasveit.",
       "tags": "umhverfisréttur úrskurður deiliskipulag aðalskipulag grenndarkynning mannvirki kæruheimild",
       "url": "https://uua.is/urleits/uua2511058-heidarbaer/"
-    },
-    {
-      "id": "https://uua.is/urleits/uua2601015-fannborg/",
-      "caseNumber": "UUA2601015",
-      "category": "urskurdur",
-      "type": "Úrskurður",
-      "source": "UUA",
-      "publishedAt": "2026-02-10T18:00:06.000Z",
-      "title": "UUA2601015 Fannborg",
-      "summary": "Mál nr. UUA2601015, kæra á ákvörðun byggingarfulltrúa Kópavogsbæjar um að aðhafast ekkert vegna niðurrifs Fannborgar 2.",
-      "tags": "umhverfisréttur úrskurður byggingarleyfi mannvirki kæruheimild",
-      "url": "https://uua.is/urleits/uua2601015-fannborg/"
-    },
-    {
-      "id": "https://uua.is/urleits/155-2025-snorrabraut/",
-      "caseNumber": "155/2025",
-      "category": "urskurdur",
-      "type": "Úrskurður",
-      "source": "UUA",
-      "publishedAt": "2026-02-05T18:00:24.000Z",
-      "title": "155/2025 Snorrabraut",
-      "summary": "mál nr. 155/2025, kæra á ákvörðun byggingarfulltrúans í Reykjavík frá 26. ágúst 2025 um að samþykkja umsókn um byggingarleyfi fyrir áður gerðum breyt­ingum á fasteigninni að Snorrabraut 29.",
-      "tags": "umhverfisréttur úrskurður byggingarleyfi deiliskipulag grenndarkynning mannvirki mengunarvarnir kæruheimild",
-      "url": "https://uua.is/urleits/155-2025-snorrabraut/"
     }
   ]
 }
