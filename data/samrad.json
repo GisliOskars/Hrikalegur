@@ -1,8 +1,25 @@
 {
   "source": "Samráðsgátt",
   "sourceUrl": "https://island.is/samradsgatt/api/rss",
-  "fetchedAt": "2026-09-10T12:27:20.381Z",
+  "fetchedAt": "2026-09-11T12:25:40.377Z",
   "items": [
+    {
+      "id": "https://island.is/samradsgatt/mal/4318",
+      "caseNumber": "171/2026",
+      "category": "samrad",
+      "type": "Til samráðs",
+      "source": "Samráðsgátt",
+      "publishedAt": "2026-09-11T00:00:00.000Z",
+      "deadline": "2026-09-24T23:59:59.000Z",
+      "title": "Breyting á lögum nr. 64/1994 um vernd, friðun og veiðar á villtum fuglum og villtum spendýrum",
+      "summary": "Lagðar verða til breytingar á lögum um vernd, friðun og veiðar á villtum fuglum og villtum spendýrum með það að markmiði að styrkja og skýra lagarammann, einkum hvað varðar vernd og sjálfbæra nýtingu",
+      "tags": "veiðar veiðar",
+      "url": "https://island.is/samradsgatt/mal/4318",
+      "relevant": true,
+      "status": "Til umsagnar",
+      "institution": "Umhverfis-, orku- og loftslagsráðuneytið",
+      "policyArea": "Umhverfismál"
+    },
     {
       "id": "https://island.is/samradsgatt/mal/4302",
       "caseNumber": "155/2026",
