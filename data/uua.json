@@ -1,8 +1,32 @@
 {
   "source": "UUA",
   "sourceUrl": "https://uua.is/feed/",
-  "fetchedAt": "2026-09-10T12:27:17.399Z",
+  "fetchedAt": "2026-09-12T11:46:59.381Z",
   "items": [
+    {
+      "id": "https://uua.is/urleits/uua2606003-uppbygging-gagnavers/",
+      "caseNumber": "UUA2606003",
+      "category": "urskurdur",
+      "type": "Úrskurður",
+      "source": "UUA",
+      "publishedAt": "2026-09-11T18:00:30.000Z",
+      "title": "UUA2606003 Uppbygging gagnavers",
+      "summary": "mál nr. UUA2606003, kæra á ákvörðun Húsnæðis-, mannvirkja- og skipulagsstofnunar frá 2. júní 2026 um að uppbygging gagnavers við Valhallarbraut í Reykjanesbæ skuli ekki háð mati á umhverfisáhrifum.",
+      "tags": "umhverfisréttur úrskurður framkvæmdaleyfi deiliskipulag náttúruvernd mat á umhverfisáhrifum líffræðileg fjölbreytni landnotkun mannvirki mengunarvarnir starfsleyfi úrgangur fráveita orkumál kæruheimild",
+      "url": "https://uua.is/urleits/uua2606003-uppbygging-gagnavers/"
+    },
+    {
+      "id": "https://uua.is/urleits/uua2608013-jofursbas/",
+      "caseNumber": "UUA2608013",
+      "category": "urskurdur",
+      "type": "Úrskurður",
+      "source": "UUA",
+      "publishedAt": "2026-09-11T18:00:11.000Z",
+      "title": "UUA2608013 Jöfursbás",
+      "summary": "Mál nr. UUA2608013, kæra á ákvörðun byggingarfulltrúans í Reykjavík frá 30. júlí 2026 um að synja kröfu um stöðvun framkvæmda að Jöfursbás 3.",
+      "tags": "umhverfisréttur úrskurður byggingarleyfi deiliskipulag mannvirki stöðvun framkvæmda",
+      "url": "https://uua.is/urleits/uua2608013-jofursbas/"
+    },
     {
       "id": "https://uua.is/urleits/uua2605013-lindargata-2/",
       "caseNumber": "UUA2605013",
@@ -1178,30 +1202,6 @@
       "summary": "mál nr. UUA2511047, kæra á ákvörðun byggingarfulltrúa Rangárþings ytra frá 27. september 2025 um að samþykkja leyfi til breytingar á húsinu Miðgarði í Gunnarsholti á Rangárvöllum.",
       "tags": "umhverfisréttur úrskurður byggingarleyfi framkvæmdaleyfi deiliskipulag aðalskipulag grenndarkynning landnotkun mannvirki landgræðsla mengunarvarnir starfsleyfi kæruheimild",
       "url": "https://uua.is/urleits/uua2511047-gunnarsholt/"
-    },
-    {
-      "id": "https://uua.is/urleits/uua2512014-straumhella/",
-      "caseNumber": "UUA2512014",
-      "category": "urskurdur",
-      "type": "Úrskurður",
-      "source": "UUA",
-      "publishedAt": "2026-02-10T18:00:44.000Z",
-      "title": "UUA2512014 Straumhella",
-      "summary": "mál nr. UUA2512014, kæra á ákvörðun byggingarfulltrúa Hafnarfjarðar­kaupstaðar frá 3. desember 2025 um að afturkalla samþykki á byggingaráformum vegna breytinga í húsinu að Straumhellu 6.",
-      "tags": "umhverfisréttur úrskurður byggingarleyfi deiliskipulag aðalskipulag landnotkun mannvirki mengunarvarnir stöðvun framkvæmda kæruheimild",
-      "url": "https://uua.is/urleits/uua2512014-straumhella/"
-    },
-    {
-      "id": "https://uua.is/urleits/uua2511058-heidarbaer/",
-      "caseNumber": "UUA2511058",
-      "category": "urskurdur",
-      "type": "Úrskurður",
-      "source": "UUA",
-      "publishedAt": "2026-02-10T18:00:08.000Z",
-      "title": "UUA2511058 Heiðarbær",
-      "summary": "mál nr. UUA2511058, kæra á ákvörðun byggingarfulltrúa Bláskóga­byggðar frá 19. nóvember 2025 um að synja umsókn um heimild til að byggja við sumarhús í landi Heiðarbæjar í Þingvallasveit.",
-      "tags": "umhverfisréttur úrskurður deiliskipulag aðalskipulag grenndarkynning mannvirki kæruheimild",
-      "url": "https://uua.is/urleits/uua2511058-heidarbaer/"
     }
   ]
 }
