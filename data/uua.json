@@ -1,8 +1,20 @@
 {
   "source": "UUA",
   "sourceUrl": "https://uua.is/feed/",
-  "fetchedAt": "2026-09-12T11:46:59.381Z",
+  "fetchedAt": "2026-09-15T12:58:15.205Z",
   "items": [
+    {
+      "id": "https://uua.is/urleits/uua2609002-skutahraun/",
+      "caseNumber": "UUA2609002",
+      "category": "urskurdur",
+      "type": "Úrskurður",
+      "source": "UUA",
+      "publishedAt": "2026-09-14T18:00:20.000Z",
+      "title": "UUA2609002 Skútahraun",
+      "summary": "Mál nr. UUA2609002, kæra á ákvörðun byggingarfulltrúa Hafnarfjarðarkaupstaðar frá 20. ágúst 2026 um að leggja dagsektir á einn lóðarhafa lóðar nr. 2 við Skútahraun.",
+      "tags": "umhverfisréttur úrskurður mannvirki stöðvun framkvæmda frestun réttaráhrifa kæruheimild",
+      "url": "https://uua.is/urleits/uua2609002-skutahraun/"
+    },
     {
       "id": "https://uua.is/urleits/uua2606003-uppbygging-gagnavers/",
       "caseNumber": "UUA2606003",
@@ -100,18 +112,6 @@
       "url": "https://uua.is/urleits/11276/"
     },
     {
-      "id": "https://uua.is/urleits/uua2601008-bragagata/",
-      "caseNumber": "UUA2601008",
-      "category": "urskurdur",
-      "type": "Úrskurður",
-      "source": "UUA",
-      "publishedAt": "2026-09-02T18:00:20.000Z",
-      "title": "UUA2601008 Bragagata",
-      "summary": "mál nr. UUA2601008, kæra á ákvörðun byggingarfulltrúans í Reykjavík frá 2. desember 2025 um að samþykkja umsókn um byggingarleyfi fyrir áðurgerðum breytingum á einbýlishúsi á lóð nr. 26a við Bragagötu.",
-      "tags": "umhverfisréttur úrskurður byggingarleyfi deiliskipulag grenndarkynning landnotkun mannvirki stöðvun framkvæmda kæruheimild",
-      "url": "https://uua.is/urleits/uua2601008-bragagata/"
-    },
-    {
       "id": "https://uua.is/urleits/11277/",
       "caseNumber": "UUA2607003",
       "category": "urskurdur",
@@ -122,6 +122,18 @@
       "summary": "mál nr. UUA2607003, kæra á ákvörðun byggingarfulltrúans í Reykjavík frá 24. júní 2026 um að synja beiðni um beitingu þvingunarúrræða vegna hjólageymslu við mörk lóðar Laugavegs 178.",
       "tags": "umhverfisréttur úrskurður byggingarleyfi mannvirki þvingunarúrræði kæruheimild",
       "url": "https://uua.is/urleits/11277/"
+    },
+    {
+      "id": "https://uua.is/urleits/uua2601008-bragagata/",
+      "caseNumber": "UUA2601008",
+      "category": "urskurdur",
+      "type": "Úrskurður",
+      "source": "UUA",
+      "publishedAt": "2026-09-02T18:00:20.000Z",
+      "title": "UUA2601008 Bragagata",
+      "summary": "mál nr. UUA2601008, kæra á ákvörðun byggingarfulltrúans í Reykjavík frá 2. desember 2025 um að samþykkja umsókn um byggingarleyfi fyrir áðurgerðum breytingum á einbýlishúsi á lóð nr. 26a við Bragagötu.",
+      "tags": "umhverfisréttur úrskurður byggingarleyfi deiliskipulag grenndarkynning landnotkun mannvirki stöðvun framkvæmda kæruheimild",
+      "url": "https://uua.is/urleits/uua2601008-bragagata/"
     },
     {
       "id": "https://uua.is/urleits/uua2606010-sjokviaeldi-i-arnarfirdi/",
@@ -1190,18 +1202,6 @@
       "summary": "mál nr. 168/2025, kæra á ákvörðun byggingarfulltrúa Sveitarfélagsins Árborgar frá 1. október 2025 um að synja umsókn um byggingarleyfi fyrir parhúsi á lóð nr. 61–63 við Móstekk.",
       "tags": "umhverfisréttur úrskurður byggingarleyfi deiliskipulag mannvirki skipulagsmál mengunarvarnir kæruheimild",
       "url": "https://uua.is/urleits/168-2025-mostekkur/"
-    },
-    {
-      "id": "https://uua.is/urleits/uua2511047-gunnarsholt/",
-      "caseNumber": "UUA2511047",
-      "category": "urskurdur",
-      "type": "Úrskurður",
-      "source": "UUA",
-      "publishedAt": "2026-02-10T18:00:50.000Z",
-      "title": "UUA2511047 Gunnarsholt",
-      "summary": "mál nr. UUA2511047, kæra á ákvörðun byggingarfulltrúa Rangárþings ytra frá 27. september 2025 um að samþykkja leyfi til breytingar á húsinu Miðgarði í Gunnarsholti á Rangárvöllum.",
-      "tags": "umhverfisréttur úrskurður byggingarleyfi framkvæmdaleyfi deiliskipulag aðalskipulag grenndarkynning landnotkun mannvirki landgræðsla mengunarvarnir starfsleyfi kæruheimild",
-      "url": "https://uua.is/urleits/uua2511047-gunnarsholt/"
     }
   ]
 }
