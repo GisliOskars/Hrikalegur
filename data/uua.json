@@ -1,8 +1,20 @@
 {
   "source": "UUA",
   "sourceUrl": "https://uua.is/feed/",
-  "fetchedAt": "2026-09-15T12:58:15.205Z",
+  "fetchedAt": "2026-09-16T12:55:27.272Z",
   "items": [
+    {
+      "id": "https://uua.is/urleits/uua2606019-holabraut/",
+      "caseNumber": "UUA2606019",
+      "category": "urskurdur",
+      "type": "Úrskurður",
+      "source": "UUA",
+      "publishedAt": "2026-09-15T18:00:33.000Z",
+      "title": "UUA2606019 Hólabraut",
+      "summary": "mál nr. UUA2606019, kæra á ákvörðun byggingarfulltrúa Akureyrar­bæjar frá 22. maí 2026 um að synja staðfestingu á tilkynningu um mannvirkjagerð vegna framkvæmda í geymslu í fjölbýlishúsinu að Hólabraut 18.",
+      "tags": "umhverfisréttur úrskurður byggingarleyfi mannvirki mengunarvarnir kæruheimild",
+      "url": "https://uua.is/urleits/uua2606019-holabraut/"
+    },
     {
       "id": "https://uua.is/urleits/uua2609002-skutahraun/",
       "caseNumber": "UUA2609002",
@@ -112,18 +124,6 @@
       "url": "https://uua.is/urleits/11276/"
     },
     {
-      "id": "https://uua.is/urleits/11277/",
-      "caseNumber": "UUA2607003",
-      "category": "urskurdur",
-      "type": "Úrskurður",
-      "source": "UUA",
-      "publishedAt": "2026-09-02T18:00:20.000Z",
-      "title": "UUA2607003 Laugavegur",
-      "summary": "mál nr. UUA2607003, kæra á ákvörðun byggingarfulltrúans í Reykjavík frá 24. júní 2026 um að synja beiðni um beitingu þvingunarúrræða vegna hjólageymslu við mörk lóðar Laugavegs 178.",
-      "tags": "umhverfisréttur úrskurður byggingarleyfi mannvirki þvingunarúrræði kæruheimild",
-      "url": "https://uua.is/urleits/11277/"
-    },
-    {
       "id": "https://uua.is/urleits/uua2601008-bragagata/",
       "caseNumber": "UUA2601008",
       "category": "urskurdur",
@@ -134,6 +134,18 @@
       "summary": "mál nr. UUA2601008, kæra á ákvörðun byggingarfulltrúans í Reykjavík frá 2. desember 2025 um að samþykkja umsókn um byggingarleyfi fyrir áðurgerðum breytingum á einbýlishúsi á lóð nr. 26a við Bragagötu.",
       "tags": "umhverfisréttur úrskurður byggingarleyfi deiliskipulag grenndarkynning landnotkun mannvirki stöðvun framkvæmda kæruheimild",
       "url": "https://uua.is/urleits/uua2601008-bragagata/"
+    },
+    {
+      "id": "https://uua.is/urleits/11277/",
+      "caseNumber": "UUA2607003",
+      "category": "urskurdur",
+      "type": "Úrskurður",
+      "source": "UUA",
+      "publishedAt": "2026-09-02T18:00:20.000Z",
+      "title": "UUA2607003 Laugavegur",
+      "summary": "mál nr. UUA2607003, kæra á ákvörðun byggingarfulltrúans í Reykjavík frá 24. júní 2026 um að synja beiðni um beitingu þvingunarúrræða vegna hjólageymslu við mörk lóðar Laugavegs 178.",
+      "tags": "umhverfisréttur úrskurður byggingarleyfi mannvirki þvingunarúrræði kæruheimild",
+      "url": "https://uua.is/urleits/11277/"
     },
     {
       "id": "https://uua.is/urleits/uua2606010-sjokviaeldi-i-arnarfirdi/",
@@ -1190,18 +1202,6 @@
       "summary": "Mál nr. UUA2602019, kæra á ákvörðun bæjarstjórnar Kópavogs frá 10. febrúar 2026 um að samþykkja breytt deiliskipulag Nónhæðar vegna Nónsmára 1–17.",
       "tags": "umhverfisréttur úrskurður deiliskipulag",
       "url": "https://uua.is/urleits/uua2602019-nonsmari/"
-    },
-    {
-      "id": "https://uua.is/urleits/168-2025-mostekkur/",
-      "caseNumber": "168/2025",
-      "category": "urskurdur",
-      "type": "Úrskurður",
-      "source": "UUA",
-      "publishedAt": "2026-02-10T18:00:57.000Z",
-      "title": "168/2025 Móstekkur",
-      "summary": "mál nr. 168/2025, kæra á ákvörðun byggingarfulltrúa Sveitarfélagsins Árborgar frá 1. október 2025 um að synja umsókn um byggingarleyfi fyrir parhúsi á lóð nr. 61–63 við Móstekk.",
-      "tags": "umhverfisréttur úrskurður byggingarleyfi deiliskipulag mannvirki skipulagsmál mengunarvarnir kæruheimild",
-      "url": "https://uua.is/urleits/168-2025-mostekkur/"
     }
   ]
 }
