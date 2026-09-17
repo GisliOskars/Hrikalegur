@@ -1,8 +1,25 @@
 {
   "source": "Samráðsgátt",
   "sourceUrl": "https://island.is/samradsgatt/api/rss",
-  "fetchedAt": "2026-09-11T12:25:40.377Z",
+  "fetchedAt": "2026-09-17T12:51:41.923Z",
   "items": [
+    {
+      "id": "https://island.is/samradsgatt/mal/4323",
+      "caseNumber": "176/2026",
+      "category": "samrad",
+      "type": "Til samráðs",
+      "source": "Samráðsgátt",
+      "publishedAt": "2026-09-16T00:00:00.000Z",
+      "deadline": "2026-10-01T23:59:59.000Z",
+      "title": "Áform um frumvarp til laga um breytingu á lögum um stjórn fiskveiða og lögum um sérstakt gjald vegna ólögmæts sjávarafla (Óunninn afli, VS-afli, gagnsæi, veiðiskylda og Verkefnasjóður sjávarútvegsins)",
+      "summary": "Áformað er að leggja fram drög að frumvarpi til laga um breytingu á lögum um stjórn fiskveiða, nr. 116/2006 og lögum um sérstakt gjald vegna ólögmæts sjávarafla, nr. 37/1992.",
+      "tags": "veiðar veiðar sjókvíaeldi",
+      "url": "https://island.is/samradsgatt/mal/4323",
+      "relevant": true,
+      "status": "Til umsagnar",
+      "institution": "Atvinnuvegaráðuneytið",
+      "policyArea": "Sjávarútvegur og fiskeldi"
+    },
     {
       "id": "https://island.is/samradsgatt/mal/4318",
       "caseNumber": "171/2026",

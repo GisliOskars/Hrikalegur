@@ -1,8 +1,20 @@
 {
   "source": "UUA",
   "sourceUrl": "https://uua.is/feed/",
-  "fetchedAt": "2026-09-16T12:55:27.272Z",
+  "fetchedAt": "2026-09-17T12:51:39.206Z",
   "items": [
+    {
+      "id": "https://uua.is/urleits/uua2609005-gauksstadir/",
+      "caseNumber": "UUA2609005",
+      "category": "urskurdur",
+      "type": "Úrskurður",
+      "source": "UUA",
+      "publishedAt": "2026-09-16T18:00:46.000Z",
+      "title": "UUA2609005 Gauksstaðir",
+      "summary": "Mál nr. UUA2609005, kæra á ákvörðun bæjarstjórnar Suðurnesjabæjar frá 3. júní 2026 um að samþykkja deiliskipulag Gauksstaða (L196408).",
+      "tags": "umhverfisréttur úrskurður framkvæmdaleyfi deiliskipulag stöðvun framkvæmda frestun réttaráhrifa kæruheimild",
+      "url": "https://uua.is/urleits/uua2609005-gauksstadir/"
+    },
     {
       "id": "https://uua.is/urleits/uua2606019-holabraut/",
       "caseNumber": "UUA2606019",
@@ -1178,30 +1190,6 @@
       "summary": "mál nr. 148/2025, kæra á ákvörðun Heilbrigðiseftirlits Reykjavíkur frá 19. ágúst 2025 um að gefa út endurskoðað starfsleyfi fyrir bálstofu í Fossvogi.",
       "tags": "umhverfisréttur úrskurður aðalskipulag mat á umhverfisáhrifum landnotkun mengunarvarnir starfsleyfi úrgangur kæruheimild",
       "url": "https://uua.is/urleits/148-2025-balstofa/"
-    },
-    {
-      "id": "https://uua.is/urleits/uua2601009-hafnargata/",
-      "caseNumber": "UUA2601009",
-      "category": "urskurdur",
-      "type": "Úrskurður",
-      "source": "UUA",
-      "publishedAt": "2026-02-13T18:00:54.000Z",
-      "title": "UUA2601009 Hafnagata",
-      "summary": "Mál nr. UUA2601009, kæra á ákvörðun umhverfis- og skipulagsráðs Reykjanesbæjar frá 16. janúar 2026 um að samþykkja að byggð verði geymsla á lóð nr. 27 við Hafnagötu í Höfnum.",
-      "tags": "umhverfisréttur úrskurður byggingarleyfi grenndarkynning mannvirki",
-      "url": "https://uua.is/urleits/uua2601009-hafnargata/"
-    },
-    {
-      "id": "https://uua.is/urleits/uua2602019-nonsmari/",
-      "caseNumber": "UUA2602019",
-      "category": "urskurdur",
-      "type": "Úrskurður",
-      "source": "UUA",
-      "publishedAt": "2026-02-13T18:00:04.000Z",
-      "title": "UUA2602019 Nónsmári",
-      "summary": "Mál nr. UUA2602019, kæra á ákvörðun bæjarstjórnar Kópavogs frá 10. febrúar 2026 um að samþykkja breytt deiliskipulag Nónhæðar vegna Nónsmára 1–17.",
-      "tags": "umhverfisréttur úrskurður deiliskipulag",
-      "url": "https://uua.is/urleits/uua2602019-nonsmari/"
     }
   ]
 }
