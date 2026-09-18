@@ -1,8 +1,32 @@
 {
   "source": "UUA",
   "sourceUrl": "https://uua.is/feed/",
-  "fetchedAt": "2026-09-17T12:51:39.206Z",
+  "fetchedAt": "2026-09-18T12:27:17.392Z",
   "items": [
+    {
+      "id": "https://uua.is/urleits/uua2606017-godahraun-2/",
+      "caseNumber": "UUA2606017",
+      "category": "urskurdur",
+      "type": "Úrskurður",
+      "source": "UUA",
+      "publishedAt": "2026-09-17T18:00:30.000Z",
+      "title": "UUA2606017 Goðahraun",
+      "summary": "mál nr. UUA2606017, kæra á ákvörðun byggingarfulltrúa Vestmannaeyjabæjar frá 2. júlí 2026 um að samþykkja byggingaráform fyrir einbýlishús á lóð nr. 3 við Goðahraun í Vestmannaeyjum.",
+      "tags": "umhverfisréttur úrskurður byggingarleyfi framkvæmdaleyfi deiliskipulag aðalskipulag grenndarkynning landnotkun mannvirki kæruheimild",
+      "url": "https://uua.is/urleits/uua2606017-godahraun-2/"
+    },
+    {
+      "id": "https://uua.is/urleits/uua2607014-sudurnesjalina-2/",
+      "caseNumber": "UUA2607014",
+      "category": "urskurdur",
+      "type": "Úrskurður",
+      "source": "UUA",
+      "publishedAt": "2026-09-17T18:00:19.000Z",
+      "title": "UUA2607014 Suðurnesjalína 2",
+      "summary": "mál nr. UUA2607014, kæra á þeirri afgreiðslu byggingarfulltrúa Sveitarfélagsins Voga að gefa út viðauka II frá 10. júlí 2026 við framkvæmdaleyfi fyrir Suðurnesjalínu 2, dags. 25. janúar 2024.",
+      "tags": "umhverfisréttur úrskurður framkvæmdaleyfi deiliskipulag aðalskipulag náttúruvernd mat á umhverfisáhrifum mannvirki skipulagsmál orkumál",
+      "url": "https://uua.is/urleits/uua2607014-sudurnesjalina-2/"
+    },
     {
       "id": "https://uua.is/urleits/uua2609005-gauksstadir/",
       "caseNumber": "UUA2609005",
@@ -1166,30 +1190,6 @@
       "summary": "Mál nr. UUA2602010, kæra á ákvörðun byggingarfulltrúa Kópavogsbæjar frá 30. janúar 2026 um að samþykkja umsókn um byggingarleyfi fyrir niðurrifi mannvirkis á lóð Fannborgar 2.",
       "tags": "umhverfisréttur úrskurður byggingarleyfi framkvæmdaleyfi deiliskipulag mannvirki",
       "url": "https://uua.is/urleits/uua2602010-fannborg/"
-    },
-    {
-      "id": "https://uua.is/urleits/uua2601013-thverholt/",
-      "caseNumber": "UUA2601013",
-      "category": "urskurdur",
-      "type": "Úrskurður",
-      "source": "UUA",
-      "publishedAt": "2026-02-17T18:00:55.000Z",
-      "title": "UUA2601013 Þverholt",
-      "summary": "Mál nr. UUA2601013, kæra á ákvörðun byggingafulltrúans í Reykjavík frá 21. nóvember 2023 um að samþykkja byggingaráform til að innrétta 26 íbúðir, sex vinnustofur og eina bílageymslu í skrifstofu- og atvinnuhúsnæði á lóðinni…",
-      "tags": "umhverfisréttur úrskurður byggingarleyfi grenndarkynning stöðvun framkvæmda kæruheimild",
-      "url": "https://uua.is/urleits/uua2601013-thverholt/"
-    },
-    {
-      "id": "https://uua.is/urleits/148-2025-balstofa/",
-      "caseNumber": "148/2025",
-      "category": "urskurdur",
-      "type": "Úrskurður",
-      "source": "UUA",
-      "publishedAt": "2026-02-16T18:00:45.000Z",
-      "title": "148/2025 Bálstofa",
-      "summary": "mál nr. 148/2025, kæra á ákvörðun Heilbrigðiseftirlits Reykjavíkur frá 19. ágúst 2025 um að gefa út endurskoðað starfsleyfi fyrir bálstofu í Fossvogi.",
-      "tags": "umhverfisréttur úrskurður aðalskipulag mat á umhverfisáhrifum landnotkun mengunarvarnir starfsleyfi úrgangur kæruheimild",
-      "url": "https://uua.is/urleits/148-2025-balstofa/"
     }
   ]
 }
