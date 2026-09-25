@@ -1,7 +1,7 @@
 {
   "source": "Samráðsgátt",
   "sourceUrl": "https://island.is/samradsgatt/api/rss",
-  "fetchedAt": "2026-09-23T13:06:16.420Z",
+  "fetchedAt": "2026-09-25T13:05:25.452Z",
   "items": [
     {
       "id": "https://island.is/samradsgatt/mal/4323",
@@ -33,7 +33,7 @@
       "tags": "veiðar veiðar",
       "url": "https://island.is/samradsgatt/mal/4318",
       "relevant": true,
-      "status": "Til umsagnar",
+      "status": "Niðurstöður í vinnslu",
       "institution": "Umhverfis-, orku- og loftslagsráðuneytið",
       "policyArea": "Umhverfismál"
     },
