@@ -1,8 +1,44 @@
 {
   "source": "UUA",
   "sourceUrl": "https://uua.is/feed/",
-  "fetchedAt": "2026-09-25T13:05:22.249Z",
+  "fetchedAt": "2026-09-26T12:32:47.393Z",
   "items": [
+    {
+      "id": "https://uua.is/urleits/uua2606006-alalind/",
+      "caseNumber": "UUA2606006",
+      "category": "urskurdur",
+      "type": "Úrskurður",
+      "source": "UUA",
+      "publishedAt": "2026-09-25T18:00:55.000Z",
+      "title": "UUA2606006 Álalind",
+      "summary": "mál nr. UUA2606006, kæra á ákvörðun byggingarfulltrúa Kópavogs­bæjar frá 8. maí 2026 um að synja umsókn um byggingarleyfi fyrir svalalokun á fyrstu til níundu hæð fjölbýlishússins að Álalind 14.",
+      "tags": "umhverfisréttur úrskurður byggingarleyfi deiliskipulag mannvirki kæruheimild",
+      "url": "https://uua.is/urleits/uua2606006-alalind/"
+    },
+    {
+      "id": "https://uua.is/urleits/uua2607018-midgrund/",
+      "caseNumber": "UUA2607018",
+      "category": "urskurdur",
+      "type": "Úrskurður",
+      "source": "UUA",
+      "publishedAt": "2026-09-25T18:00:46.000Z",
+      "title": "UUA2607018 Miðgrund",
+      "summary": "mál nr. UUA2607018, kæra á ákvörðunum byggingarfulltrúa Akureyrarbæjar frá 8. janúar og 26. júní 2026, annars vegar um að samþykkja byggingaráform fyrir flugskýli á lóð Miðgrundar 9 og hins vegar um að synja kröfu um stöðvun…",
+      "tags": "umhverfisréttur úrskurður byggingarleyfi deiliskipulag mannvirki stöðvun framkvæmda kæruheimild",
+      "url": "https://uua.is/urleits/uua2607018-midgrund/"
+    },
+    {
+      "id": "https://uua.is/urleits/uua2609007-alfholsvegur/",
+      "caseNumber": "UUA2609007",
+      "category": "urskurdur",
+      "type": "Úrskurður",
+      "source": "UUA",
+      "publishedAt": "2026-09-25T18:00:24.000Z",
+      "title": "UUA2609007 Álfhólsvegur",
+      "summary": "Mál nr. UUA2609007, beiðni um úrskurð vegna eignaskiptayfirlýsingar Álfhólsvegar 27 og drátt á afgreiðslu fyrirspurnar hjá Húsnæðis-, mannvirkja- og skipulagsstofnun.",
+      "tags": "umhverfisréttur úrskurður mannvirki málshraði",
+      "url": "https://uua.is/urleits/uua2609007-alfholsvegur/"
+    },
     {
       "id": "https://uua.is/urleits/uua2609006-thjorsarkvisl/",
       "caseNumber": "UUA2609006",
@@ -208,18 +244,6 @@
       "url": "https://uua.is/urleits/11276/"
     },
     {
-      "id": "https://uua.is/urleits/uua2601008-bragagata/",
-      "caseNumber": "UUA2601008",
-      "category": "urskurdur",
-      "type": "Úrskurður",
-      "source": "UUA",
-      "publishedAt": "2026-09-02T18:00:20.000Z",
-      "title": "UUA2601008 Bragagata",
-      "summary": "mál nr. UUA2601008, kæra á ákvörðun byggingarfulltrúans í Reykjavík frá 2. desember 2025 um að samþykkja umsókn um byggingarleyfi fyrir áðurgerðum breytingum á einbýlishúsi á lóð nr. 26a við Bragagötu.",
-      "tags": "umhverfisréttur úrskurður byggingarleyfi deiliskipulag grenndarkynning landnotkun mannvirki stöðvun framkvæmda kæruheimild",
-      "url": "https://uua.is/urleits/uua2601008-bragagata/"
-    },
-    {
       "id": "https://uua.is/urleits/11277/",
       "caseNumber": "UUA2607003",
       "category": "urskurdur",
@@ -230,6 +254,18 @@
       "summary": "mál nr. UUA2607003, kæra á ákvörðun byggingarfulltrúans í Reykjavík frá 24. júní 2026 um að synja beiðni um beitingu þvingunarúrræða vegna hjólageymslu við mörk lóðar Laugavegs 178.",
       "tags": "umhverfisréttur úrskurður byggingarleyfi mannvirki þvingunarúrræði kæruheimild",
       "url": "https://uua.is/urleits/11277/"
+    },
+    {
+      "id": "https://uua.is/urleits/uua2601008-bragagata/",
+      "caseNumber": "UUA2601008",
+      "category": "urskurdur",
+      "type": "Úrskurður",
+      "source": "UUA",
+      "publishedAt": "2026-09-02T18:00:20.000Z",
+      "title": "UUA2601008 Bragagata",
+      "summary": "mál nr. UUA2601008, kæra á ákvörðun byggingarfulltrúans í Reykjavík frá 2. desember 2025 um að samþykkja umsókn um byggingarleyfi fyrir áðurgerðum breytingum á einbýlishúsi á lóð nr. 26a við Bragagötu.",
+      "tags": "umhverfisréttur úrskurður byggingarleyfi deiliskipulag grenndarkynning landnotkun mannvirki stöðvun framkvæmda kæruheimild",
+      "url": "https://uua.is/urleits/uua2601008-bragagata/"
     },
     {
       "id": "https://uua.is/urleits/uua2606010-sjokviaeldi-i-arnarfirdi/",
@@ -1154,42 +1190,6 @@
       "summary": "mál nr. 169/2025, kæra á ákvörðunum byggingarfulltrúans í Reykjavík frá 3. október 2025 um að synja afturköllun á ákvörðun embættisins um að gera kærendum að færa steyptan garðvegg á lóð Bergstaðastrætis 78 til fyrra horfs og frá…",
       "tags": "umhverfisréttur úrskurður byggingarleyfi deiliskipulag aðalskipulag mannvirki þvingunarúrræði kæruheimild",
       "url": "https://uua.is/urleits/169-2025-bergstadastraeti/"
-    },
-    {
-      "id": "https://uua.is/urleits/uua2511056-bergstadastraeti-2/",
-      "caseNumber": "UUA2511056",
-      "category": "urskurdur",
-      "type": "Úrskurður",
-      "source": "UUA",
-      "publishedAt": "2026-02-27T18:00:28.000Z",
-      "title": "UUA2511056 Bergstaðastræti",
-      "summary": "mál nr. UUA2511056, kæra á ákvörðun byggingarfulltrúans í Reykjavík frá 21. október 2025 um álagningu dagsekta að upphæð kr. 25.000 vegna garðveggjar á lóð Bergstaðastrætis 81.",
-      "tags": "umhverfisréttur úrskurður byggingarleyfi deiliskipulag aðalskipulag mannvirki skipulagsmál þvingunarúrræði málshraði kæruheimild",
-      "url": "https://uua.is/urleits/uua2511056-bergstadastraeti-2/"
-    },
-    {
-      "id": "https://uua.is/urleits/skaftafell3c/",
-      "caseNumber": "UUA2601006",
-      "category": "urskurdur",
-      "type": "Úrskurður",
-      "source": "UUA",
-      "publishedAt": "2026-02-27T18:00:14.000Z",
-      "title": "UUA2601006 Skaftafell 3C",
-      "summary": "mál nr. UUA2601006, kæra á ákvörðun byggingarfulltrúa Sveitar­félagsins Hornafjarðar frá 22. apríl 2025 um að samþykkja byggingaráform fyrir byggingu 13 gistihúsa að Skaftafelli 3C í Öræfum.",
-      "tags": "umhverfisréttur úrskurður deiliskipulag aðalskipulag náttúruvernd mat á umhverfisáhrifum landnotkun skógrækt mannvirki landgræðsla mengunarvarnir kæruheimild",
-      "url": "https://uua.is/urleits/skaftafell3c/"
-    },
-    {
-      "id": "https://uua.is/urleits/uua2511055-vogaland-2/",
-      "caseNumber": "UUA2511055",
-      "category": "urskurdur",
-      "type": "Úrskurður",
-      "source": "UUA",
-      "publishedAt": "2026-02-27T18:00:12.000Z",
-      "title": "UUA2511055 Vogaland",
-      "summary": "mál nr. UUA2511055, kæra á ákvörðun byggingarfulltrúans í Reykjavík frá 20. október 2025 um að fjarlægja beri smáhýsi af lóð Vogalands 7 eða færa það 3,0 m frá lóðarmörkum Vogalands 9.",
-      "tags": "umhverfisréttur úrskurður byggingarleyfi deiliskipulag mannvirki þvingunarúrræði kæruheimild",
-      "url": "https://uua.is/urleits/uua2511055-vogaland-2/"
     }
   ]
 }
