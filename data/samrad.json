@@ -1,8 +1,25 @@
 {
   "source": "Samráðsgátt",
   "sourceUrl": "https://island.is/samradsgatt/api/rss",
-  "fetchedAt": "2026-10-02T14:16:58.531Z",
+  "fetchedAt": "2026-10-06T14:34:15.267Z",
   "items": [
+    {
+      "id": "https://island.is/samradsgatt/mal/4339",
+      "caseNumber": "192/2026",
+      "category": "samrad",
+      "type": "Til samráðs",
+      "source": "Samráðsgátt",
+      "publishedAt": "2026-10-06T00:00:00.000Z",
+      "deadline": "2026-10-21T23:59:59.000Z",
+      "title": "Áform um innleiðingu EES-reglna um tilflutning úrgangs",
+      "summary": "Áformuð er innleiðing reglugerðar (ESB) 2024/1157 um tilflutning úrgangs, sem tekur til flutnings úrgangs á milli landa.",
+      "tags": "úrgangur úrgangur",
+      "url": "https://island.is/samradsgatt/mal/4339",
+      "relevant": true,
+      "status": "Til umsagnar",
+      "institution": "Umhverfis-, orku- og loftslagsráðuneytið",
+      "policyArea": "Umhverfismál"
+    },
     {
       "id": "https://island.is/samradsgatt/mal/4337",
       "caseNumber": "190/2026",
