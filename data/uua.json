@@ -1,8 +1,20 @@
 {
   "source": "UUA",
   "sourceUrl": "https://uua.is/feed/",
-  "fetchedAt": "2026-09-26T12:32:47.393Z",
+  "fetchedAt": "2026-10-07T14:52:23.808Z",
   "items": [
+    {
+      "id": "https://uua.is/urleits/uua2609022-kringlan-ii/",
+      "caseNumber": "UUA2609022",
+      "category": "urskurdur",
+      "type": "Úrskurður",
+      "source": "UUA",
+      "publishedAt": "2026-10-06T18:00:41.000Z",
+      "title": "UUA2609022 Kringlan II",
+      "summary": "Mál nr. UUA2609022, kæra á ákvörðun sveitarstjórnar Grímsnes- og grafningshrepps frá 1. maí 2002 um að samþykkja breytingu á deiliskipulagi frístundabyggðar í landi Kringlu II.",
+      "tags": "umhverfisréttur úrskurður deiliskipulag",
+      "url": "https://uua.is/urleits/uua2609022-kringlan-ii/"
+    },
     {
       "id": "https://uua.is/urleits/uua2606006-alalind/",
       "caseNumber": "UUA2606006",
@@ -244,18 +256,6 @@
       "url": "https://uua.is/urleits/11276/"
     },
     {
-      "id": "https://uua.is/urleits/11277/",
-      "caseNumber": "UUA2607003",
-      "category": "urskurdur",
-      "type": "Úrskurður",
-      "source": "UUA",
-      "publishedAt": "2026-09-02T18:00:20.000Z",
-      "title": "UUA2607003 Laugavegur",
-      "summary": "mál nr. UUA2607003, kæra á ákvörðun byggingarfulltrúans í Reykjavík frá 24. júní 2026 um að synja beiðni um beitingu þvingunarúrræða vegna hjólageymslu við mörk lóðar Laugavegs 178.",
-      "tags": "umhverfisréttur úrskurður byggingarleyfi mannvirki þvingunarúrræði kæruheimild",
-      "url": "https://uua.is/urleits/11277/"
-    },
-    {
       "id": "https://uua.is/urleits/uua2601008-bragagata/",
       "caseNumber": "UUA2601008",
       "category": "urskurdur",
@@ -266,6 +266,18 @@
       "summary": "mál nr. UUA2601008, kæra á ákvörðun byggingarfulltrúans í Reykjavík frá 2. desember 2025 um að samþykkja umsókn um byggingarleyfi fyrir áðurgerðum breytingum á einbýlishúsi á lóð nr. 26a við Bragagötu.",
       "tags": "umhverfisréttur úrskurður byggingarleyfi deiliskipulag grenndarkynning landnotkun mannvirki stöðvun framkvæmda kæruheimild",
       "url": "https://uua.is/urleits/uua2601008-bragagata/"
+    },
+    {
+      "id": "https://uua.is/urleits/11277/",
+      "caseNumber": "UUA2607003",
+      "category": "urskurdur",
+      "type": "Úrskurður",
+      "source": "UUA",
+      "publishedAt": "2026-09-02T18:00:20.000Z",
+      "title": "UUA2607003 Laugavegur",
+      "summary": "mál nr. UUA2607003, kæra á ákvörðun byggingarfulltrúans í Reykjavík frá 24. júní 2026 um að synja beiðni um beitingu þvingunarúrræða vegna hjólageymslu við mörk lóðar Laugavegs 178.",
+      "tags": "umhverfisréttur úrskurður byggingarleyfi mannvirki þvingunarúrræði kæruheimild",
+      "url": "https://uua.is/urleits/11277/"
     },
     {
       "id": "https://uua.is/urleits/uua2606010-sjokviaeldi-i-arnarfirdi/",
@@ -1178,18 +1190,6 @@
       "summary": "Mál nr. UUA2602015, kæra á ákvörðun byggingarfulltrúans í Reykjavík frá 13. ágúst 2025 um að veita byggingarheimild fyrir breyttri notkun og útliti bílskúrs á lóð fjölbýlishúss nr. 13 við Hjarðarhaga.",
       "tags": "umhverfisréttur úrskurður stöðvun framkvæmda kæruheimild",
       "url": "https://uua.is/urleits/uua2602015-hjardarhagi/"
-    },
-    {
-      "id": "https://uua.is/urleits/169-2025-bergstadastraeti/",
-      "caseNumber": "169/2025",
-      "category": "urskurdur",
-      "type": "Úrskurður",
-      "source": "UUA",
-      "publishedAt": "2026-02-27T18:00:48.000Z",
-      "title": "169/2025 Bergstaðastræti",
-      "summary": "mál nr. 169/2025, kæra á ákvörðunum byggingarfulltrúans í Reykjavík frá 3. október 2025 um að synja afturköllun á ákvörðun embættisins um að gera kærendum að færa steyptan garðvegg á lóð Bergstaðastrætis 78 til fyrra horfs og frá…",
-      "tags": "umhverfisréttur úrskurður byggingarleyfi deiliskipulag aðalskipulag mannvirki þvingunarúrræði kæruheimild",
-      "url": "https://uua.is/urleits/169-2025-bergstadastraeti/"
     }
   ]
 }

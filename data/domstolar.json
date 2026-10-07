@@ -1,8 +1,24 @@
 {
   "source": "Dómstólar",
   "sourceUrl": "https://island.is/s/domstolar/domar",
-  "fetchedAt": "2026-09-02T12:22:20.174Z",
+  "fetchedAt": "2026-10-07T14:52:42.371Z",
   "items": [
+    {
+      "id": "https://island.is/domar/g-52d09a40-b8a1-4c92-a1bc-837b14d22473",
+      "caseNumber": "578/2025",
+      "category": "domur",
+      "type": "Dómur/úrskurður",
+      "source": "Landsréttur",
+      "publishedAt": "2026-09-29T00:00:00.000Z",
+      "title": "578/2025 · Landsréttur",
+      "summary": "S hf. mótmælti framlagningu fjögurra skjala sem V hf. sendi Landsrétti áður en gagnaöflunarfresti lauk. Var um að ræða fyrirspurn V hf. til T hf. og VT hf. og svar beggja aðila við henni. Í úrskurði Landsréttar kom fram að mótmæli…",
+      "tags": "málshraði Framlagning skjals Sönnunargögn Úrskurður undir rekstri máls",
+      "url": "https://island.is/domar/g-52d09a40-b8a1-4c92-a1bc-837b14d22473",
+      "relevant": true,
+      "court": "Landsréttur",
+      "parties": "VÍS tryggingar hf. (Heiðar Örn Stefánsson lögmaður) gegn Ferðaþjónustu og sumarhúsum ehf. (Björn Jóhannesson lögmaður) og Ferðaþjónusta og sumarhús ehf. (Björn Jóhannesson lögmaður) gegn Sjóvá-almennum tryggingum hf. (Óskar Sigurðsson lögmaður)",
+      "courtKeywords": "Framlagning skjals Sönnunargögn Úrskurður undir rekstri máls"
+    },
     {
       "id": "https://island.is/domar/g-150aef20-3033-445e-a62e-75d2031b0d29",
       "caseNumber": "618/2026",
