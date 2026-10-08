@@ -1,8 +1,20 @@
 {
   "source": "UUA",
   "sourceUrl": "https://uua.is/feed/",
-  "fetchedAt": "2026-10-07T14:52:23.808Z",
+  "fetchedAt": "2026-10-08T15:02:35.615Z",
   "items": [
+    {
+      "id": "https://uua.is/urleits/uua2609008-vesturgata/",
+      "caseNumber": "UUA2609008",
+      "category": "urskurdur",
+      "type": "Úrskurður",
+      "source": "UUA",
+      "publishedAt": "2026-10-07T18:00:41.000Z",
+      "title": "UUA2609008 Vesturgata",
+      "summary": "Mál nr. UUA2609008, kæra á ákvörðun byggingarfulltrúans í Reykjavík um að samþykkja byggingarleyfisumsókn vegna breytinga á innra skipulagi í kjallara og á 1. hæð fyrir veitingastað í flokki II að Vesturgötu 3 í Reykjavík.",
+      "tags": "umhverfisréttur úrskurður byggingarleyfi starfsleyfi stöðvun framkvæmda frestun réttaráhrifa",
+      "url": "https://uua.is/urleits/uua2609008-vesturgata/"
+    },
     {
       "id": "https://uua.is/urleits/uua2609022-kringlan-ii/",
       "caseNumber": "UUA2609022",
@@ -1178,18 +1190,6 @@
       "summary": "Mál nr. UUA26022024, kæra á ákvörðun byggingarfulltrúans í Reykjavík frá 2. desember 2025 um að samþykkja umsókn um byggingarleyfi fyrir",
       "tags": "umhverfisréttur úrskurður byggingarleyfi grenndarkynning mannvirki stöðvun framkvæmda kæruheimild",
       "url": "https://uua.is/urleits/uua2602024-hladbaer/"
-    },
-    {
-      "id": "https://uua.is/urleits/uua2602015-hjardarhagi/",
-      "caseNumber": "UUA2602015",
-      "category": "urskurdur",
-      "type": "Úrskurður",
-      "source": "UUA",
-      "publishedAt": "2026-03-03T18:00:52.000Z",
-      "title": "UUA2602015 Hjarðarhagi",
-      "summary": "Mál nr. UUA2602015, kæra á ákvörðun byggingarfulltrúans í Reykjavík frá 13. ágúst 2025 um að veita byggingarheimild fyrir breyttri notkun og útliti bílskúrs á lóð fjölbýlishúss nr. 13 við Hjarðarhaga.",
-      "tags": "umhverfisréttur úrskurður stöðvun framkvæmda kæruheimild",
-      "url": "https://uua.is/urleits/uua2602015-hjardarhagi/"
     }
   ]
 }
