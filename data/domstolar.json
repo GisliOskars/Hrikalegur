@@ -1,8 +1,24 @@
 {
   "source": "Dómstólar",
   "sourceUrl": "https://island.is/s/domstolar/domar",
-  "fetchedAt": "2026-10-07T14:52:42.371Z",
+  "fetchedAt": "2026-10-09T14:46:24.743Z",
   "items": [
+    {
+      "id": "https://island.is/domar/g-00340c82-8c22-4f07-96e8-7ebac0fd71ba",
+      "caseNumber": "341/2025",
+      "category": "domur",
+      "type": "Dómur/úrskurður",
+      "source": "Landsréttur",
+      "publishedAt": "2026-10-08T00:00:00.000Z",
+      "title": "341/2025 · Landsréttur",
+      "summary": "OR höfðaði mál gegn E og R og krafðist þess að ógiltur yrði úrskurður úrskurðarnefndar umhverfis- og auðlindamála þar sem felld var úr gildi ákvörðun skipulagsfulltrúa R um að hafna kröfu E um að stöðva framkvæmdir við Árbæjarlón…",
+      "tags": "framkvæmdaleyfi mannvirki orkumál Framkvæmdaleyfi Lögvarðir hagsmunir Stjórnvaldsúrskurður",
+      "url": "https://island.is/domar/g-00340c82-8c22-4f07-96e8-7ebac0fd71ba",
+      "relevant": true,
+      "court": "Landsréttur",
+      "parties": "Einar S. Ágústsson (Sveinn Jónatansson lögmaður) gegn Orkuveitu Reykjavíkur (Magnús Ingvar Magnússon lögmaður) og Reykjavíkurborg (Theodór Kjartansson lögmaður)",
+      "courtKeywords": "Framkvæmdaleyfi Lögvarðir hagsmunir Stjórnvaldsúrskurður"
+    },
     {
       "id": "https://island.is/domar/g-52d09a40-b8a1-4c92-a1bc-837b14d22473",
       "caseNumber": "578/2025",
