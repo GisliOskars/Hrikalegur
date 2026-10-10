@@ -1,8 +1,44 @@
 {
   "source": "UUA",
   "sourceUrl": "https://uua.is/feed/",
-  "fetchedAt": "2026-10-09T14:46:09.608Z",
+  "fetchedAt": "2026-10-10T14:04:30.947Z",
   "items": [
+    {
+      "id": "https://uua.is/urleits/uua2607010-skolavordurstigur/",
+      "caseNumber": "UUA2607010",
+      "category": "urskurdur",
+      "type": "Úrskurður",
+      "source": "UUA",
+      "publishedAt": "2026-10-09T18:00:53.000Z",
+      "title": "UUA2607010 Skólavörðustígur",
+      "summary": "mál nr. UUA2607010, kæra á ákvörðun byggingarfulltrúans í Reykjavík frá 19. júní 2026 um að synja um kröfu um beitingu þvingunarúrræða skv. lögum nr. 160/2010 um mannvirki vegna smáhýsis (geymsluskúrs) á baklóð Skólavörðustígs 22…",
+      "tags": "umhverfisréttur úrskurður byggingarleyfi deiliskipulag mannvirki þvingunarúrræði kæruheimild",
+      "url": "https://uua.is/urleits/uua2607010-skolavordurstigur/"
+    },
+    {
+      "id": "https://uua.is/urleits/uua2609002-skutahraun-2/",
+      "caseNumber": "UUA2609002",
+      "category": "urskurdur",
+      "type": "Úrskurður",
+      "source": "UUA",
+      "publishedAt": "2026-10-09T18:00:43.000Z",
+      "title": "UUA2609002 Skútahraun",
+      "summary": "mál nr. UUA2609002, kæra á ákvörðun byggingarfulltrúa Hafnarfjarðar frá 19. ágúst 2026 um að leggja dagsektir á lóðarhafa Skútahrauns 2 að upphæð kr. 100.000 frá og með 7. september s.á.",
+      "tags": "umhverfisréttur úrskurður deiliskipulag mannvirki",
+      "url": "https://uua.is/urleits/uua2609002-skutahraun-2/"
+    },
+    {
+      "id": "https://uua.is/urleits/uua2607013-sjokviaeldi-seydisfirdi/",
+      "caseNumber": "UUA2607013",
+      "category": "urskurdur",
+      "type": "Úrskurður",
+      "source": "UUA",
+      "publishedAt": "2026-10-09T18:00:02.000Z",
+      "title": "UUA2607013 Sjókvíaeldi Seyðisfirði",
+      "summary": "mál nr. UUA2607013, kæra á ákvörðun Húsnæðis-, mannvirkja- og skipulagsstofnunar frá 9. júlí 2026 er varðar synjun um að veita eigendum sjávarjarðanna Austdals, Brimness 1 og 2, Dvergasteins, Selstaða og Sörlastaðavíkur aðild að…",
+      "tags": "umhverfisréttur úrskurður byggingarleyfi svæðisskipulag mat á umhverfisáhrifum mannvirki haf- og strandsvæði mengunarvarnir starfsleyfi veiðar sjókvíaeldi",
+      "url": "https://uua.is/urleits/uua2607013-sjokviaeldi-seydisfirdi/"
+    },
     {
       "id": "https://uua.is/urleits/uua2607007-laekjaras/",
       "caseNumber": "UUA2607007",
@@ -292,18 +328,6 @@
       "url": "https://uua.is/urleits/11276/"
     },
     {
-      "id": "https://uua.is/urleits/11277/",
-      "caseNumber": "UUA2607003",
-      "category": "urskurdur",
-      "type": "Úrskurður",
-      "source": "UUA",
-      "publishedAt": "2026-09-02T18:00:20.000Z",
-      "title": "UUA2607003 Laugavegur",
-      "summary": "mál nr. UUA2607003, kæra á ákvörðun byggingarfulltrúans í Reykjavík frá 24. júní 2026 um að synja beiðni um beitingu þvingunarúrræða vegna hjólageymslu við mörk lóðar Laugavegs 178.",
-      "tags": "umhverfisréttur úrskurður byggingarleyfi mannvirki þvingunarúrræði kæruheimild",
-      "url": "https://uua.is/urleits/11277/"
-    },
-    {
       "id": "https://uua.is/urleits/uua2601008-bragagata/",
       "caseNumber": "UUA2601008",
       "category": "urskurdur",
@@ -314,6 +338,18 @@
       "summary": "mál nr. UUA2601008, kæra á ákvörðun byggingarfulltrúans í Reykjavík frá 2. desember 2025 um að samþykkja umsókn um byggingarleyfi fyrir áðurgerðum breytingum á einbýlishúsi á lóð nr. 26a við Bragagötu.",
       "tags": "umhverfisréttur úrskurður byggingarleyfi deiliskipulag grenndarkynning landnotkun mannvirki stöðvun framkvæmda kæruheimild",
       "url": "https://uua.is/urleits/uua2601008-bragagata/"
+    },
+    {
+      "id": "https://uua.is/urleits/11277/",
+      "caseNumber": "UUA2607003",
+      "category": "urskurdur",
+      "type": "Úrskurður",
+      "source": "UUA",
+      "publishedAt": "2026-09-02T18:00:20.000Z",
+      "title": "UUA2607003 Laugavegur",
+      "summary": "mál nr. UUA2607003, kæra á ákvörðun byggingarfulltrúans í Reykjavík frá 24. júní 2026 um að synja beiðni um beitingu þvingunarúrræða vegna hjólageymslu við mörk lóðar Laugavegs 178.",
+      "tags": "umhverfisréttur úrskurður byggingarleyfi mannvirki þvingunarúrræði kæruheimild",
+      "url": "https://uua.is/urleits/11277/"
     },
     {
       "id": "https://uua.is/urleits/uua2606010-sjokviaeldi-i-arnarfirdi/",
@@ -1154,42 +1190,6 @@
       "summary": "mál nr. UUA2512016, kæra á ákvörðun bæjarstjórnar Hafnarfjarðar frá 19. nóvember 2025 um að samþykkja breytingu á deiliskipulaginu Miðbær Hraun vestur vegna lóðar nr. 1 við Smyrlahraun.",
       "tags": "umhverfisréttur úrskurður deiliskipulag grenndarkynning landnotkun skipulagsmál kæruheimild",
       "url": "https://uua.is/urleits/uua2512016-smyrlahraun/"
-    },
-    {
-      "id": "https://uua.is/urleits/uua2602018-klettatrod/",
-      "caseNumber": "UUA2602018",
-      "category": "urskurdur",
-      "type": "Úrskurður",
-      "source": "UUA",
-      "publishedAt": "2026-03-13T18:00:08.000Z",
-      "title": "UUA2602018 Klettatröð",
-      "summary": "Mál nr. UUA2602018, kæra á ákvörðun byggingarfulltrúa Reykjanesbæjar frá 13. janúar 2026 um að krefjast þess að húsnæðið að Klettatröð 1 verði rýmt.",
-      "tags": "umhverfisréttur úrskurður byggingarleyfi aðalskipulag mannvirki starfsleyfi þvingunarúrræði frestun réttaráhrifa kæruheimild",
-      "url": "https://uua.is/urleits/uua2602018-klettatrod/"
-    },
-    {
-      "id": "https://uua.is/urleits/uua2512009-sindragata/",
-      "caseNumber": "UUA2512009",
-      "category": "urskurdur",
-      "type": "Úrskurður",
-      "source": "UUA",
-      "publishedAt": "2026-03-11T18:00:28.000Z",
-      "title": "UUA2512009 Sindragata",
-      "summary": "mál nr. UUA2512009, kæra á þeirri ákvörðun byggingarfulltrúa Ísafjarðar­bæjar frá 11. desember 2025 að samþykkja byggingaráform á lóð nr. 4a við Sindra­götu á Ísafirði.",
-      "tags": "umhverfisréttur úrskurður byggingarleyfi framkvæmdaleyfi deiliskipulag aðalskipulag mannvirki skipulagsmál kæruheimild",
-      "url": "https://uua.is/urleits/uua2512009-sindragata/"
-    },
-    {
-      "id": "https://uua.is/urleits/uua2512015-bann-vid-hundahaldi-2/",
-      "caseNumber": "UUA2512015",
-      "category": "urskurdur",
-      "type": "Úrskurður",
-      "source": "UUA",
-      "publishedAt": "2026-03-06T18:00:57.000Z",
-      "title": "UUA2512015 Bann við hundahaldi",
-      "summary": "mál nr. UUA2512015, kæra á ákvörðun skipulags- og umhverfisráðs Akraneskaupstaðar frá 1. desember 2025 um að banna tilteknum íbúa að halda hunda í sveitarfélaginu.",
-      "tags": "umhverfisréttur úrskurður mengunarvarnir veiðar dýravelferð þvingunarúrræði kæruheimild",
-      "url": "https://uua.is/urleits/uua2512015-bann-vid-hundahaldi-2/"
     }
   ]
 }
