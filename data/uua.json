@@ -1,8 +1,20 @@
 {
   "source": "UUA",
   "sourceUrl": "https://uua.is/feed/",
-  "fetchedAt": "2026-10-10T14:04:30.947Z",
+  "fetchedAt": "2026-10-13T15:22:56.032Z",
   "items": [
+    {
+      "id": "https://uua.is/urleits/uua2608007-asgardur/",
+      "caseNumber": "UUA2608007",
+      "category": "urskurdur",
+      "type": "Úrskurður",
+      "source": "UUA",
+      "publishedAt": "2026-10-12T18:00:03.000Z",
+      "title": "UUA2608007 Ásgarður",
+      "summary": "Mál nr. UUA2608007, kæra á ákvörðun Grímsnes- og Grafningshrepps frá 13. apríl 2026 um að samþykkja breytingu á deiliskipulagi Ásgarðs, L168229.",
+      "tags": "umhverfisréttur úrskurður deiliskipulag kæruheimild",
+      "url": "https://uua.is/urleits/uua2608007-asgardur/"
+    },
     {
       "id": "https://uua.is/urleits/uua2607010-skolavordurstigur/",
       "caseNumber": "UUA2607010",
@@ -1178,18 +1190,6 @@
       "summary": "mál nr. UUA2602023, kæra á ákvörðun Umhverfis- og orkustofnunar frá 22. janúar 2026 um veitingu rannsóknarleyfis til Orkusölunnar ehf. vegna fyrir­hugaðrar vatnsaflsvirkjunar á vatnasviði Gilsár á Völlum í Múlaþingi.",
       "tags": "umhverfisréttur úrskurður náttúruvernd orkumál stöðvun framkvæmda frestun réttaráhrifa kæruheimild",
       "url": "https://uua.is/urleits/uua2602023-gilsa-a-vollum/"
-    },
-    {
-      "id": "https://uua.is/urleits/uua2512016-smyrlahraun/",
-      "caseNumber": "UUA2512016",
-      "category": "urskurdur",
-      "type": "Úrskurður",
-      "source": "UUA",
-      "publishedAt": "2026-03-13T18:00:22.000Z",
-      "title": "UUA2512016 Smyrlahraun",
-      "summary": "mál nr. UUA2512016, kæra á ákvörðun bæjarstjórnar Hafnarfjarðar frá 19. nóvember 2025 um að samþykkja breytingu á deiliskipulaginu Miðbær Hraun vestur vegna lóðar nr. 1 við Smyrlahraun.",
-      "tags": "umhverfisréttur úrskurður deiliskipulag grenndarkynning landnotkun skipulagsmál kæruheimild",
-      "url": "https://uua.is/urleits/uua2512016-smyrlahraun/"
     }
   ]
 }
