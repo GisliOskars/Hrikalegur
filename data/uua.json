@@ -1,8 +1,56 @@
 {
   "source": "UUA",
   "sourceUrl": "https://uua.is/feed/",
-  "fetchedAt": "2026-10-13T15:22:56.032Z",
+  "fetchedAt": "2026-10-16T12:48:56.502Z",
   "items": [
+    {
+      "id": "https://uua.is/urleits/uua2607006-rettarvegur-2/",
+      "caseNumber": "UUA2607006",
+      "category": "urskurdur",
+      "type": "Úrskurður",
+      "source": "UUA",
+      "publishedAt": "2026-10-15T18:00:43.000Z",
+      "title": "UUA2607006 Réttarvegur",
+      "summary": "mál nr. UUA2607006, kæra á ákvörðun byggingarfulltrúa Reykjanes­bæjar frá 25. júní 2026 um að samþykkja umsókn um stöðuleyfi fyrir vinnu- og kaffiskúr við Réttarveg í Höfnum.",
+      "tags": "umhverfisréttur úrskurður byggingarleyfi mannvirki kæruheimild",
+      "url": "https://uua.is/urleits/uua2607006-rettarvegur-2/"
+    },
+    {
+      "id": "https://uua.is/urleits/uua2607008-laugavegur/",
+      "caseNumber": "UUA2607008",
+      "category": "urskurdur",
+      "type": "Úrskurður",
+      "source": "UUA",
+      "publishedAt": "2026-10-15T18:00:38.000Z",
+      "title": "UUA2607008 Laugavegur",
+      "summary": "mál nr. UUA2607008, kæra á ákvörðun byggingarfulltrúans í Reykjavík frá 2. júní 2026 um að hafna umsókn um leyfi til að innrétta fjögur gistirými á fyrstu hæð hótels á lóð nr. 74 við Laugaveg.",
+      "tags": "umhverfisréttur úrskurður byggingarleyfi deiliskipulag mannvirki kæruheimild",
+      "url": "https://uua.is/urleits/uua2607008-laugavegur/"
+    },
+    {
+      "id": "https://uua.is/urleits/uua2608001-hamravik/",
+      "caseNumber": "UUA2608001",
+      "category": "urskurdur",
+      "type": "Úrskurður",
+      "source": "UUA",
+      "publishedAt": "2026-10-15T18:00:32.000Z",
+      "title": "UUA2608001 Hamravík",
+      "summary": "mál nr. UUA2608001, kæra á ákvörðun byggingarfulltrúans í Reykjavík um að synja beiðni um beitingu þvingunarúrræða vegna skjólveggjar á mörkum lóða Hamravíkur 50 og 52.",
+      "tags": "umhverfisréttur úrskurður byggingarleyfi mannvirki þvingunarúrræði",
+      "url": "https://uua.is/urleits/uua2608001-hamravik/"
+    },
+    {
+      "id": "https://uua.is/urleits/uua2608013-jofursbas-2/",
+      "caseNumber": "UUA2608013",
+      "category": "urskurdur",
+      "type": "Úrskurður",
+      "source": "UUA",
+      "publishedAt": "2026-10-15T18:00:04.000Z",
+      "title": "UUA2608013 Jöfursbás",
+      "summary": "mál nr. UUA2608013, kæra á ákvörðun byggingarfulltrúans í Reykjavík frá 30. júlí 2026 um að synja kröfu um stöðvun framkvæmda að Jöfursbási 3.",
+      "tags": "umhverfisréttur úrskurður byggingarleyfi deiliskipulag grenndarkynning mannvirki þvingunarúrræði stöðvun framkvæmda kæruheimild",
+      "url": "https://uua.is/urleits/uua2608013-jofursbas-2/"
+    },
     {
       "id": "https://uua.is/urleits/uua2608007-asgardur/",
       "caseNumber": "UUA2608007",
@@ -1142,54 +1190,6 @@
       "summary": "Mál nr. UUA2603004, kæra á ákvörðun bæjarstjórnar Garðabæjar fá 2. október 2025 um að samþykkja deiliskipulag Vetrarmýrar og Smalaholts.",
       "tags": "umhverfisréttur úrskurður framkvæmdaleyfi deiliskipulag mannvirki stöðvun framkvæmda frestun réttaráhrifa",
       "url": "https://uua.is/urleits/uua2603004-vetrarmyri-og-smalaholt/"
-    },
-    {
-      "id": "https://uua.is/urleits/161-2025-kollafjordur/",
-      "caseNumber": "161/2025",
-      "category": "urskurdur",
-      "type": "Úrskurður",
-      "source": "UUA",
-      "publishedAt": "2026-03-19T18:00:25.000Z",
-      "title": "161/2025 Kollafjörður",
-      "summary": "mál nr. 161/2025, kæra á ákvörðun Skipulagsstofnunar frá 23. september 2025 um að stækkun seiðaeldisstöðvar í Kollafirði skuli ekki háð mati á umhverfisáhrifum.",
-      "tags": "umhverfisréttur úrskurður náttúruvernd mat á umhverfisáhrifum skógrækt mannvirki mengunarvarnir starfsleyfi úrgangur fráveita sjókvíaeldi kæruheimild",
-      "url": "https://uua.is/urleits/161-2025-kollafjordur/"
-    },
-    {
-      "id": "https://uua.is/urleits/uua2602029-gardavegur/",
-      "caseNumber": "UUA2602029",
-      "category": "urskurdur",
-      "type": "Úrskurður",
-      "source": "UUA",
-      "publishedAt": "2026-03-18T18:00:48.000Z",
-      "title": "UUA2602029 Garðavegur",
-      "summary": "Mál nr. UUA2602029, kæra á afgreiðslu byggingarfulltrúa Hafnarfjarðarbæjar frá 24. febrúar 2026 á fyrirspurn um hvort mögulegt sé að samþykkja beinan útistiga án hvíldarpalls við einbýlishúsið að Garðavegi 18.",
-      "tags": "umhverfisréttur úrskurður byggingarleyfi mannvirki",
-      "url": "https://uua.is/urleits/uua2602029-gardavegur/"
-    },
-    {
-      "id": "https://uua.is/urleits/uua2512013-menntasveigur-2/",
-      "caseNumber": "UUA2512013",
-      "category": "urskurdur",
-      "type": "Úrskurður",
-      "source": "UUA",
-      "publishedAt": "2026-03-13T18:00:57.000Z",
-      "title": "UUA2512013 Menntasveigur",
-      "summary": "mál nr. UUA2512013, kæra á ákvörðun borgarráðs Reykjavíkur frá 16. október 2025 um að samþykkja breytingu á deiliskipulagi Háskólans í Reykjavík vegna Borgarlínu og frekari uppbyggingar á svæðum 1a og 1b.",
-      "tags": "umhverfisréttur úrskurður byggingarleyfi framkvæmdaleyfi deiliskipulag aðalskipulag mannvirki skipulagsmál kæruheimild",
-      "url": "https://uua.is/urleits/uua2512013-menntasveigur-2/"
-    },
-    {
-      "id": "https://uua.is/urleits/uua2602023-gilsa-a-vollum/",
-      "caseNumber": "UUA2602023",
-      "category": "urskurdur",
-      "type": "Úrskurður",
-      "source": "UUA",
-      "publishedAt": "2026-03-13T18:00:47.000Z",
-      "title": "UUA2602023 Gilsá á Völlum",
-      "summary": "mál nr. UUA2602023, kæra á ákvörðun Umhverfis- og orkustofnunar frá 22. janúar 2026 um veitingu rannsóknarleyfis til Orkusölunnar ehf. vegna fyrir­hugaðrar vatnsaflsvirkjunar á vatnasviði Gilsár á Völlum í Múlaþingi.",
-      "tags": "umhverfisréttur úrskurður náttúruvernd orkumál stöðvun framkvæmda frestun réttaráhrifa kæruheimild",
-      "url": "https://uua.is/urleits/uua2602023-gilsa-a-vollum/"
     }
   ]
 }
