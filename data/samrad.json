@@ -1,8 +1,25 @@
 {
   "source": "Samráðsgátt",
   "sourceUrl": "https://island.is/samradsgatt/api/rss",
-  "fetchedAt": "2026-10-07T14:52:27.436Z",
+  "fetchedAt": "2026-10-17T11:49:15.639Z",
   "items": [
+    {
+      "id": "https://island.is/samradsgatt/mal/4355",
+      "caseNumber": "208/2026",
+      "category": "samrad",
+      "type": "Til samráðs",
+      "source": "Samráðsgátt",
+      "publishedAt": "2026-10-16T00:00:00.000Z",
+      "deadline": "2026-10-27T23:59:59.000Z",
+      "title": "Endurskoðuð drög að reglugerð um framkvæmd 20. gr. a–20. gr. i raforkulaga nr. 65/2003",
+      "summary": "Umhverfis-, orku- og loftslagsráðuneytið kynnir að nýju til samráðs endurskoðuð drög að reglugerð um framkvæmd 20. gr. a–20. gr. i raforkulaga nr. 65/2003.",
+      "tags": "orkumál loftslagsmál orkumál",
+      "url": "https://island.is/samradsgatt/mal/4355",
+      "relevant": true,
+      "status": "Til umsagnar",
+      "institution": "Umhverfis-, orku- og loftslagsráðuneytið",
+      "policyArea": "Orkumál"
+    },
     {
       "id": "https://island.is/samradsgatt/mal/4339",
       "caseNumber": "192/2026",
@@ -33,7 +50,7 @@
       "tags": "skipulagsmál svæðisskipulag skipulagsmál",
       "url": "https://island.is/samradsgatt/mal/4337",
       "relevant": true,
-      "status": "Til umsagnar",
+      "status": "Niðurstöður í vinnslu",
       "institution": "Félags- og húsnæðismálaráðuneytið",
       "policyArea": "Húsnæðis- og skipulagsmál"
     },
