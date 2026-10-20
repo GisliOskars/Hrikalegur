@@ -1,8 +1,25 @@
 {
   "source": "Samráðsgátt",
   "sourceUrl": "https://island.is/samradsgatt/api/rss",
-  "fetchedAt": "2026-10-19T15:06:29.498Z",
+  "fetchedAt": "2026-10-20T13:07:22.718Z",
   "items": [
+    {
+      "id": "https://island.is/samradsgatt/mal/4361",
+      "caseNumber": "214/2026",
+      "category": "samrad",
+      "type": "Til samráðs",
+      "source": "Samráðsgátt",
+      "publishedAt": "2026-10-20T00:00:00.000Z",
+      "deadline": "2026-11-03T23:59:59.000Z",
+      "title": "Drög að frumvarpi til laga um breytingu á lögum um mannvirki nr. 160/2010 (einföldun byggingarreglugerðar og breytt byggingareftirlit)",
+      "summary": "Félags- og húsnæðismálaráðuneytið kynnir til samráðs drög að frumvarpi til breytinga á lögum um mannvirki.",
+      "tags": "mannvirki byggingarleyfi mannvirki skipulagsmál starfsleyfi þvingunarúrræði",
+      "url": "https://island.is/samradsgatt/mal/4361",
+      "relevant": true,
+      "status": "Til umsagnar",
+      "institution": "Félags- og húsnæðismálaráðuneytið",
+      "policyArea": "Húsnæðis- og skipulagsmál"
+    },
     {
       "id": "https://island.is/samradsgatt/mal/4355",
       "caseNumber": "208/2026",
