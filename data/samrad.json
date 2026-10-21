@@ -1,7 +1,7 @@
 {
   "source": "Samráðsgátt",
   "sourceUrl": "https://island.is/samradsgatt/api/rss",
-  "fetchedAt": "2026-10-20T13:07:22.718Z",
+  "fetchedAt": "2026-10-21T13:18:03.635Z",
   "items": [
     {
       "id": "https://island.is/samradsgatt/mal/4361",
@@ -19,6 +19,23 @@
       "status": "Til umsagnar",
       "institution": "Félags- og húsnæðismálaráðuneytið",
       "policyArea": "Húsnæðis- og skipulagsmál"
+    },
+    {
+      "id": "https://island.is/samradsgatt/mal/4360",
+      "caseNumber": "213/2026",
+      "category": "samrad",
+      "type": "Til samráðs",
+      "source": "Samráðsgátt",
+      "publishedAt": "2026-10-20T00:00:00.000Z",
+      "deadline": "2026-11-10T23:59:59.000Z",
+      "title": "Drög að frumvarpi til laga um breytingu á lögum um náttúruvernd, nr. 60/2013",
+      "summary": "Drög að breytingum á náttúruverndarlögum um uppbyggingu innviða, landtöku farþega á friðlýstum svæðum, vernd náttúruminja í hafi og bættum úrræðum vegna ólögmæts utanvegaaksturs.",
+      "tags": "náttúruvernd náttúruvernd loftslagsmál",
+      "url": "https://island.is/samradsgatt/mal/4360",
+      "relevant": true,
+      "status": "Til umsagnar",
+      "institution": "Umhverfis-, orku- og loftslagsráðuneytið",
+      "policyArea": "Umhverfismál"
     },
     {
       "id": "https://island.is/samradsgatt/mal/4355",

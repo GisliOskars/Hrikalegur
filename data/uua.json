@@ -1,8 +1,20 @@
 {
   "source": "UUA",
   "sourceUrl": "https://uua.is/feed/",
-  "fetchedAt": "2026-10-19T15:06:25.979Z",
+  "fetchedAt": "2026-10-21T13:18:01.173Z",
   "items": [
+    {
+      "id": "https://uua.is/urleits/uua2607011-fljotasel/",
+      "caseNumber": "UUA2607011",
+      "category": "urskurdur",
+      "type": "Úrskurður",
+      "source": "UUA",
+      "publishedAt": "2026-10-20T18:00:33.000Z",
+      "title": "UUA2607011 Fljótasel",
+      "summary": "Mál nr. UUA2607011, kæra á ákvörðun byggingarfulltrúans í Reykjavík frá 19. júní 2026 um að krefjast þess að girðing á mörkum lóðarinnar Fljótasels 1 verði lækkuð.",
+      "tags": "umhverfisréttur úrskurður",
+      "url": "https://uua.is/urleits/uua2607011-fljotasel/"
+    },
     {
       "id": "https://uua.is/urleits/uua2607006-rettarvegur-2/",
       "caseNumber": "UUA2607006",
@@ -1178,18 +1190,6 @@
       "summary": "mál nr. 156/2025, kæra á ákvörðun hreppsnefndar Árneshrepps frá 21. ágúst 2025 um að veita framkvæmdaleyfi fyrir fyrsta áfanga Hvalárvirkjunar.",
       "tags": "umhverfisréttur úrskurður framkvæmdaleyfi deiliskipulag aðalskipulag náttúruvernd mat á umhverfisáhrifum mannvirki skipulagsmál landgræðsla efnistaka haf- og strandsvæði vatnsvernd veiðar vegagerð orkumál",
       "url": "https://uua.is/urleits/156-2025-hvalarvirkjun/"
-    },
-    {
-      "id": "https://uua.is/urleits/uua2603004-vetrarmyri-og-smalaholt/",
-      "caseNumber": "UUA2603004",
-      "category": "urskurdur",
-      "type": "Úrskurður",
-      "source": "UUA",
-      "publishedAt": "2026-03-24T18:00:36.000Z",
-      "title": "UUA2603004 Vetrarmýri og Smalaholt",
-      "summary": "Mál nr. UUA2603004, kæra á ákvörðun bæjarstjórnar Garðabæjar fá 2. október 2025 um að samþykkja deiliskipulag Vetrarmýrar og Smalaholts.",
-      "tags": "umhverfisréttur úrskurður framkvæmdaleyfi deiliskipulag mannvirki stöðvun framkvæmda frestun réttaráhrifa",
-      "url": "https://uua.is/urleits/uua2603004-vetrarmyri-og-smalaholt/"
     }
   ]
 }
