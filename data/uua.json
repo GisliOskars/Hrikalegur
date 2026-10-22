@@ -1,8 +1,44 @@
 {
   "source": "UUA",
   "sourceUrl": "https://uua.is/feed/",
-  "fetchedAt": "2026-10-21T13:18:01.173Z",
+  "fetchedAt": "2026-10-22T13:16:40.164Z",
   "items": [
+    {
+      "id": "https://uua.is/urleits/11329/",
+      "caseNumber": "UUA2608008",
+      "category": "urskurdur",
+      "type": "Úrskurður",
+      "source": "UUA",
+      "publishedAt": "2026-10-21T18:00:46.000Z",
+      "title": "UUA2608008 Sækot",
+      "summary": "mál nr. UUA2608008, kæra á ákvörðun Heilbrigðiseftirlits Reykjavíkur í bréfi frá 6. ágúst 2026 um starfsleyfisskyldu starfsemi Sánagús ehf. í Sækoti.",
+      "tags": "umhverfisréttur úrskurður mengunarvarnir starfsleyfi kæruheimild",
+      "url": "https://uua.is/urleits/11329/"
+    },
+    {
+      "id": "https://uua.is/urleits/uua2610020-thjorsarkvisl/",
+      "caseNumber": "UUA2610020",
+      "category": "urskurdur",
+      "type": "Úrskurður",
+      "source": "UUA",
+      "publishedAt": "2026-10-21T18:00:29.000Z",
+      "title": "UUA2610020 Þjórsárkvísl",
+      "summary": "Mál nr. UUA2610020, kæra á ákvörðun sveitarstjórnar Skeiða- og Gnúpverjahrepps frá 16. september 2026 um að samþykkja umsókn um framkvæmdaleyfi fyrir gerð leiðigarðs og rásar í Austurkvísl Þjórsárkvísla.",
+      "tags": "umhverfisréttur úrskurður framkvæmdaleyfi deiliskipulag aðalskipulag náttúruvernd mat á umhverfisáhrifum landnotkun mannvirki landgræðsla virkjunarkostur orkumál",
+      "url": "https://uua.is/urleits/uua2610020-thjorsarkvisl/"
+    },
+    {
+      "id": "https://uua.is/urleits/uua2607016-fannborg-2/",
+      "caseNumber": "UUA2607016",
+      "category": "urskurdur",
+      "type": "Úrskurður",
+      "source": "UUA",
+      "publishedAt": "2026-10-21T18:00:09.000Z",
+      "title": "UUA2607016 Fannborg",
+      "summary": "mál nr. UUA2607016, kæra á ákvörðun byggingarfulltrúa Kópavogs­bæjar frá 17. júlí 2026 um að heimila niðurrif eftirstandandi mannvirkja á lóð nr. 2 við Fannborg.",
+      "tags": "umhverfisréttur úrskurður byggingarleyfi deiliskipulag aðalskipulag mannvirki kæruheimild",
+      "url": "https://uua.is/urleits/uua2607016-fannborg-2/"
+    },
     {
       "id": "https://uua.is/urleits/uua2607011-fljotasel/",
       "caseNumber": "UUA2607011",
@@ -400,18 +436,6 @@
       "url": "https://uua.is/urleits/11276/"
     },
     {
-      "id": "https://uua.is/urleits/uua2601008-bragagata/",
-      "caseNumber": "UUA2601008",
-      "category": "urskurdur",
-      "type": "Úrskurður",
-      "source": "UUA",
-      "publishedAt": "2026-09-02T18:00:20.000Z",
-      "title": "UUA2601008 Bragagata",
-      "summary": "mál nr. UUA2601008, kæra á ákvörðun byggingarfulltrúans í Reykjavík frá 2. desember 2025 um að samþykkja umsókn um byggingarleyfi fyrir áðurgerðum breytingum á einbýlishúsi á lóð nr. 26a við Bragagötu.",
-      "tags": "umhverfisréttur úrskurður byggingarleyfi deiliskipulag grenndarkynning landnotkun mannvirki stöðvun framkvæmda kæruheimild",
-      "url": "https://uua.is/urleits/uua2601008-bragagata/"
-    },
-    {
       "id": "https://uua.is/urleits/11277/",
       "caseNumber": "UUA2607003",
       "category": "urskurdur",
@@ -422,6 +446,18 @@
       "summary": "mál nr. UUA2607003, kæra á ákvörðun byggingarfulltrúans í Reykjavík frá 24. júní 2026 um að synja beiðni um beitingu þvingunarúrræða vegna hjólageymslu við mörk lóðar Laugavegs 178.",
       "tags": "umhverfisréttur úrskurður byggingarleyfi mannvirki þvingunarúrræði kæruheimild",
       "url": "https://uua.is/urleits/11277/"
+    },
+    {
+      "id": "https://uua.is/urleits/uua2601008-bragagata/",
+      "caseNumber": "UUA2601008",
+      "category": "urskurdur",
+      "type": "Úrskurður",
+      "source": "UUA",
+      "publishedAt": "2026-09-02T18:00:20.000Z",
+      "title": "UUA2601008 Bragagata",
+      "summary": "mál nr. UUA2601008, kæra á ákvörðun byggingarfulltrúans í Reykjavík frá 2. desember 2025 um að samþykkja umsókn um byggingarleyfi fyrir áðurgerðum breytingum á einbýlishúsi á lóð nr. 26a við Bragagötu.",
+      "tags": "umhverfisréttur úrskurður byggingarleyfi deiliskipulag grenndarkynning landnotkun mannvirki stöðvun framkvæmda kæruheimild",
+      "url": "https://uua.is/urleits/uua2601008-bragagata/"
     },
     {
       "id": "https://uua.is/urleits/uua2606010-sjokviaeldi-i-arnarfirdi/",
@@ -1154,42 +1190,6 @@
       "summary": "mál nr. UUA2603006, erindi Reykjavíkurborgar um að úrskurðað verði hvort auglýsingaskjáir innan við glugga í húsinu að Hafnarstræti 20 séu háðir byggingar­leyfi.",
       "tags": "umhverfisréttur úrskurður byggingarleyfi aðalskipulag mat á umhverfisáhrifum mannvirki kæruheimild",
       "url": "https://uua.is/urleits/uua2603006-skilti-innanhuss/"
-    },
-    {
-      "id": "https://uua.is/urleits/uua2603012-kjarnaskogur-og-hamrar/",
-      "caseNumber": "UUA2603012",
-      "category": "urskurdur",
-      "type": "Úrskurður",
-      "source": "UUA",
-      "publishedAt": "2026-04-08T18:00:17.000Z",
-      "title": "UUA2603012 Kjarnaskógur og Hamrar",
-      "summary": "Mál nr. UUA2603012, kæra á þeirri ákvörðun bæjarstjórnar Akureyrarkaupstaðar frá 19. nóvember 2013 að samþykkja deiliskipulag fyrir Kjarnaskóg og Hamra.",
-      "tags": "umhverfisréttur úrskurður deiliskipulag aðalskipulag skógrækt mannvirki",
-      "url": "https://uua.is/urleits/uua2603012-kjarnaskogur-og-hamrar/"
-    },
-    {
-      "id": "https://uua.is/urleits/uua2601020-dalathing/",
-      "caseNumber": "UUA2601020",
-      "category": "urskurdur",
-      "type": "Úrskurður",
-      "source": "UUA",
-      "publishedAt": "2026-04-01T18:00:13.000Z",
-      "title": "UUA2601020 Dalaþing",
-      "summary": "Mál nr. UUA2601020, kæra á þeirri afgreiðslu byggingarfulltrúa Kópavogsbæjar frá 18. október 2024 að gefa út vottorð um fokheldi byggingar að Dalaþingi 13c.",
-      "tags": "umhverfisréttur úrskurður byggingarleyfi deiliskipulag mannvirki kæruheimild",
-      "url": "https://uua.is/urleits/uua2601020-dalathing/"
-    },
-    {
-      "id": "https://uua.is/urleits/156-2025-hvalarvirkjun/",
-      "caseNumber": "156/2025",
-      "category": "urskurdur",
-      "type": "Úrskurður",
-      "source": "UUA",
-      "publishedAt": "2026-03-27T18:00:52.000Z",
-      "title": "156/2025 Hvalárvirkjun",
-      "summary": "mál nr. 156/2025, kæra á ákvörðun hreppsnefndar Árneshrepps frá 21. ágúst 2025 um að veita framkvæmdaleyfi fyrir fyrsta áfanga Hvalárvirkjunar.",
-      "tags": "umhverfisréttur úrskurður framkvæmdaleyfi deiliskipulag aðalskipulag náttúruvernd mat á umhverfisáhrifum mannvirki skipulagsmál landgræðsla efnistaka haf- og strandsvæði vatnsvernd veiðar vegagerð orkumál",
-      "url": "https://uua.is/urleits/156-2025-hvalarvirkjun/"
     }
   ]
 }
