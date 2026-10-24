@@ -1,8 +1,20 @@
 {
   "source": "UUA",
   "sourceUrl": "https://uua.is/feed/",
-  "fetchedAt": "2026-10-23T12:56:21.304Z",
+  "fetchedAt": "2026-10-24T12:18:51.033Z",
   "items": [
+    {
+      "id": "https://uua.is/urleits/uua2610017-fiskislod/",
+      "caseNumber": "UUA2610017",
+      "category": "urskurdur",
+      "type": "Úrskurður",
+      "source": "UUA",
+      "publishedAt": "2026-10-23T18:02:12.000Z",
+      "title": "UUA2610017 Fiskislóð",
+      "summary": "Mál nr. UUA2610017, kæra á ákvörðun byggingarfulltrúans í Reykjavík frá 7. október 2026 um tafarlausa stöðvun notkunar og lokun mannvirkisins að Fiskislóð 41 í Reykjavík, auk synjunar á beiðni um frest til úrbóta og frestunar…",
+      "tags": "umhverfisréttur úrskurður byggingarleyfi mannvirki frestun réttaráhrifa kæruheimild",
+      "url": "https://uua.is/urleits/uua2610017-fiskislod/"
+    },
     {
       "id": "https://uua.is/urleits/uua2609012-grund/",
       "caseNumber": "UUA2609012",
@@ -1178,18 +1190,6 @@
       "summary": "mál nr. UUA2601002, kæra á ákvörðun skipulagsfulltrúa Reykjavíkur­borgar frá 2. desember 2025 að samþykkja breytingu á deiliskipulagi Sjómannaskólareits vegna lóðar nr. 35 við Háteigsveg.",
       "tags": "umhverfisréttur úrskurður byggingarleyfi deiliskipulag grenndarkynning landnotkun mannvirki skipulagsmál stöðvun framkvæmda",
       "url": "https://uua.is/urleits/uua2601002-hateigsvegur/"
-    },
-    {
-      "id": "https://uua.is/urleits/uua2512012-aukalosun-a-rotthro/",
-      "caseNumber": "UUA2512012",
-      "category": "urskurdur",
-      "type": "Úrskurður",
-      "source": "UUA",
-      "publishedAt": "2026-04-13T18:00:15.000Z",
-      "title": "UUA2512012 Aukalosun á rotþró",
-      "summary": "mál nr. UUA2512012, kæra á ákvörðun Umhverfis- og tæknisviðs Upp­sveita bs. frá 8. september 2025 um innheimtu gjalds fyrir aukalosun á rotþró við sumar­húsið að Stangarbraut 23 í Grímsnes- og Grafningshreppi.",
-      "tags": "umhverfisréttur úrskurður mengunarvarnir úrgangur fráveita kæruheimild",
-      "url": "https://uua.is/urleits/uua2512012-aukalosun-a-rotthro/"
     }
   ]
 }

@@ -1,8 +1,25 @@
 {
   "source": "Samráðsgátt",
   "sourceUrl": "https://island.is/samradsgatt/api/rss",
-  "fetchedAt": "2026-10-22T13:16:42.708Z",
+  "fetchedAt": "2026-10-24T12:18:53.576Z",
   "items": [
+    {
+      "id": "https://island.is/samradsgatt/mal/4365",
+      "caseNumber": "218/2026",
+      "category": "samrad",
+      "type": "Til samráðs",
+      "source": "Samráðsgátt",
+      "publishedAt": "2026-10-23T00:00:00.000Z",
+      "deadline": "2026-12-04T23:59:59.000Z",
+      "title": "Grænbók um landgræðslu og skógrækt",
+      "summary": "Í grænbók um landgræðslu og skógrækt er lagður grunnur að umræðu um stöðu málaflokksins, framkvæmd gildandi landsáætlunar og helstu viðfangsefni næstu ára.",
+      "tags": "skógrækt landgræðsla skógrækt landgræðsla",
+      "url": "https://island.is/samradsgatt/mal/4365",
+      "relevant": true,
+      "status": "Til umsagnar",
+      "institution": "Umhverfis-, orku- og loftslagsráðuneytið",
+      "policyArea": "Umhverfismál"
+    },
     {
       "id": "https://island.is/samradsgatt/mal/4361",
       "caseNumber": "214/2026",
