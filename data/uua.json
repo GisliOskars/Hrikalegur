@@ -1,8 +1,32 @@
 {
   "source": "UUA",
   "sourceUrl": "https://uua.is/feed/",
-  "fetchedAt": "2026-10-24T12:18:51.033Z",
+  "fetchedAt": "2026-10-28T14:40:00.262Z",
   "items": [
+    {
+      "id": "https://uua.is/urleits/uua2610005-odinsgata/",
+      "caseNumber": "UUA2610005",
+      "category": "urskurdur",
+      "type": "Úrskurður",
+      "source": "UUA",
+      "publishedAt": "2026-10-27T18:00:49.000Z",
+      "title": "UUA2610005 Óðinsgata",
+      "summary": "Mál nr. UUA2610005, kæra á ákvörðun byggingarfulltrúans í Reykjavík frá 8. september 2026 um að synja kröfu um stöðvun framkvæmda og fjarlægingu mannvirkis á lóð nr. 28 við Óðinsgötu.",
+      "tags": "umhverfisréttur úrskurður byggingarleyfi mannvirki stöðvun framkvæmda",
+      "url": "https://uua.is/urleits/uua2610005-odinsgata/"
+    },
+    {
+      "id": "https://uua.is/urleits/uua2609011-grundargata/",
+      "caseNumber": "UUA2609011",
+      "category": "urskurdur",
+      "type": "Úrskurður",
+      "source": "UUA",
+      "publishedAt": "2026-10-27T18:00:38.000Z",
+      "title": "UUA2609011 Grundargata",
+      "summary": "Mál nr. UUA2609011, kæra á afgreiðslu byggingarfulltrúa Dalvíkurbyggðar á erindum kæranda vegna framkvæmda á lóð nr. 3 við Grundargötu, Dalvík.",
+      "tags": "umhverfisréttur úrskurður byggingarleyfi deiliskipulag mannvirki þvingunarúrræði kæruheimild",
+      "url": "https://uua.is/urleits/uua2609011-grundargata/"
+    },
     {
       "id": "https://uua.is/urleits/uua2610017-fiskislod/",
       "caseNumber": "UUA2610017",
@@ -1166,30 +1190,6 @@
       "summary": "Mál nr. UUA2604002, kæra á ákvörðun byggingarfulltrúans í Reykjavík um að samþykkja umsókn um byggingarleyfi til að innrétta veitingastað í flokki I, tegund c, móttökueldhús og matsal fyrir 100 gesti, ásamt tilheyrandi snyrtingum…",
       "tags": "umhverfisréttur úrskurður byggingarleyfi deiliskipulag aðalskipulag grenndarkynning landnotkun stöðvun framkvæmda kæruheimild",
       "url": "https://uua.is/urleits/uua2604002-grensasvegur/"
-    },
-    {
-      "id": "https://uua.is/urleits/uua2604001-aflifun-hunds/",
-      "caseNumber": "UUA2604001",
-      "category": "urskurdur",
-      "type": "Úrskurður",
-      "source": "UUA",
-      "publishedAt": "2026-04-13T18:00:37.000Z",
-      "title": "UUA2604001 Aflífun hunds",
-      "summary": "Mál nr. UUA2604001, kæra á ákvörðun Heilbrigðiseftirlits Garðabæjar, Hafnarfjarðar, Kópavogs, Mosfellsbæjar og Seltjarnarness frá 30. mars 2026 um að aflífa skuli hundinn Herkúles.",
-      "tags": "umhverfisréttur úrskurður dýravelferð frestun réttaráhrifa kæruheimild",
-      "url": "https://uua.is/urleits/uua2604001-aflifun-hunds/"
-    },
-    {
-      "id": "https://uua.is/urleits/uua2601002-hateigsvegur/",
-      "caseNumber": "UUA2601002",
-      "category": "urskurdur",
-      "type": "Úrskurður",
-      "source": "UUA",
-      "publishedAt": "2026-04-13T18:00:23.000Z",
-      "title": "UUA2601002 Háteigsvegur",
-      "summary": "mál nr. UUA2601002, kæra á ákvörðun skipulagsfulltrúa Reykjavíkur­borgar frá 2. desember 2025 að samþykkja breytingu á deiliskipulagi Sjómannaskólareits vegna lóðar nr. 35 við Háteigsveg.",
-      "tags": "umhverfisréttur úrskurður byggingarleyfi deiliskipulag grenndarkynning landnotkun mannvirki skipulagsmál stöðvun framkvæmda",
-      "url": "https://uua.is/urleits/uua2601002-hateigsvegur/"
     }
   ]
 }

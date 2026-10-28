@@ -1,8 +1,24 @@
 {
   "source": "Dómstólar",
   "sourceUrl": "https://island.is/s/domstolar/domar",
-  "fetchedAt": "2026-10-25T12:50:37.335Z",
+  "fetchedAt": "2026-10-28T14:40:13.417Z",
   "items": [
+    {
+      "id": "https://island.is/domar/g-14e48600-3fd4-41f9-bceb-d3b9ce9ef05c",
+      "caseNumber": "718/2025",
+      "category": "domur",
+      "type": "Dómur/úrskurður",
+      "source": "Landsréttur",
+      "publishedAt": "2026-10-22T00:00:00.000Z",
+      "title": "718/2025 · Landsréttur",
+      "summary": "O ohf. krafðist þess að felldur yrði úr gildi úrskurður óbyggðanefndar hvað það varðaði að félagið ætti ekki vatns- og virkjunarréttindi í Skötufjarðaralmenningi á nánar tilgreindu svæði. Þá krafðist O ohf. viðurkenningar á beinum…",
+      "tags": "orkumál Afréttur Eignarréttur Framsal Samningur Þjóðlenda Vatnsréttindi",
+      "url": "https://island.is/domar/g-14e48600-3fd4-41f9-bceb-d3b9ce9ef05c",
+      "relevant": true,
+      "court": "Landsréttur",
+      "parties": "Orkubú Vestfjarða ohf. (Arnar Þór Stefánsson lögmaður) gegn íslenska ríkinu (Sigurgeir Valsson lögmaður), Súðavíkurhreppi, dánarbúi Huldu Hrannar M Helgadóttur, Kjartani Orra Helgasyni, Guðmundi O Helgasyni, Guðrúnu Láru Helgadóttur, Berglindi Kristínu L Bjarnadóttur, Bjarna Þór Bjarnasyni, Sveini Aðalsteini Bjarnasyni, Guðmundi Karli Magnússyni, Sveini Halldóri Guðmundssyni, Ragnheiði Guðmundsdóttur, Hildi Rebekku Guðmundsdóttur (Sigurður Sigurjónsson lögmaður), Gunnari Erni Haukssyni, Matthildi Ástu Hauksdóttur og Ægi Val Haukssyni (Ingólfur Vignir Guðmundsson lögmaður)",
+      "courtKeywords": "Afréttur Eignarréttur Framsal Samningur Þjóðlenda Vatnsréttindi"
+    },
     {
       "id": "https://island.is/domar/g-82274b30-642e-47d1-9f48-c04ecc7c5f99",
       "caseNumber": "714/2025",
@@ -33,22 +49,6 @@
       "relevant": true,
       "court": "Landsréttur",
       "parties": "Orkubú Vestfjarða ohf. (Arnar Þór Stefánsson lögmaður) gegn íslenska ríkinu (Sigurgeir Valsson lögmaður) og Súðavíkurhreppi (Sigurður Sigurjónsson lögmaður)",
-      "courtKeywords": "Afréttur Eignarréttur Framsal Samningur Þjóðlenda Vatnsréttindi"
-    },
-    {
-      "id": "https://island.is/domar/g-14e48600-3fd4-41f9-bceb-d3b9ce9ef05c",
-      "caseNumber": "718/2025",
-      "category": "domur",
-      "type": "Dómur/úrskurður",
-      "source": "Landsréttur",
-      "publishedAt": "2026-10-22T00:00:00.000Z",
-      "title": "718/2025 · Landsréttur",
-      "summary": "O ohf. krafðist þess að felldur yrði úr gildi úrskurður óbyggðanefndar hvað það varðaði að félagið ætti ekki vatns- og virkjunarréttindi í Skötufjarðaralmenningi á nánar tilgreindu svæði. Þá krafðist O ohf. viðurkenningar á beinum…",
-      "tags": "orkumál Afréttur Eignarréttur Framsal Samningur Þjóðlenda Vatnsréttindi",
-      "url": "https://island.is/domar/g-14e48600-3fd4-41f9-bceb-d3b9ce9ef05c",
-      "relevant": true,
-      "court": "Landsréttur",
-      "parties": "Orkubú Vestfjarða ohf. (Arnar Þór Stefánsson lögmaður) gegn íslenska ríkinu (Sigurgeir Valsson lögmaður), Súðavíkurhreppi, dánarbúi Huldu Hrannar M Helgadóttur, Kjartani Orra Helgasyni, Guðmundi O Helgasyni, Guðrúnu Láru Helgadóttur, Berglindi Kristínu L Bjarnadóttur, Bjarna Þór Bjarnasyni, Sveini Aðalsteini Bjarnasyni, Guðmundi Karli Magnússyni, Sveini Halldóri Guðmundssyni, Ragnheiði Guðmundsdóttur, Hildi Rebekku Guðmundsdóttur (Sigurður Sigurjónsson lögmaður), Gunnari Erni Haukssyni, Matthildi Ástu Hauksdóttur og Ægi Val Haukssyni (Ingólfur Vignir Guðmundsson lögmaður)",
       "courtKeywords": "Afréttur Eignarréttur Framsal Samningur Þjóðlenda Vatnsréttindi"
     },
     {
