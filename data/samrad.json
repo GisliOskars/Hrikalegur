@@ -1,8 +1,25 @@
 {
   "source": "Samráðsgátt",
   "sourceUrl": "https://island.is/samradsgatt/api/rss",
-  "fetchedAt": "2026-10-24T12:18:53.576Z",
+  "fetchedAt": "2026-10-29T14:44:07.306Z",
   "items": [
+    {
+      "id": "https://island.is/samradsgatt/mal/4370",
+      "caseNumber": "223/2026",
+      "category": "samrad",
+      "type": "Til samráðs",
+      "source": "Samráðsgátt",
+      "publishedAt": "2026-10-29T00:00:00.000Z",
+      "deadline": "2026-11-12T23:59:59.000Z",
+      "title": "Áform um frumvörp varðandi byggðatengdar veiðiheimildir",
+      "summary": "Áformað er að endurskoða lagaumgjörð byggðatengdra veiðiheimilda með það að markmiði að skýra markmið, einfalda kerfið og styrkja atvinnu og búsetu í minni sjávarbyggðum.",
+      "tags": "veiðar veiðar",
+      "url": "https://island.is/samradsgatt/mal/4370",
+      "relevant": true,
+      "status": "Til umsagnar",
+      "institution": "Innviðaráðuneytið",
+      "policyArea": "Sveitarfélög og byggðamál"
+    },
     {
       "id": "https://island.is/samradsgatt/mal/4365",
       "caseNumber": "218/2026",
