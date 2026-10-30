@@ -1,8 +1,20 @@
 {
   "source": "UUA",
   "sourceUrl": "https://uua.is/feed/",
-  "fetchedAt": "2026-10-28T14:40:00.262Z",
+  "fetchedAt": "2026-10-30T14:40:22.024Z",
   "items": [
+    {
+      "id": "https://uua.is/urleits/uua2606013-tjaldsvaedi-a-egilsstodum/",
+      "caseNumber": "UUA2606013",
+      "category": "urskurdur",
+      "type": "Úrskurður",
+      "source": "UUA",
+      "publishedAt": "2026-10-29T20:00:57.000Z",
+      "title": "UUA2606013 Tjaldsvæði á Egilsstöðum",
+      "summary": "mál nr. UUA2606013, kæra á ákvörðun heilbrigðisnefndar Austurlands frá 28. maí 2026 um að gefa út starfsleyfi fyrir tjald- og hjólhýsasvæði við Kaupvang 17 á Egilsstöðum.",
+      "tags": "umhverfisréttur úrskurður deiliskipulag aðalskipulag landnotkun hollustuhættir mannvirki skipulagsmál mengunarvarnir starfsleyfi úrgangur kæruheimild",
+      "url": "https://uua.is/urleits/uua2606013-tjaldsvaedi-a-egilsstodum/"
+    },
     {
       "id": "https://uua.is/urleits/uua2610005-odinsgata/",
       "caseNumber": "UUA2610005",
@@ -1178,18 +1190,6 @@
       "summary": "mál nr. UUA2602017, kæra á ákvörðun bæjarstjórnar Sveitarfélagsins Árborgar um að samþykkja nýtt deiliskipulag fyrir hesthúsasvæði Hestamannafélagsins Sleipnis.",
       "tags": "umhverfisréttur úrskurður deiliskipulag aðalskipulag mat á umhverfisáhrifum landnotkun mannvirki skipulagsmál mengunarvarnir fráveita kæruheimild",
       "url": "https://uua.is/urleits/uua2602017-hesthusasvaedi-sleipnis/"
-    },
-    {
-      "id": "https://uua.is/urleits/uua2604002-grensasvegur/",
-      "caseNumber": "UUA2604002",
-      "category": "urskurdur",
-      "type": "Úrskurður",
-      "source": "UUA",
-      "publishedAt": "2026-04-20T18:00:48.000Z",
-      "title": "UUA2604002 Grensásvegur",
-      "summary": "Mál nr. UUA2604002, kæra á ákvörðun byggingarfulltrúans í Reykjavík um að samþykkja umsókn um byggingarleyfi til að innrétta veitingastað í flokki I, tegund c, móttökueldhús og matsal fyrir 100 gesti, ásamt tilheyrandi snyrtingum…",
-      "tags": "umhverfisréttur úrskurður byggingarleyfi deiliskipulag aðalskipulag grenndarkynning landnotkun stöðvun framkvæmda kæruheimild",
-      "url": "https://uua.is/urleits/uua2604002-grensasvegur/"
     }
   ]
 }
