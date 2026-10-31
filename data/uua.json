@@ -1,8 +1,32 @@
 {
   "source": "UUA",
   "sourceUrl": "https://uua.is/feed/",
-  "fetchedAt": "2026-10-30T14:40:22.024Z",
+  "fetchedAt": "2026-10-31T13:59:46.669Z",
   "items": [
+    {
+      "id": "https://uua.is/urleits/uua2610016-sjokviaeldi-i-seydisfirdi/",
+      "caseNumber": "UUA2610016",
+      "category": "urskurdur",
+      "type": "Úrskurður",
+      "source": "UUA",
+      "publishedAt": "2026-10-30T12:10:44.000Z",
+      "title": "UUA2610016 Sjókvíaeldi í Seyðisfirði",
+      "summary": "mál nr. UUA2610014, kæra á ákvörðun Umhverfis- og orkustofnunar frá 7. september 2026 um að veita starfsleyfi fyrir sjókvíaeldi á laxi í Seyðisfirði með 10.000 tonna hámarkslífmassa, þar af 6.500 tonn af frjóum laxi.",
+      "tags": "umhverfisréttur úrskurður mat á umhverfisáhrifum starfsleyfi sjókvíaeldi stöðvun framkvæmda frestun réttaráhrifa kæruheimild",
+      "url": "https://uua.is/urleits/uua2610016-sjokviaeldi-i-seydisfirdi/"
+    },
+    {
+      "id": "https://uua.is/urleits/uua2610014-sjokviaeldi-i-seydisfirdi/",
+      "caseNumber": "UUA2610014",
+      "category": "urskurdur",
+      "type": "Úrskurður",
+      "source": "UUA",
+      "publishedAt": "2026-10-30T12:09:43.000Z",
+      "title": "UUA2610014 Sjókvíaeldi í Seyðisfirði",
+      "summary": "mál nr. UUA2610014, kæra á ákvörðunum Matvælastofnunar frá 11. september 2026 um að veita rekstrarleyfi fyrir sjókvíaeldi á laxi í Seyðisfirði með 10.000 tonna hámarkslífmassa, þar af 6.500 tonn af frjóum laxi.",
+      "tags": "umhverfisréttur úrskurður byggingarleyfi mat á umhverfisáhrifum mannvirki sjókvíaeldi stöðvun framkvæmda frestun réttaráhrifa kæruheimild",
+      "url": "https://uua.is/urleits/uua2610014-sjokviaeldi-i-seydisfirdi/"
+    },
     {
       "id": "https://uua.is/urleits/uua2606013-tjaldsvaedi-a-egilsstodum/",
       "caseNumber": "UUA2606013",
@@ -496,18 +520,6 @@
       "url": "https://uua.is/urleits/11276/"
     },
     {
-      "id": "https://uua.is/urleits/uua2601008-bragagata/",
-      "caseNumber": "UUA2601008",
-      "category": "urskurdur",
-      "type": "Úrskurður",
-      "source": "UUA",
-      "publishedAt": "2026-09-02T18:00:20.000Z",
-      "title": "UUA2601008 Bragagata",
-      "summary": "mál nr. UUA2601008, kæra á ákvörðun byggingarfulltrúans í Reykjavík frá 2. desember 2025 um að samþykkja umsókn um byggingarleyfi fyrir áðurgerðum breytingum á einbýlishúsi á lóð nr. 26a við Bragagötu.",
-      "tags": "umhverfisréttur úrskurður byggingarleyfi deiliskipulag grenndarkynning landnotkun mannvirki stöðvun framkvæmda kæruheimild",
-      "url": "https://uua.is/urleits/uua2601008-bragagata/"
-    },
-    {
       "id": "https://uua.is/urleits/11277/",
       "caseNumber": "UUA2607003",
       "category": "urskurdur",
@@ -518,6 +530,18 @@
       "summary": "mál nr. UUA2607003, kæra á ákvörðun byggingarfulltrúans í Reykjavík frá 24. júní 2026 um að synja beiðni um beitingu þvingunarúrræða vegna hjólageymslu við mörk lóðar Laugavegs 178.",
       "tags": "umhverfisréttur úrskurður byggingarleyfi mannvirki þvingunarúrræði kæruheimild",
       "url": "https://uua.is/urleits/11277/"
+    },
+    {
+      "id": "https://uua.is/urleits/uua2601008-bragagata/",
+      "caseNumber": "UUA2601008",
+      "category": "urskurdur",
+      "type": "Úrskurður",
+      "source": "UUA",
+      "publishedAt": "2026-09-02T18:00:20.000Z",
+      "title": "UUA2601008 Bragagata",
+      "summary": "mál nr. UUA2601008, kæra á ákvörðun byggingarfulltrúans í Reykjavík frá 2. desember 2025 um að samþykkja umsókn um byggingarleyfi fyrir áðurgerðum breytingum á einbýlishúsi á lóð nr. 26a við Bragagötu.",
+      "tags": "umhverfisréttur úrskurður byggingarleyfi deiliskipulag grenndarkynning landnotkun mannvirki stöðvun framkvæmda kæruheimild",
+      "url": "https://uua.is/urleits/uua2601008-bragagata/"
     },
     {
       "id": "https://uua.is/urleits/uua2606010-sjokviaeldi-i-arnarfirdi/",
@@ -1166,30 +1190,6 @@
       "summary": "Mál nr. UUA2604011, kæra á ákvörðun bæjarstjórnar Kópavogs um að samþykkja breytingu á deiliskipulagi Nónhæðar.",
       "tags": "umhverfisréttur úrskurður framkvæmdaleyfi deiliskipulag mannvirki stöðvun framkvæmda frestun réttaráhrifa",
       "url": "https://uua.is/urleits/uua2604011-nonsmari/"
-    },
-    {
-      "id": "https://uua.is/urleits/uua2512007-sundahofn/",
-      "caseNumber": "UUA2512007",
-      "category": "urskurdur",
-      "type": "Úrskurður",
-      "source": "UUA",
-      "publishedAt": "2026-04-21T18:00:44.000Z",
-      "title": "UUA2512007 Sundahöfn",
-      "summary": "mál nr. UUA2512007, kæra á ákvörðun Skipulagsstofnunar frá",
-      "tags": "umhverfisréttur úrskurður framkvæmdaleyfi náttúruvernd mat á umhverfisáhrifum mannvirki efnistaka mengunarvarnir starfsleyfi úrgangur vatnsvernd sjókvíaeldi vegagerð kæruheimild",
-      "url": "https://uua.is/urleits/uua2512007-sundahofn/"
-    },
-    {
-      "id": "https://uua.is/urleits/uua2602017-hesthusasvaedi-sleipnis/",
-      "caseNumber": "UUA2602017",
-      "category": "urskurdur",
-      "type": "Úrskurður",
-      "source": "UUA",
-      "publishedAt": "2026-04-21T18:00:04.000Z",
-      "title": "UUA2602017 Hesthúsasvæði Sleipnis",
-      "summary": "mál nr. UUA2602017, kæra á ákvörðun bæjarstjórnar Sveitarfélagsins Árborgar um að samþykkja nýtt deiliskipulag fyrir hesthúsasvæði Hestamannafélagsins Sleipnis.",
-      "tags": "umhverfisréttur úrskurður deiliskipulag aðalskipulag mat á umhverfisáhrifum landnotkun mannvirki skipulagsmál mengunarvarnir fráveita kæruheimild",
-      "url": "https://uua.is/urleits/uua2602017-hesthusasvaedi-sleipnis/"
     }
   ]
 }
