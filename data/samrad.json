@@ -1,7 +1,7 @@
 {
   "source": "Samráðsgátt",
   "sourceUrl": "https://island.is/samradsgatt/api/rss",
-  "fetchedAt": "2026-11-03T15:35:22.452Z",
+  "fetchedAt": "2026-11-04T15:50:53.423Z",
   "items": [
     {
       "id": "https://island.is/samradsgatt/mal/4370",
@@ -50,7 +50,7 @@
       "tags": "mannvirki byggingarleyfi mannvirki skipulagsmál starfsleyfi þvingunarúrræði",
       "url": "https://island.is/samradsgatt/mal/4361",
       "relevant": true,
-      "status": "Til umsagnar",
+      "status": "Niðurstöður í vinnslu",
       "institution": "Félags- og húsnæðismálaráðuneytið",
       "policyArea": "Húsnæðis- og skipulagsmál"
     },
@@ -1239,23 +1239,6 @@
       "summary": "Með frumvarpinu er ætlunin að innleiða tilskipun (ESB) 2018/850, um breytingu á tilskipun 1999/31/EB um urðun úrgangs, og tilskipun (ESB) 2018/851, um breytingu á tilskipun 2008/98/EB um úrgang. Nauðsynlegt er að samræma lög um…",
       "tags": "úrgangur úrgangur",
       "url": "https://island.is/samradsgatt/mal/2587",
-      "relevant": true,
-      "status": "Niðurstöður í vinnslu",
-      "institution": "Umhverfis-, orku- og loftslagsráðuneytið",
-      "policyArea": "Umhverfismál"
-    },
-    {
-      "id": "https://island.is/samradsgatt/mal/43",
-      "caseNumber": "43/2018",
-      "category": "samrad",
-      "type": "Til samráðs",
-      "source": "Samráðsgátt",
-      "publishedAt": "2018-04-04T00:00:00.000Z",
-      "deadline": "2018-04-25T23:59:59.000Z",
-      "title": "Drög að reglugerð um fráveitur og skólp",
-      "summary": "Umhverfis- og auðlindaráðuneytið kynnir til umsagnar drög að reglugerð um fráveitur og skólp.",
-      "tags": "fráveita mengunarvarnir starfsleyfi fráveita",
-      "url": "https://island.is/samradsgatt/mal/43",
       "relevant": true,
       "status": "Niðurstöður í vinnslu",
       "institution": "Umhverfis-, orku- og loftslagsráðuneytið",
