@@ -1,7 +1,7 @@
 {
   "source": "Samráðsgátt",
   "sourceUrl": "https://island.is/samradsgatt/api/rss",
-  "fetchedAt": "2026-11-04T15:50:53.423Z",
+  "fetchedAt": "2026-11-05T15:54:15.927Z",
   "items": [
     {
       "id": "https://island.is/samradsgatt/mal/4370",
@@ -1007,23 +1007,6 @@
       "policyArea": "Landbúnaður"
     },
     {
-      "id": "https://island.is/samradsgatt/mal/3407",
-      "caseNumber": "35/2023",
-      "category": "samrad",
-      "type": "Til samráðs",
-      "source": "Samráðsgátt",
-      "publishedAt": "2023-02-14T00:00:00.000Z",
-      "deadline": "2023-02-28T23:59:59.000Z",
-      "title": "Breyting á lögum um hollustuhætti og mengunarvarnir (geymsla koldíoxíðs)",
-      "summary": "Uppfæra þarf nokkur ákvæði VI. kafla A laganna sem fjallar um geymslu koldíoxíðs í jörðu til að samræma orðalag kaflans við orðalag tilskipunar 2009/31/EB um geymslu koldíoxíðs í jörðu.",
-      "tags": "mengunarvarnir loftslagsmál mengunarvarnir starfsleyfi",
-      "url": "https://island.is/samradsgatt/mal/3407",
-      "relevant": true,
-      "status": "Niðurstöður í vinnslu",
-      "institution": "Umhverfis-, orku- og loftslagsráðuneytið",
-      "policyArea": "Umhverfismál"
-    },
-    {
       "id": "https://island.is/samradsgatt/mal/3405",
       "caseNumber": "33/2023",
       "category": "samrad",
@@ -1109,23 +1092,6 @@
       "policyArea": "Orkumál"
     },
     {
-      "id": "https://island.is/samradsgatt/mal/3262",
-      "caseNumber": "149/2022",
-      "category": "samrad",
-      "type": "Til samráðs",
-      "source": "Samráðsgátt",
-      "publishedAt": "2022-08-17T00:00:00.000Z",
-      "deadline": "2022-09-02T23:59:59.000Z",
-      "title": "Áform um frumvarp til laga um breytingu á lögum um hollustuhætti og mengunarvarnir nr. 7/1998 (geymsla koldíoxíðs)",
-      "summary": "Uppfæra þarf nokkur ákvæði laganna í VI. kafla A um geymslu koldíoxíðs í jörðu. Breytingarnar eru nauðsynlegar til að samræma orðalag þeirra við tilskipun 2009/31/EB um geymslu koldíoxíðs í jörðu.",
-      "tags": "mengunarvarnir loftslagsmál mengunarvarnir starfsleyfi",
-      "url": "https://island.is/samradsgatt/mal/3262",
-      "relevant": true,
-      "status": "Niðurstöður í vinnslu",
-      "institution": "Umhverfis-, orku- og loftslagsráðuneytið",
-      "policyArea": "Umhverfismál"
-    },
-    {
       "id": "https://island.is/samradsgatt/mal/3225",
       "caseNumber": "112/2022",
       "category": "samrad",
@@ -1177,23 +1143,6 @@
       "policyArea": "Samgöngu- og fjarskiptamál"
     },
     {
-      "id": "https://island.is/samradsgatt/mal/2782",
-      "caseNumber": "193/2020",
-      "category": "samrad",
-      "type": "Til samráðs",
-      "source": "Samráðsgátt",
-      "publishedAt": "2020-09-19T00:00:00.000Z",
-      "deadline": "2020-10-03T23:59:59.000Z",
-      "title": "Drög að frumvarpi til laga um breytingu á lögum nr. 52/1989 um ráðstafanir gegn umhverfismengun af völdum einnota umbúða fyrir drykkjarvörur",
-      "summary": "Umhverfis- og auðlindaráðuneytið óskar eftir umsögnum um drög að frumvarpi til breytinga á lögum nr. 52/1989 um ráðstafanir gegn umhverfismengun af völdum einnota umbúða fyrir drykkjarvörur.",
-      "tags": "mengunarvarnir mengunarvarnir",
-      "url": "https://island.is/samradsgatt/mal/2782",
-      "relevant": true,
-      "status": "Niðurstöður í vinnslu",
-      "institution": "Umhverfis-, orku- og loftslagsráðuneytið",
-      "policyArea": "Umhverfismál"
-    },
-    {
       "id": "https://island.is/samradsgatt/mal/2759",
       "caseNumber": "170/2020",
       "category": "samrad",
@@ -1205,40 +1154,6 @@
       "summary": "Umhverfis- og auðlindaráðuneytið áformar að leggja fram frumvarp til breytinga á lögum nr. 106/2000 um mat á umhverfisáhrifum. Þá er áformað að í frumvarpinu verði einnig lögð til breyting á lögum nr. 7/1998 um hollustuhætti og…",
       "tags": "mat á umhverfisáhrifum mat á umhverfisáhrifum mengunarvarnir starfsleyfi",
       "url": "https://island.is/samradsgatt/mal/2759",
-      "relevant": true,
-      "status": "Niðurstöður í vinnslu",
-      "institution": "Umhverfis-, orku- og loftslagsráðuneytið",
-      "policyArea": "Umhverfismál"
-    },
-    {
-      "id": "https://island.is/samradsgatt/mal/2753",
-      "caseNumber": "164/2020",
-      "category": "samrad",
-      "type": "Til samráðs",
-      "source": "Samráðsgátt",
-      "publishedAt": "2020-09-01T00:00:00.000Z",
-      "deadline": "2020-09-15T23:59:59.000Z",
-      "title": "Áform um frumvarp til laga um breytingar á lögum nr. 52/1989 um ráðstafanir gegn umhverfismengun af völdum einnota umbúða fyrir drykkjarvörur",
-      "summary": "Umhverfis- og auðlindaráðuneytið áformar að leggja fram frumvarp til breytinga á lögum nr. 52/1989 um ráðstafanir gegn umhverfismengun af völdum einnota umbúða fyrir drykkjarvörur.",
-      "tags": "mengunarvarnir mengunarvarnir úrgangur",
-      "url": "https://island.is/samradsgatt/mal/2753",
-      "relevant": true,
-      "status": "Niðurstöður í vinnslu",
-      "institution": "Umhverfis-, orku- og loftslagsráðuneytið",
-      "policyArea": "Umhverfismál"
-    },
-    {
-      "id": "https://island.is/samradsgatt/mal/2587",
-      "caseNumber": "329/2019",
-      "category": "samrad",
-      "type": "Til samráðs",
-      "source": "Samráðsgátt",
-      "publishedAt": "2019-12-20T00:00:00.000Z",
-      "deadline": "2020-01-20T23:59:59.000Z",
-      "title": "Frumvarp - breyting á lögum um meðhöndlun úrgangs (EES-innleiðing)",
-      "summary": "Með frumvarpinu er ætlunin að innleiða tilskipun (ESB) 2018/850, um breytingu á tilskipun 1999/31/EB um urðun úrgangs, og tilskipun (ESB) 2018/851, um breytingu á tilskipun 2008/98/EB um úrgang. Nauðsynlegt er að samræma lög um…",
-      "tags": "úrgangur úrgangur",
-      "url": "https://island.is/samradsgatt/mal/2587",
       "relevant": true,
       "status": "Niðurstöður í vinnslu",
       "institution": "Umhverfis-, orku- og loftslagsráðuneytið",
