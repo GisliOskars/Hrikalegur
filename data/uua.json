@@ -1,8 +1,32 @@
 {
   "source": "UUA",
   "sourceUrl": "https://uua.is/feed/",
-  "fetchedAt": "2026-11-06T15:27:42.850Z",
+  "fetchedAt": "2026-11-07T14:29:18.467Z",
   "items": [
+    {
+      "id": "https://uua.is/urleits/uua2607021-snekkjuvogur/",
+      "caseNumber": "UUA2607021",
+      "category": "urskurdur",
+      "type": "Úrskurður",
+      "source": "UUA",
+      "publishedAt": "2026-11-06T18:00:14.000Z",
+      "title": "UUA2607021 Snekkjuvogur",
+      "summary": "mál nr. UUA2607021, kæra á þeirri ákvörðun byggingarfulltrúans í Reykjavík frá 28. maí 2026 að aðhafast ekki frekar í máli er varðar íbúð í kjallara fjölbýlishúss að Snekkjuvogi 15.",
+      "tags": "umhverfisréttur úrskurður byggingarleyfi deiliskipulag mannvirki úrgangur þvingunarúrræði kæruheimild",
+      "url": "https://uua.is/urleits/uua2607021-snekkjuvogur/"
+    },
+    {
+      "id": "https://uua.is/urleits/uua2607001-leirvogstunga/",
+      "caseNumber": "UUA2607001",
+      "category": "urskurdur",
+      "type": "Úrskurður",
+      "source": "UUA",
+      "publishedAt": "2026-11-06T18:00:08.000Z",
+      "title": "UUA2607001 Leirvogstunga",
+      "summary": "mál nr. UUA2607001, kæra á ákvörðun Mosfellsbæjar frá 30. maí 2026 um að hafna kröfu kæranda um að starfsemi skammtímadvalar fyrir fötluð börn og ungmenni að Leirvogstungu 27 í Mosfellsbæ yrði grenndarkynnt.",
+      "tags": "umhverfisréttur úrskurður byggingarleyfi framkvæmdaleyfi deiliskipulag aðalskipulag grenndarkynning landnotkun mannvirki skipulagsmál",
+      "url": "https://uua.is/urleits/uua2607001-leirvogstunga/"
+    },
     {
       "id": "https://uua.is/urleits/uua2608012-thvingunarurraedi/",
       "caseNumber": "UUA2608012",
@@ -580,18 +604,6 @@
       "url": "https://uua.is/urleits/11276/"
     },
     {
-      "id": "https://uua.is/urleits/uua2601008-bragagata/",
-      "caseNumber": "UUA2601008",
-      "category": "urskurdur",
-      "type": "Úrskurður",
-      "source": "UUA",
-      "publishedAt": "2026-09-02T18:00:20.000Z",
-      "title": "UUA2601008 Bragagata",
-      "summary": "mál nr. UUA2601008, kæra á ákvörðun byggingarfulltrúans í Reykjavík frá 2. desember 2025 um að samþykkja umsókn um byggingarleyfi fyrir áðurgerðum breytingum á einbýlishúsi á lóð nr. 26a við Bragagötu.",
-      "tags": "umhverfisréttur úrskurður byggingarleyfi deiliskipulag grenndarkynning landnotkun mannvirki stöðvun framkvæmda kæruheimild",
-      "url": "https://uua.is/urleits/uua2601008-bragagata/"
-    },
-    {
       "id": "https://uua.is/urleits/11277/",
       "caseNumber": "UUA2607003",
       "category": "urskurdur",
@@ -602,6 +614,18 @@
       "summary": "mál nr. UUA2607003, kæra á ákvörðun byggingarfulltrúans í Reykjavík frá 24. júní 2026 um að synja beiðni um beitingu þvingunarúrræða vegna hjólageymslu við mörk lóðar Laugavegs 178.",
       "tags": "umhverfisréttur úrskurður byggingarleyfi mannvirki þvingunarúrræði kæruheimild",
       "url": "https://uua.is/urleits/11277/"
+    },
+    {
+      "id": "https://uua.is/urleits/uua2601008-bragagata/",
+      "caseNumber": "UUA2601008",
+      "category": "urskurdur",
+      "type": "Úrskurður",
+      "source": "UUA",
+      "publishedAt": "2026-09-02T18:00:20.000Z",
+      "title": "UUA2601008 Bragagata",
+      "summary": "mál nr. UUA2601008, kæra á ákvörðun byggingarfulltrúans í Reykjavík frá 2. desember 2025 um að samþykkja umsókn um byggingarleyfi fyrir áðurgerðum breytingum á einbýlishúsi á lóð nr. 26a við Bragagötu.",
+      "tags": "umhverfisréttur úrskurður byggingarleyfi deiliskipulag grenndarkynning landnotkun mannvirki stöðvun framkvæmda kæruheimild",
+      "url": "https://uua.is/urleits/uua2601008-bragagata/"
     },
     {
       "id": "https://uua.is/urleits/uua2606010-sjokviaeldi-i-arnarfirdi/",
@@ -1166,30 +1190,6 @@
       "summary": "Mál nr. UUA2604013, kæra á ákvörðun byggingarfulltrúans í Reykjanesbæ um að samþykkja byggingaráform fyrir nýbyggingu á lóð nr. 27 við Hafnagötu.",
       "tags": "umhverfisréttur úrskurður byggingarleyfi grenndarkynning mannvirki stöðvun framkvæmda frestun réttaráhrifa kæruheimild",
       "url": "https://uua.is/urleits/uua2604013-hafnagata/"
-    },
-    {
-      "id": "https://uua.is/urleits/uua2603011-hrafnholar/",
-      "caseNumber": "UUA2603011",
-      "category": "urskurdur",
-      "type": "Úrskurður",
-      "source": "UUA",
-      "publishedAt": "2026-05-11T18:00:36.000Z",
-      "title": "UUA2603011 Hrafnhólar",
-      "summary": "Mál nr. UUA2603011, kæra á ákvörðun byggingarfulltrúans í Reykjavík frá 24. september 2024 um að samþykkja umsókn um byggingarleyfi fyrir gistiheimili, gróðurhúsi og geymsluskúr á jörðinni Hrafnhólum á Kjalarnesi.",
-      "tags": "umhverfisréttur úrskurður byggingarleyfi grenndarkynning landnotkun skipulagsmál stöðvun framkvæmda",
-      "url": "https://uua.is/urleits/uua2603011-hrafnholar/"
-    },
-    {
-      "id": "https://uua.is/urleits/11180/",
-      "caseNumber": "UUA2603008",
-      "category": "urskurdur",
-      "type": "Úrskurður",
-      "source": "UUA",
-      "publishedAt": "2026-05-11T18:00:29.000Z",
-      "title": "UUA2603008 Rafstöðvarvegur",
-      "summary": "Mál nr. UUA2603008, kæra á lögmæti stjórnsýslu Reykjavíkurborgar vegna lóðar nr. 41 við Rafstöðvarveg, þ. á m. þeirri ákvörðun byggingarfulltrúans í Reykjavík frá 6. janúar 2026 að synja umsókn um leyfi til að byggja við hús á…",
-      "tags": "umhverfisréttur úrskurður byggingarleyfi mannvirki kæruheimild",
-      "url": "https://uua.is/urleits/11180/"
     }
   ]
 }
