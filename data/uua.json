@@ -1,8 +1,20 @@
 {
   "source": "UUA",
   "sourceUrl": "https://uua.is/feed/",
-  "fetchedAt": "2026-11-09T17:56:27.510Z",
+  "fetchedAt": "2026-11-10T15:55:02.614Z",
   "items": [
+    {
+      "id": "https://uua.is/urleits/uua2610024-laekjaras/",
+      "caseNumber": "UUA2610024",
+      "category": "urskurdur",
+      "type": "Úrskurður",
+      "source": "UUA",
+      "publishedAt": "2026-11-09T18:00:28.000Z",
+      "title": "UUA2610024 Lækjarás",
+      "summary": "Mál nr. UUA2610024, kæra á ákvörðun byggingarfulltrúans í Reykjavík frá 22. september 2026 um að samþykkja umsókn um leyfi til að steypa garðveggi og breyta lóðarhönnun við einbýlishús á lóð nr. 6 við Lækjarás .",
+      "tags": "umhverfisréttur úrskurður mannvirki stöðvun framkvæmda kæruheimild",
+      "url": "https://uua.is/urleits/uua2610024-laekjaras/"
+    },
     {
       "id": "https://uua.is/urleits/uua2607021-snekkjuvogur/",
       "caseNumber": "UUA2607021",
@@ -1178,18 +1190,6 @@
       "summary": "mál nr. UUA2603016, kæra á synjun Húsnæðis-, mannvirkja- og skipulagsstofnunar frá 27. mars 2026 um að ljá eigendum sjávarjarðanna Austdals, Brimness, Dvergasteins og Selstaða aðild að stjórnsýslumáli um umsókn um byggingarleyfi…",
       "tags": "umhverfisréttur úrskurður byggingarleyfi svæðisskipulag mat á umhverfisáhrifum mannvirki haf- og strandsvæði mengunarvarnir starfsleyfi veiðar sjókvíaeldi",
       "url": "https://uua.is/urleits/uua2603016-sjokviaeldi-i-seydisfirdi/"
-    },
-    {
-      "id": "https://uua.is/urleits/uua2604013-hafnagata/",
-      "caseNumber": "UUA2604013",
-      "category": "urskurdur",
-      "type": "Úrskurður",
-      "source": "UUA",
-      "publishedAt": "2026-05-18T18:00:09.000Z",
-      "title": "UUA2604013 Hafnagata",
-      "summary": "Mál nr. UUA2604013, kæra á ákvörðun byggingarfulltrúans í Reykjanesbæ um að samþykkja byggingaráform fyrir nýbyggingu á lóð nr. 27 við Hafnagötu.",
-      "tags": "umhverfisréttur úrskurður byggingarleyfi grenndarkynning mannvirki stöðvun framkvæmda frestun réttaráhrifa kæruheimild",
-      "url": "https://uua.is/urleits/uua2604013-hafnagata/"
     }
   ]
 }
