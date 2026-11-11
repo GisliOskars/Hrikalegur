@@ -1,7 +1,7 @@
 {
   "source": "Samráðsgátt",
   "sourceUrl": "https://island.is/samradsgatt/api/rss",
-  "fetchedAt": "2026-11-06T15:27:46.982Z",
+  "fetchedAt": "2026-11-11T15:41:32.224Z",
   "items": [
     {
       "id": "https://island.is/samradsgatt/mal/4370",
@@ -67,7 +67,7 @@
       "tags": "náttúruvernd náttúruvernd loftslagsmál",
       "url": "https://island.is/samradsgatt/mal/4360",
       "relevant": true,
-      "status": "Til umsagnar",
+      "status": "Niðurstöður í vinnslu",
       "institution": "Umhverfis-, orku- og loftslagsráðuneytið",
       "policyArea": "Umhverfismál"
     },
@@ -291,23 +291,6 @@
       "status": "Niðurstöður í vinnslu",
       "institution": "Umhverfis-, orku- og loftslagsráðuneytið",
       "policyArea": "Orkumál"
-    },
-    {
-      "id": "https://island.is/samradsgatt/mal/4234",
-      "caseNumber": "87/2026",
-      "category": "samrad",
-      "type": "Til samráðs",
-      "source": "Samráðsgátt",
-      "publishedAt": "2026-06-10T00:00:00.000Z",
-      "deadline": "2026-07-07T23:59:59.000Z",
-      "title": "Drög að frumvarpi til laga um breytingu á lögum um varnir gegn mengun hafs og stranda (leyfisveitingar vegna vísindarannsókna í hafi)",
-      "summary": "Umhverfis-, orku- og loftslagsráðuneytið kynnir til samráðs drög að frumvarpi til laga um breytingar á lögum um varnir gegn mengun hafs og stranda um leyfisveitingar vegna vísindarannsókna í hafi.",
-      "tags": "mengunarvarnir loftslagsmál mengunarvarnir",
-      "url": "https://island.is/samradsgatt/mal/4234",
-      "relevant": true,
-      "status": "Niðurstöður í vinnslu",
-      "institution": "Umhverfis-, orku- og loftslagsráðuneytið",
-      "policyArea": "Umhverfismál"
     },
     {
       "id": "https://island.is/samradsgatt/mal/4243",
@@ -837,23 +820,6 @@
       "policyArea": "Orkumál"
     },
     {
-      "id": "https://island.is/samradsgatt/mal/3651",
-      "caseNumber": "12/2024",
-      "category": "samrad",
-      "type": "Til samráðs",
-      "source": "Samráðsgátt",
-      "publishedAt": "2024-01-25T00:00:00.000Z",
-      "deadline": "2024-02-08T23:59:59.000Z",
-      "title": "Breyting á reglugerð nr. 550/2018 um losun frá atvinnurekstri og mengunarvarnaeftirlit",
-      "summary": "Lagðar eru til breytingar vegna lagabreytinga á lögum um hollustuhætti og mengunarvarnir á undanförnum árum og breytingar vegna laga um umhverfismat framkvæmda og áætlana frá árinu 2021.",
-      "tags": "mengunarvarnir skipulagsmál haf- og strandsvæði mengunarvarnir starfsleyfi þvingunarúrræði kæruheimild",
-      "url": "https://island.is/samradsgatt/mal/3651",
-      "relevant": true,
-      "status": "Niðurstöður í vinnslu",
-      "institution": "Umhverfis-, orku- og loftslagsráðuneytið",
-      "policyArea": "Umhverfismál"
-    },
-    {
       "id": "https://island.is/samradsgatt/mal/3595",
       "caseNumber": "223/2023",
       "category": "samrad",
@@ -869,23 +835,6 @@
       "status": "Niðurstöður í vinnslu",
       "institution": "Innviðaráðuneytið",
       "policyArea": "Húsnæðis- og skipulagsmál"
-    },
-    {
-      "id": "https://island.is/samradsgatt/mal/3578",
-      "caseNumber": "206/2023",
-      "category": "samrad",
-      "type": "Til samráðs",
-      "source": "Samráðsgátt",
-      "publishedAt": "2023-10-25T00:00:00.000Z",
-      "deadline": "2023-11-13T23:59:59.000Z",
-      "title": "Breyting reglugerð nr. 796/1999 um varnir gegn mengun vatns",
-      "summary": "Umhverfis-, orku- og loftslagsráðuneytið kynnir til samráðs drög að breytingu á reglugerð nr. 796/1999 um varnir gegn mengun vatns, sem sett verður á grundvelli laga nr. 7/1998.",
-      "tags": "mengunarvarnir loftslagsmál hollustuhættir mengunarvarnir starfsleyfi fráveita",
-      "url": "https://island.is/samradsgatt/mal/3578",
-      "relevant": true,
-      "status": "Niðurstöður í vinnslu",
-      "institution": "Umhverfis-, orku- og loftslagsráðuneytið",
-      "policyArea": "Umhverfismál"
     },
     {
       "id": "https://island.is/samradsgatt/mal/3557",
@@ -1018,23 +967,6 @@
       "summary": "Áformað er að vinna frumvarp um breytingu á lögum um loftslagsmál þar sem stjórnsýsla loftslagsmála verði styrkt og hlutverk Loftslagsráðs tekið til endurskoðunar.",
       "tags": "loftslagsmál loftslagsmál",
       "url": "https://island.is/samradsgatt/mal/3368",
-      "relevant": true,
-      "status": "Niðurstöður í vinnslu",
-      "institution": "Umhverfis-, orku- og loftslagsráðuneytið",
-      "policyArea": "Umhverfismál"
-    },
-    {
-      "id": "https://island.is/samradsgatt/mal/3362",
-      "caseNumber": "249/2022",
-      "category": "samrad",
-      "type": "Til samráðs",
-      "source": "Samráðsgátt",
-      "publishedAt": "2022-12-16T00:00:00.000Z",
-      "deadline": "2023-01-10T23:59:59.000Z",
-      "title": "Frumvarp til laga um breytingu á lögum um mengun hafs og stranda",
-      "summary": "Umhverfis-, orku- og loftslagsráðherra áformar að leggja fram frumvarp til breytinga á lögum um mengun hafs og stranda",
-      "tags": "mengunarvarnir loftslagsmál mengunarvarnir úrgangur",
-      "url": "https://island.is/samradsgatt/mal/3362",
       "relevant": true,
       "status": "Niðurstöður í vinnslu",
       "institution": "Umhverfis-, orku- og loftslagsráðuneytið",
