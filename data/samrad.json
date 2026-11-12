@@ -1,8 +1,25 @@
 {
   "source": "Samráðsgátt",
   "sourceUrl": "https://island.is/samradsgatt/api/rss",
-  "fetchedAt": "2026-11-11T15:41:32.224Z",
+  "fetchedAt": "2026-11-12T16:25:45.311Z",
   "items": [
+    {
+      "id": "https://island.is/samradsgatt/mal/4379",
+      "caseNumber": "232/2026",
+      "category": "samrad",
+      "type": "Til samráðs",
+      "source": "Samráðsgátt",
+      "publishedAt": "2026-11-12T00:00:00.000Z",
+      "deadline": "2026-11-26T23:59:59.000Z",
+      "title": "Frumvarp til laga um breytingu á ýmsum lögum vegna flýtingar uppbyggingar raforkuinnviða, einföldunar leyfisferla og annarra úrbóta",
+      "summary": "Umhverfis-, orku- og loftslagsráðuneytið kynnir til samráðs drög að frumvarpi sem ætlað er að einfalda leyfisferla og flýta uppbyggingu raforkuinnviða.",
+      "tags": "orkumál loftslagsmál mannvirki mengunarvarnir starfsleyfi virkjunarkostur orkumál",
+      "url": "https://island.is/samradsgatt/mal/4379",
+      "relevant": true,
+      "status": "Til umsagnar",
+      "institution": "Umhverfis-, orku- og loftslagsráðuneytið",
+      "policyArea": "Orkumál"
+    },
     {
       "id": "https://island.is/samradsgatt/mal/4370",
       "caseNumber": "223/2026",
@@ -310,23 +327,6 @@
       "policyArea": "Umhverfismál"
     },
     {
-      "id": "https://island.is/samradsgatt/mal/4225",
-      "caseNumber": "78/2026",
-      "category": "samrad",
-      "type": "Til samráðs",
-      "source": "Samráðsgátt",
-      "publishedAt": "2026-04-29T00:00:00.000Z",
-      "deadline": "2026-05-13T23:59:59.000Z",
-      "title": "Breyting á reglugerð um skráningarskyldan atvinnurekstur samkvæmt lögum um hollustuhætti og mengunarvarnir",
-      "summary": "Umhverfis-, orku- og loftslagsráðuneytið leggur til breytingar á reglugerð um skráningarskyldan atvinnurekstur samkvæmt lögum um hollustuhætti og mengunarvarnir, nr. 830/2022.",
-      "tags": "mengunarvarnir loftslagsmál mengunarvarnir starfsleyfi",
-      "url": "https://island.is/samradsgatt/mal/4225",
-      "relevant": true,
-      "status": "Niðurstöður í vinnslu",
-      "institution": "Umhverfis-, orku- og loftslagsráðuneytið",
-      "policyArea": "Umhverfismál"
-    },
-    {
       "id": "https://island.is/samradsgatt/mal/4218",
       "caseNumber": "71/2026",
       "category": "samrad",
@@ -478,23 +478,6 @@
       "status": "Niðurstöður í vinnslu",
       "institution": "Atvinnuvegaráðuneytið",
       "policyArea": "Sjávarútvegur og fiskeldi"
-    },
-    {
-      "id": "https://island.is/samradsgatt/mal/4123",
-      "caseNumber": "238/2025",
-      "category": "samrad",
-      "type": "Til samráðs",
-      "source": "Samráðsgátt",
-      "publishedAt": "2025-12-04T00:00:00.000Z",
-      "deadline": "2026-01-16T23:59:59.000Z",
-      "title": "Ný reglugerð um meðhöndlun seyru",
-      "summary": "Umhverfis-, orku- og loftslagsráðuneytið kynnir til samráðs drög að nýrri reglugerð um meðhöndlun seyru, í stað núgildandi reglugerðar um sama efni nr. 799/1999.",
-      "tags": "fráveita loftslagsmál fráveita",
-      "url": "https://island.is/samradsgatt/mal/4123",
-      "relevant": true,
-      "status": "Niðurstöður í vinnslu",
-      "institution": "Umhverfis-, orku- og loftslagsráðuneytið",
-      "policyArea": "Umhverfismál"
     },
     {
       "id": "https://island.is/samradsgatt/mal/4121",
@@ -699,23 +682,6 @@
       "status": "Niðurstöður í vinnslu",
       "institution": "Atvinnuvegaráðuneytið",
       "policyArea": "Sjávarútvegur og fiskeldi"
-    },
-    {
-      "id": "https://island.is/samradsgatt/mal/3931",
-      "caseNumber": "46/2025",
-      "category": "samrad",
-      "type": "Til samráðs",
-      "source": "Samráðsgátt",
-      "publishedAt": "2025-02-21T00:00:00.000Z",
-      "deadline": "2025-03-07T23:59:59.000Z",
-      "title": "Frumvarp til laga um breytingu á lögum um varnir gegn mengun hafs og stranda (móttaka úrgangs í höfnum)",
-      "summary": "Frumvarp til laga um breytingu á lögum um varnir gegn mengun hafs og stranda hvað varðar móttöku úrgangs í höfnum.",
-      "tags": "mengunarvarnir úrgangur mengunarvarnir úrgangur",
-      "url": "https://island.is/samradsgatt/mal/3931",
-      "relevant": true,
-      "status": "Niðurstöður í vinnslu",
-      "institution": "Umhverfis-, orku- og loftslagsráðuneytið",
-      "policyArea": "Umhverfismál"
     },
     {
       "id": "https://island.is/samradsgatt/mal/3904",
@@ -1056,23 +1022,6 @@
       "status": "Niðurstöður í vinnslu",
       "institution": "Innviðaráðuneytið",
       "policyArea": "Samgöngu- og fjarskiptamál"
-    },
-    {
-      "id": "https://island.is/samradsgatt/mal/2759",
-      "caseNumber": "170/2020",
-      "category": "samrad",
-      "type": "Til samráðs",
-      "source": "Samráðsgátt",
-      "publishedAt": "2020-09-03T00:00:00.000Z",
-      "deadline": "2020-09-17T23:59:59.000Z",
-      "title": "Áform um frumvarp til laga um breytingar á lögum nr. 106/2000 um mat á umhverfisáhrifum (leyfi til bráðabirgða)",
-      "summary": "Umhverfis- og auðlindaráðuneytið áformar að leggja fram frumvarp til breytinga á lögum nr. 106/2000 um mat á umhverfisáhrifum. Þá er áformað að í frumvarpinu verði einnig lögð til breyting á lögum nr. 7/1998 um hollustuhætti og…",
-      "tags": "mat á umhverfisáhrifum mat á umhverfisáhrifum mengunarvarnir starfsleyfi",
-      "url": "https://island.is/samradsgatt/mal/2759",
-      "relevant": true,
-      "status": "Niðurstöður í vinnslu",
-      "institution": "Umhverfis-, orku- og loftslagsráðuneytið",
-      "policyArea": "Umhverfismál"
     }
   ]
 }
