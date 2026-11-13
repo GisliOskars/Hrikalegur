@@ -1,7 +1,7 @@
 {
   "source": "Samráðsgátt",
   "sourceUrl": "https://island.is/samradsgatt/api/rss",
-  "fetchedAt": "2026-11-12T16:25:45.311Z",
+  "fetchedAt": "2026-11-13T15:46:04.112Z",
   "items": [
     {
       "id": "https://island.is/samradsgatt/mal/4379",
@@ -33,7 +33,7 @@
       "tags": "veiðar veiðar",
       "url": "https://island.is/samradsgatt/mal/4370",
       "relevant": true,
-      "status": "Til umsagnar",
+      "status": "Niðurstöður í vinnslu",
       "institution": "Innviðaráðuneytið",
       "policyArea": "Sveitarfélög og byggðamál"
     },
