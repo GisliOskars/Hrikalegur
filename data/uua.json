@@ -1,8 +1,20 @@
 {
   "source": "UUA",
   "sourceUrl": "https://uua.is/feed/",
-  "fetchedAt": "2026-11-10T15:55:02.614Z",
+  "fetchedAt": "2026-11-14T14:36:30.002Z",
   "items": [
+    {
+      "id": "https://uua.is/urleits/uua2610002-sudurlandsvegur/",
+      "caseNumber": "UUA2610002",
+      "category": "urskurdur",
+      "type": "Úrskurður",
+      "source": "UUA",
+      "publishedAt": "2026-11-14T12:00:57.000Z",
+      "title": "UUA2610002 Suðurlandsvegur",
+      "summary": "Mál nr. UUA2610002, kæra á ákvörðun borgarráðs Reykjavíkur frá 19. mars 2026 um að samþykkja tillögu að deiliskipulagi Suðurlandsvegar.",
+      "tags": "umhverfisréttur úrskurður deiliskipulag",
+      "url": "https://uua.is/urleits/uua2610002-sudurlandsvegur/"
+    },
     {
       "id": "https://uua.is/urleits/uua2610024-laekjaras/",
       "caseNumber": "UUA2610024",
@@ -616,18 +628,6 @@
       "url": "https://uua.is/urleits/11276/"
     },
     {
-      "id": "https://uua.is/urleits/11277/",
-      "caseNumber": "UUA2607003",
-      "category": "urskurdur",
-      "type": "Úrskurður",
-      "source": "UUA",
-      "publishedAt": "2026-09-02T18:00:20.000Z",
-      "title": "UUA2607003 Laugavegur",
-      "summary": "mál nr. UUA2607003, kæra á ákvörðun byggingarfulltrúans í Reykjavík frá 24. júní 2026 um að synja beiðni um beitingu þvingunarúrræða vegna hjólageymslu við mörk lóðar Laugavegs 178.",
-      "tags": "umhverfisréttur úrskurður byggingarleyfi mannvirki þvingunarúrræði kæruheimild",
-      "url": "https://uua.is/urleits/11277/"
-    },
-    {
       "id": "https://uua.is/urleits/uua2601008-bragagata/",
       "caseNumber": "UUA2601008",
       "category": "urskurdur",
@@ -638,6 +638,18 @@
       "summary": "mál nr. UUA2601008, kæra á ákvörðun byggingarfulltrúans í Reykjavík frá 2. desember 2025 um að samþykkja umsókn um byggingarleyfi fyrir áðurgerðum breytingum á einbýlishúsi á lóð nr. 26a við Bragagötu.",
       "tags": "umhverfisréttur úrskurður byggingarleyfi deiliskipulag grenndarkynning landnotkun mannvirki stöðvun framkvæmda kæruheimild",
       "url": "https://uua.is/urleits/uua2601008-bragagata/"
+    },
+    {
+      "id": "https://uua.is/urleits/11277/",
+      "caseNumber": "UUA2607003",
+      "category": "urskurdur",
+      "type": "Úrskurður",
+      "source": "UUA",
+      "publishedAt": "2026-09-02T18:00:20.000Z",
+      "title": "UUA2607003 Laugavegur",
+      "summary": "mál nr. UUA2607003, kæra á ákvörðun byggingarfulltrúans í Reykjavík frá 24. júní 2026 um að synja beiðni um beitingu þvingunarúrræða vegna hjólageymslu við mörk lóðar Laugavegs 178.",
+      "tags": "umhverfisréttur úrskurður byggingarleyfi mannvirki þvingunarúrræði kæruheimild",
+      "url": "https://uua.is/urleits/11277/"
     },
     {
       "id": "https://uua.is/urleits/uua2606010-sjokviaeldi-i-arnarfirdi/",
@@ -1178,18 +1190,6 @@
       "summary": "mál nr. UUA2604004, kæra á ákvörðunum byggingarfulltrúa Hafnarfjarðarkaupstaðar frá 11. og 25. febrúar 2026 um að aðhafast ekki frekar vegna framkvæmda á lóð nr. 4 við Fögrukinn.",
       "tags": "umhverfisréttur úrskurður byggingarleyfi mannvirki þvingunarúrræði kæruheimild",
       "url": "https://uua.is/urleits/uua2604004-fagrakinn/"
-    },
-    {
-      "id": "https://uua.is/urleits/uua2603016-sjokviaeldi-i-seydisfirdi/",
-      "caseNumber": "UUA2603016",
-      "category": "urskurdur",
-      "type": "Úrskurður",
-      "source": "UUA",
-      "publishedAt": "2026-05-21T18:00:05.000Z",
-      "title": "UUA2603016 Sjókvíaeldi í Seyðisfirði",
-      "summary": "mál nr. UUA2603016, kæra á synjun Húsnæðis-, mannvirkja- og skipulagsstofnunar frá 27. mars 2026 um að ljá eigendum sjávarjarðanna Austdals, Brimness, Dvergasteins og Selstaða aðild að stjórnsýslumáli um umsókn um byggingarleyfi…",
-      "tags": "umhverfisréttur úrskurður byggingarleyfi svæðisskipulag mat á umhverfisáhrifum mannvirki haf- og strandsvæði mengunarvarnir starfsleyfi veiðar sjókvíaeldi",
-      "url": "https://uua.is/urleits/uua2603016-sjokviaeldi-i-seydisfirdi/"
     }
   ]
 }
