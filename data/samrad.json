@@ -1,7 +1,7 @@
 {
   "source": "Samráðsgátt",
   "sourceUrl": "https://island.is/samradsgatt/api/rss",
-  "fetchedAt": "2026-11-13T15:46:04.112Z",
+  "fetchedAt": "2026-11-18T16:47:38.426Z",
   "items": [
     {
       "id": "https://island.is/samradsgatt/mal/4379",
@@ -10,7 +10,7 @@
       "type": "Til samráðs",
       "source": "Samráðsgátt",
       "publishedAt": "2026-11-12T00:00:00.000Z",
-      "deadline": "2026-11-26T23:59:59.000Z",
+      "deadline": "2026-12-11T23:59:59.000Z",
       "title": "Frumvarp til laga um breytingu á ýmsum lögum vegna flýtingar uppbyggingar raforkuinnviða, einföldunar leyfisferla og annarra úrbóta",
       "summary": "Umhverfis-, orku- og loftslagsráðuneytið kynnir til samráðs drög að frumvarpi sem ætlað er að einfalda leyfisferla og flýta uppbyggingu raforkuinnviða.",
       "tags": "orkumál loftslagsmál mannvirki mengunarvarnir starfsleyfi virkjunarkostur orkumál",

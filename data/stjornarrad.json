@@ -1,7 +1,7 @@
 {
   "source": "Stjórnarráðið",
   "sourceUrl": "https://www.stjornarradid.is/extensions/news/rss/Frettir-fra-ollum-raduneytum.rss",
-  "fetchedAt": "2026-08-28T19:44:58.972Z",
+  "fetchedAt": "2026-11-18T16:47:48.367Z",
   "items": [
     {
       "id": "https://www.stjornarradid.is/efst-a-baugi/frettir/stok-frett/2026/08/28/Fyrirkomulag-rjupnaveida-2026/",
@@ -181,6 +181,30 @@
       "summary": "Umhverfis-, orku- og loftslagsráðuneytið hefur birt í Samráðsgátt stjórnvalda frumvarp til innleiðingar á reglugerð Evrópuþingsins og ráðsins (ESB) 2023/956 frá 10. maí 2023 um að koma á fót aðlögunarkerfi við landamæri vegna…",
       "tags": "loftslagsmál",
       "url": "https://www.stjornarradid.is/efst-a-baugi/frettir/stok-frett/2026/07/24/Frumvarpsdrog-um-innleidingu-a-CBAM-reglugerd-ESB-sett-i-Samradsgatt/",
+      "relevant": true
+    },
+    {
+      "id": "https://www.stjornarradid.is/efst-a-baugi/frettir/stok-frett/2020-06-23-Ny-adgerdaaaetlun-i-loftslagsmalum-Island-uppfyllir-skuldbindingar-og-gott-betur",
+      "category": "frett",
+      "type": "Frétt",
+      "source": "Stjórnarráðið",
+      "publishedAt": "2020-06-23T14:38:00.000Z",
+      "title": "Ný aðgerðaáætlun í loftslagsmálum – Ísland uppfyllir skuldbindingar og gott betur",
+      "summary": "Katr&#237;n Jakobsd&#243;ttir, fors&#230;tisr&#225;&#240;herra, Gu&#240;mundur Ingi Gu&#240;brandsson, umhverfis- og au&#240;lindar&#225;&#240;herra, Bjarni Benediktsson, fj&#225;rm&#225;lar&#225;&#240;herra og Sigur&#240;ur Ingi…",
+      "tags": "loftslagsmál",
+      "url": "https://www.stjornarradid.is/efst-a-baugi/frettir/stok-frett/2020-06-23-Ny-adgerdaaaetlun-i-loftslagsmalum-Island-uppfyllir-skuldbindingar-og-gott-betur",
+      "relevant": true
+    },
+    {
+      "id": "https://www.stjornarradid.is/efst-a-baugi/frettir/stok-frett/2018-09-10-Blasid-til-soknar-i-loftslagsmalum",
+      "category": "frett",
+      "type": "Frétt",
+      "source": "Stjórnarráðið",
+      "publishedAt": "2018-09-10T14:00:00.000Z",
+      "title": "Blásið til sóknar í loftslagsmálum",
+      "summary": "Sj&#246; r&#225;&#240;herrar r&#237;kisstj&#243;rnarinnar kynntu vi&#240;amikla a&#240;ger&#240;a&#225;&#230;tlun &#237; loftslagsm&#225;lum &#237; dag.",
+      "tags": "loftslagsmál",
+      "url": "https://www.stjornarradid.is/efst-a-baugi/frettir/stok-frett/2018-09-10-Blasid-til-soknar-i-loftslagsmalum",
       "relevant": true
     }
   ]
