@@ -1,8 +1,24 @@
 {
   "source": "Dómstólar",
   "sourceUrl": "https://island.is/s/domstolar/domar",
-  "fetchedAt": "2026-10-28T14:40:13.417Z",
+  "fetchedAt": "2026-11-19T16:55:15.804Z",
   "items": [
+    {
+      "id": "https://island.is/domar/g-06ce2388-3cf4-4dae-9a57-e715a5856d3b",
+      "caseNumber": "315/2026",
+      "category": "domur",
+      "type": "Dómur/úrskurður",
+      "source": "Landsréttur",
+      "publishedAt": "2026-11-19T00:00:00.000Z",
+      "title": "315/2026 · Landsréttur",
+      "summary": "Með hinum áfrýjaða dómi voru K og S sakfelldir fyrir brot gegn 2. mgr. 257. gr. almennra hegningarlaga fyrir sérlega vítaverð eignaspjöll með því að hafa sprengt heimatilbúna sprengju í M, undir tæknirými sem staðsett var hjá…",
+      "tags": "mannvirki Eignaspjöll Heimfærsla Refsiákvörðun Sakarkostnaður Sönnun",
+      "url": "https://island.is/domar/g-06ce2388-3cf4-4dae-9a57-e715a5856d3b",
+      "relevant": true,
+      "court": "Landsréttur",
+      "parties": "Ákæruvaldið (Anna Barbara Andradóttir saksóknari) gegn Kristni Kristinssyni (Andrés Már Magnússon lögmaður) og Sigurbergi Sveini Sveinssyni (Vilhjálmur H. Vilhjálmsson lögmaður)",
+      "courtKeywords": "Eignaspjöll Heimfærsla Refsiákvörðun Sakarkostnaður Sönnun"
+    },
     {
       "id": "https://island.is/domar/g-14e48600-3fd4-41f9-bceb-d3b9ce9ef05c",
       "caseNumber": "718/2025",
