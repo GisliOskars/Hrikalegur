@@ -1,7 +1,7 @@
 {
   "source": "Stjórnarráðið",
   "sourceUrl": "https://www.stjornarradid.is/extensions/news/rss/Frettir-fra-ollum-raduneytum.rss",
-  "fetchedAt": "2026-11-18T16:47:48.367Z",
+  "fetchedAt": "2026-11-20T16:29:09.250Z",
   "items": [
     {
       "id": "https://www.stjornarradid.is/efst-a-baugi/frettir/stok-frett/2026/08/28/Fyrirkomulag-rjupnaveida-2026/",
@@ -181,6 +181,18 @@
       "summary": "Umhverfis-, orku- og loftslagsráðuneytið hefur birt í Samráðsgátt stjórnvalda frumvarp til innleiðingar á reglugerð Evrópuþingsins og ráðsins (ESB) 2023/956 frá 10. maí 2023 um að koma á fót aðlögunarkerfi við landamæri vegna…",
       "tags": "loftslagsmál",
       "url": "https://www.stjornarradid.is/efst-a-baugi/frettir/stok-frett/2026/07/24/Frumvarpsdrog-um-innleidingu-a-CBAM-reglugerd-ESB-sett-i-Samradsgatt/",
+      "relevant": true
+    },
+    {
+      "id": "https://www.stjornarradid.is/efst-a-baugi/frettir/stok-frett/2021-03-23-Framlog-til-loftslagsadgerda-aukin-um-milljard-a-ari-",
+      "category": "frett",
+      "type": "Frétt",
+      "source": "Stjórnarráðið",
+      "publishedAt": "2021-03-23T08:20:00.000Z",
+      "title": "Framlög til loftslagsaðgerða aukin um milljarð á ári",
+      "summary": "Framl&#246;g til loftslagsm&#225;la ver&#240;a aukin um 1 ma.kr. &#225; &#225;ri &#225; t&#237;mabilinu 2022-2031 samkv&#230;mt &#225;&#230;tlunum r&#237;kisstj&#243;rnarinnar. &#222;etta kemur fram &#237;…",
+      "tags": "loftslagsmál",
+      "url": "https://www.stjornarradid.is/efst-a-baugi/frettir/stok-frett/2021-03-23-Framlog-til-loftslagsadgerda-aukin-um-milljard-a-ari-",
       "relevant": true
     },
     {
