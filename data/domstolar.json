@@ -1,8 +1,24 @@
 {
   "source": "Dómstólar",
   "sourceUrl": "https://island.is/s/domstolar/domar",
-  "fetchedAt": "2026-11-19T16:55:15.804Z",
+  "fetchedAt": "2026-11-23T19:37:58.469Z",
   "items": [
+    {
+      "id": "https://island.is/domar/g-972b0d6d-8d02-4f94-9b98-74d31ca76600",
+      "caseNumber": "908/2026",
+      "category": "domur",
+      "type": "Dómur/úrskurður",
+      "source": "Landsréttur",
+      "publishedAt": "2026-11-23T13:37:12.000Z",
+      "title": "908/2026 · Landsréttur",
+      "summary": "Kærður var úrskurður héraðsdóms þar sem kröfu S um heimild til aðgangs að tilgreindri fasteign á grundvelli 20. gr. laga um brunavarnir nr. 75/2000 var vísað frá dómi. Þar sem heimild brast til kæru úrskurðarins var málinu vísað…",
+      "tags": "kæruheimild Frávísun frá Landsrétti Kæruheimild Kærumál",
+      "url": "https://island.is/domar/g-972b0d6d-8d02-4f94-9b98-74d31ca76600",
+      "relevant": true,
+      "court": "Landsréttur",
+      "parties": "Slökkvilið höfuðborgarsvæðisins bs. (Anton Björn Markússon lögmaður) gegn A og B ehf. (enginn)",
+      "courtKeywords": "Frávísun frá Landsrétti Kæruheimild Kærumál"
+    },
     {
       "id": "https://island.is/domar/g-06ce2388-3cf4-4dae-9a57-e715a5856d3b",
       "caseNumber": "315/2026",

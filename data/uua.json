@@ -1,16 +1,40 @@
 {
   "source": "UUA",
   "sourceUrl": "https://uua.is/feed/",
-  "fetchedAt": "2026-11-19T16:55:02.559Z",
+  "fetchedAt": "2026-11-23T19:37:44.722Z",
   "items": [
     {
+      "id": "https://uua.is/urleits/uua2608005-ytri-holmur-2/",
+      "caseNumber": "UUA2608005",
+      "category": "urskurdur",
+      "type": "Úrskurður",
+      "source": "UUA",
+      "publishedAt": "2026-11-23T18:00:57.000Z",
+      "title": "UUA2608005 Ytri-Hólmur",
+      "summary": "mál nr. UUA2608005, kæra á ákvörðunum skipulags- og byggingarfulltrúa Hvalfjarðarsveitar frá 16. júlí og 12. ágúst 2026 um að hafna kröfu um stöðvun á yfirstandandi framkvæmdum við endurnýjun vatnslagnar og niðurrif og byggingu…",
+      "tags": "umhverfisréttur úrskurður byggingarleyfi framkvæmdaleyfi aðalskipulag mat á umhverfisáhrifum mannvirki efnistaka mengunarvarnir fráveita vatnsvernd stöðvun framkvæmda kæruheimild",
+      "url": "https://uua.is/urleits/uua2608005-ytri-holmur-2/"
+    },
+    {
+      "id": "https://uua.is/urleits/uua2609014-midtun/",
+      "caseNumber": "UUA2609014",
+      "category": "urskurdur",
+      "type": "Úrskurður",
+      "source": "UUA",
+      "publishedAt": "2026-11-23T18:00:48.000Z",
+      "title": "UUA2609014 Miðtún",
+      "summary": "mál nr. UUA2609014, kæra á ákvörðunum Reykjavíkurborgar frá 23. janúar 2026 um álagningu viðbótarlosunargjalda vegna flutningsvegalengdar sorpíláta að hirðubifreið fyrir fasteignirnar að Miðtúni 50 og 52.",
+      "tags": "umhverfisréttur úrskurður úrgangur kæruheimild",
+      "url": "https://uua.is/urleits/uua2609014-midtun/"
+    },
+    {
       "id": "https://uua.is/urleits/uua6611002-holmatun/",
-      "caseNumber": "UUA6611002",
+      "caseNumber": "UUA2611002",
       "category": "urskurdur",
       "type": "Úrskurður",
       "source": "UUA",
       "publishedAt": "2026-11-18T18:00:17.000Z",
-      "title": "UUA6611002 Hólmatún",
+      "title": "UUA2611002 Hólmatún",
       "summary": "Mál nr. UUA2611002, kæra á ákvörðun bæjarráðs Garðabæjar frá 10. janúar 2023 um að samþykkja útgáfu byggingarleyfis vegna stækkunar einbýlishúss á lóð nr. 57 við Hólmatún.",
       "tags": "umhverfisréttur úrskurður byggingarleyfi deiliskipulag grenndarkynning mannvirki þvingunarúrræði málshraði",
       "url": "https://uua.is/urleits/uua6611002-holmatun/"
@@ -1166,30 +1190,6 @@
       "summary": "mál nr. UUA2602020, kæra á ákvörðun Heilbrigðiseftirlits Norðurlands eystra frá 12. janúar 2026 um að gefa út starfsleyfi fyrir heitloftsþurrkun fiskafurða að Laugum í Reykjadal í Þingeyjarsveit.",
       "tags": "umhverfisréttur úrskurður hollustuhættir mengunarvarnir starfsleyfi úrgangur kæruheimild",
       "url": "https://uua.is/urleits/uua2602020-heitloftsthurrkun-a-laugum/"
-    },
-    {
-      "id": "https://uua.is/urleits/uua2605009-nylendugata/",
-      "caseNumber": "UUA2605009",
-      "category": "urskurdur",
-      "type": "Úrskurður",
-      "source": "UUA",
-      "publishedAt": "2026-05-29T18:00:32.000Z",
-      "title": "UUA2605009 Nýlendugata",
-      "summary": "Mál nr. UUA2605009, kæra á ákvörðun byggingarfulltrúans í Reykjavík frá 5. maí 2026 um að fjarlægja skuli mannvirki sem standi utan lóðarmarka Nýlendugötu 32 og á borgarlandi í óleyfi.",
-      "tags": "umhverfisréttur úrskurður mannvirki frestun réttaráhrifa kæruheimild",
-      "url": "https://uua.is/urleits/uua2605009-nylendugata/"
-    },
-    {
-      "id": "https://uua.is/urleits/uua2605007-bauganes/",
-      "caseNumber": "UUA2605007",
-      "category": "urskurdur",
-      "type": "Úrskurður",
-      "source": "UUA",
-      "publishedAt": "2026-05-29T18:00:27.000Z",
-      "title": "UUA2605007 Bauganes",
-      "summary": "Mál nr. UUA2605007, kæra á ákvörðun skipulagsfulltrúa Reykjavíkur frá 28. ágúst 2025 um breytingu á deiliskipulagi Einarsness vegna lóðar nr. 3A við Bauganes.",
-      "tags": "umhverfisréttur úrskurður deiliskipulag grenndarkynning stöðvun framkvæmda frestun réttaráhrifa",
-      "url": "https://uua.is/urleits/uua2605007-bauganes/"
     }
   ]
 }
