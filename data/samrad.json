@@ -1,7 +1,7 @@
 {
   "source": "Samráðsgátt",
   "sourceUrl": "https://island.is/samradsgatt/api/rss",
-  "fetchedAt": "2026-11-23T19:37:47.675Z",
+  "fetchedAt": "2026-11-24T19:11:06.126Z",
   "items": [
     {
       "id": "https://island.is/samradsgatt/mal/4388",
@@ -10,7 +10,7 @@
       "type": "Til samráðs",
       "source": "Samráðsgátt",
       "publishedAt": "2026-11-23T00:00:00.000Z",
-      "deadline": "2027-01-04T23:59:59.000Z",
+      "deadline": "2027-01-05T23:59:59.000Z",
       "title": "Umhverfismat á drögum að stefnu stjórnvalda um uppbyggingu flutningskerfis raforku",
       "summary": "Umhverfis-, orku- og loftslagsráðuneytið kynnir til samráðs umhverfismat áætlana fyrir drög að þingsályktun um stefnu stjórnvalda um uppbyggingu flutningskerfis raforku.",
       "tags": "orkumál loftslagsmál orkumál",
