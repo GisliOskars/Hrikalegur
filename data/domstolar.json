@@ -1,8 +1,24 @@
 {
   "source": "Dómstólar",
   "sourceUrl": "https://island.is/s/domstolar/domar",
-  "fetchedAt": "2026-11-23T19:37:58.469Z",
+  "fetchedAt": "2026-11-25T18:16:15.433Z",
   "items": [
+    {
+      "id": "https://island.is/domar/s-B8E44A7F-CB6D-4CA9-8F77-22E0FA00EBA2",
+      "caseNumber": "16/2026",
+      "category": "domur",
+      "type": "Dómur/úrskurður",
+      "source": "Hæstiréttur",
+      "publishedAt": "2026-11-25T13:25:00.000Z",
+      "title": "16/2026 · Hæstiréttur",
+      "summary": "Þ höfðaði mál á hendur M og krafðist viðurkenningar á skaðabótaskyldu M vegna ólögmætrar skerðingar sveitarfélagsins á eignarréttindum hans. Var sú krafa reist á tvíþættum grunni. Annars vegar vegna hagnýtingar M á grunnvatni úr…",
+      "tags": "vatnsvernd Eignarréttur Kvöð Sérstök sameign Skaðabótamál Vatnsréttindi Viðurkenningarkrafa Kröfugerð Endurgjald Frávísun frá héraðsdómi að hluta Aðfinnslur",
+      "url": "https://island.is/domar/s-B8E44A7F-CB6D-4CA9-8F77-22E0FA00EBA2",
+      "relevant": true,
+      "court": "Hæstiréttur",
+      "parties": "Þórarinn Jónasson (Gunnar Ingi Jóhannsson lögmaður) gegn Mosfellsbæ (Guðjón Ármannsson lögmaður)",
+      "courtKeywords": "Eignarréttur Kvöð Sérstök sameign Skaðabótamál Vatnsréttindi Viðurkenningarkrafa Kröfugerð Endurgjald Frávísun frá héraðsdómi að hluta Aðfinnslur"
+    },
     {
       "id": "https://island.is/domar/g-972b0d6d-8d02-4f94-9b98-74d31ca76600",
       "caseNumber": "908/2026",
