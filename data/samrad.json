@@ -1,7 +1,7 @@
 {
   "source": "Samráðsgátt",
   "sourceUrl": "https://island.is/samradsgatt/api/rss",
-  "fetchedAt": "2026-11-24T19:11:06.126Z",
+  "fetchedAt": "2026-11-26T17:57:32.884Z",
   "items": [
     {
       "id": "https://island.is/samradsgatt/mal/4388",
@@ -495,6 +495,23 @@
       "status": "Niðurstöður í vinnslu",
       "institution": "Atvinnuvegaráðuneytið",
       "policyArea": "Sjávarútvegur og fiskeldi"
+    },
+    {
+      "id": "https://island.is/samradsgatt/mal/4123",
+      "caseNumber": "238/2025",
+      "category": "samrad",
+      "type": "Til samráðs",
+      "source": "Samráðsgátt",
+      "publishedAt": "2025-12-04T00:00:00.000Z",
+      "deadline": "2026-01-16T23:59:59.000Z",
+      "title": "Ný reglugerð um meðhöndlun seyru",
+      "summary": "Umhverfis-, orku- og loftslagsráðuneytið kynnir til samráðs drög að nýrri reglugerð um meðhöndlun seyru, í stað núgildandi reglugerðar um sama efni nr. 799/1999.",
+      "tags": "fráveita loftslagsmál fráveita",
+      "url": "https://island.is/samradsgatt/mal/4123",
+      "relevant": true,
+      "status": "Niðurstöður í vinnslu",
+      "institution": "Umhverfis-, orku- og loftslagsráðuneytið",
+      "policyArea": "Umhverfismál"
     },
     {
       "id": "https://island.is/samradsgatt/mal/4121",
