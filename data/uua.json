@@ -1,8 +1,20 @@
 {
   "source": "UUA",
   "sourceUrl": "https://uua.is/feed/",
-  "fetchedAt": "2026-11-23T19:37:44.722Z",
+  "fetchedAt": "2026-11-27T17:42:42.668Z",
   "items": [
+    {
+      "id": "https://uua.is/urleits/uua2611019-reykjalundur/",
+      "caseNumber": "UUA2611019",
+      "category": "urskurdur",
+      "type": "Úrskurður",
+      "source": "UUA",
+      "publishedAt": "2026-11-26T18:00:01.000Z",
+      "title": "UUA2611019 Reykjalundur",
+      "summary": "Mál nr. UUA2611019, kæra á ákvörðun sveitarstjórnar Grímsnes- og Grafningshrepps frá 4. nóvember 2026 um að samþykkja tillögu að deiliskipulagi fyrir landbúnaðarsvæði á jörðinni Reykjalundi.",
+      "tags": "umhverfisréttur úrskurður deiliskipulag landnotkun mannvirki mengunarvarnir",
+      "url": "https://uua.is/urleits/uua2611019-reykjalundur/"
+    },
     {
       "id": "https://uua.is/urleits/uua2608005-ytri-holmur-2/",
       "caseNumber": "UUA2608005",
@@ -688,18 +700,6 @@
       "url": "https://uua.is/urleits/11276/"
     },
     {
-      "id": "https://uua.is/urleits/uua2601008-bragagata/",
-      "caseNumber": "UUA2601008",
-      "category": "urskurdur",
-      "type": "Úrskurður",
-      "source": "UUA",
-      "publishedAt": "2026-09-02T18:00:20.000Z",
-      "title": "UUA2601008 Bragagata",
-      "summary": "mál nr. UUA2601008, kæra á ákvörðun byggingarfulltrúans í Reykjavík frá 2. desember 2025 um að samþykkja umsókn um byggingarleyfi fyrir áðurgerðum breytingum á einbýlishúsi á lóð nr. 26a við Bragagötu.",
-      "tags": "umhverfisréttur úrskurður byggingarleyfi deiliskipulag grenndarkynning landnotkun mannvirki stöðvun framkvæmda kæruheimild",
-      "url": "https://uua.is/urleits/uua2601008-bragagata/"
-    },
-    {
       "id": "https://uua.is/urleits/11277/",
       "caseNumber": "UUA2607003",
       "category": "urskurdur",
@@ -710,6 +710,18 @@
       "summary": "mál nr. UUA2607003, kæra á ákvörðun byggingarfulltrúans í Reykjavík frá 24. júní 2026 um að synja beiðni um beitingu þvingunarúrræða vegna hjólageymslu við mörk lóðar Laugavegs 178.",
       "tags": "umhverfisréttur úrskurður byggingarleyfi mannvirki þvingunarúrræði kæruheimild",
       "url": "https://uua.is/urleits/11277/"
+    },
+    {
+      "id": "https://uua.is/urleits/uua2601008-bragagata/",
+      "caseNumber": "UUA2601008",
+      "category": "urskurdur",
+      "type": "Úrskurður",
+      "source": "UUA",
+      "publishedAt": "2026-09-02T18:00:20.000Z",
+      "title": "UUA2601008 Bragagata",
+      "summary": "mál nr. UUA2601008, kæra á ákvörðun byggingarfulltrúans í Reykjavík frá 2. desember 2025 um að samþykkja umsókn um byggingarleyfi fyrir áðurgerðum breytingum á einbýlishúsi á lóð nr. 26a við Bragagötu.",
+      "tags": "umhverfisréttur úrskurður byggingarleyfi deiliskipulag grenndarkynning landnotkun mannvirki stöðvun framkvæmda kæruheimild",
+      "url": "https://uua.is/urleits/uua2601008-bragagata/"
     },
     {
       "id": "https://uua.is/urleits/uua2606010-sjokviaeldi-i-arnarfirdi/",
@@ -1178,18 +1190,6 @@
       "summary": "mál nr. UUA2601003, kæra á ákvörðun Húsnæðis- og mannvirkja­stofnunar frá 5. desember 2025 um að neita að viðurkenna öryggisstjórnunarkerfi kæranda fyrir sólarorkuver að Silfratjörn í Reykjavík.",
       "tags": "umhverfisréttur úrskurður mannvirki starfsleyfi orkumál kæruheimild",
       "url": "https://uua.is/urleits/uua2601003-oryggisstjornunarkerfi/"
-    },
-    {
-      "id": "https://uua.is/urleits/uua2602020-heitloftsthurrkun-a-laugum/",
-      "caseNumber": "UUA2602020",
-      "category": "urskurdur",
-      "type": "Úrskurður",
-      "source": "UUA",
-      "publishedAt": "2026-06-01T18:00:21.000Z",
-      "title": "UUA2602020 Heitloftsþurrkun á Laugum",
-      "summary": "mál nr. UUA2602020, kæra á ákvörðun Heilbrigðiseftirlits Norðurlands eystra frá 12. janúar 2026 um að gefa út starfsleyfi fyrir heitloftsþurrkun fiskafurða að Laugum í Reykjadal í Þingeyjarsveit.",
-      "tags": "umhverfisréttur úrskurður hollustuhættir mengunarvarnir starfsleyfi úrgangur kæruheimild",
-      "url": "https://uua.is/urleits/uua2602020-heitloftsthurrkun-a-laugum/"
     }
   ]
 }
